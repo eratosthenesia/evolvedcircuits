@@ -1,0 +1,1861 @@
+(Mon Apr  3 22:34:49 2017) >>>> Eve(0)-0.0's result is 1.71118223739e-28
+(Mon Apr  3 22:34:49 2017) >>>> Eve(0)-0.0's result is 0
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-1.0's result is 0
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-1.1's result is 0
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-1.2's result is 8.52574824291e-29
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-1.2's result is 0
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-2.0's result is 9.9988294341e-15
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-2.0's result is 0
+(Mon Apr  3 22:34:50 2017) >>>> Eve(0)-3.0's result is 0
+(Mon Apr  3 22:34:52 2017) >>>> Eve(0)-3.1's result is 0
+(Mon Apr  3 22:34:52 2017) >>>> Eve(0)-3.2's result is 2.44166338691e-28
+(Mon Apr  3 22:34:52 2017) >>>> Eve(0)-3.2's result is 0
+(Mon Apr  3 22:34:53 2017) >>>> Eve(0)-4.0's result is 0
+(Mon Apr  3 22:34:53 2017) >>>> Eve(0)-4.1's result is 0
+(Mon Apr  3 22:34:53 2017) >>>> Eve(0)-4.2's result is 0
+(Mon Apr  3 22:34:53 2017) >>>> Eve(0)-4.3's result is 0
+(Mon Apr  3 22:34:54 2017) >>>> Eve(0)-4.4's result is 0
+(Mon Apr  3 22:34:54 2017) >>>> Eve(0)-4.5's result is 0
+(Mon Apr  3 22:34:54 2017) >>>> Eve(0)-4.6's result is 0
+(Mon Apr  3 22:34:54 2017) >>>> Eve(0)-4.7's result is 2.37021784743e-15
+(Mon Apr  3 22:34:54 2017) >>>> Eve(0)-4.7's result is 0
+(Mon Apr  3 22:34:55 2017) >>>> Eve(0)-5.0's result is 8.58687069552e-29
+(Mon Apr  3 22:34:55 2017) >>>> Eve(0)-5.0's result is 0
+(Mon Apr  3 22:34:55 2017) >>>> Eve(0)-6.0's result is 6.78604027014e-05
+(Mon Apr  3 22:34:55 2017) >>>> Eve(0)-6.0's result is 0
+(Mon Apr  3 22:34:56 2017) >>>> Eve(0)-7.0's result is 2.09609598252e-15
+(Mon Apr  3 22:34:56 2017) >>>> Eve(0)-7.0's result is 0
+(Mon Apr  3 22:34:57 2017) >>>> Eve(0)-8.0's result is 0
+(Mon Apr  3 22:34:57 2017) >>>> Eve(0)-8.1's result is 1.30235581059e-28
+(Mon Apr  3 22:34:57 2017) >>>> Eve(0)-8.1's result is 0
+(Mon Apr  3 22:34:57 2017) >>>> Eve(0)-9.0's result is 0
+(Mon Apr  3 22:34:57 2017) >>>> Eve(0)-9.1's result is 0
+(Mon Apr  3 22:34:58 2017) >>>> Eve(0)-9.2's result is 0
+(Mon Apr  3 22:34:58 2017) >>>> Eve(0)-9.3's result is 0
+(Mon Apr  3 22:34:59 2017) >>>> Eve(0)-9.4's result is 0
+(Mon Apr  3 22:34:59 2017) >>>> Eve(0)-9.5's result is 0
+(Mon Apr  3 22:34:59 2017) >>>> Eve(0)-9.6's result is 0
+(Mon Apr  3 22:35:00 2017) >>>> Eve(0)-9.7's result is 0
+(Mon Apr  3 22:35:01 2017) >>>> Eve(0)-9.8's result is 0
+(Mon Apr  3 22:35:01 2017) >>>> Eve(0)-9.9's result is 0
+(Mon Apr  3 22:35:01 2017) >>>> Eve(0)-9.10's result is 0
+(Mon Apr  3 22:35:01 2017) >>>> Eve(0)-9.11's result is 0
+(Mon Apr  3 22:35:02 2017) >>>> Eve(0)-9.12's result is 2.18036890659e-15
+(Mon Apr  3 22:35:02 2017) >>>> Eve(0)-9.12's result is 0
+(Mon Apr  3 22:35:02 2017) >>>> Eve(0)-10.0's result is 1.83537962026e-28
+(Mon Apr  3 22:35:02 2017) >>>> Eve(0)-10.0's result is 0
+(Mon Apr  3 22:35:03 2017) >>>> Eve(0)-11.0's result is 0
+(Mon Apr  3 22:35:04 2017) >>>> Eve(0)-11.1's result is 0
+(Mon Apr  3 22:35:04 2017) >>>> Eve(0)-11.2's result is 0
+(Mon Apr  3 22:35:04 2017) >>>> Eve(0)-11.3's result is 2.54992490347e-15
+(Mon Apr  3 22:35:04 2017) >>>> Eve(0)-11.3's result is 0
+(Mon Apr  3 22:35:05 2017) >>>> Eve(0)-12.0's result is 0
+(Mon Apr  3 22:35:05 2017) >>>> Eve(0)-12.1's result is 0
+(Mon Apr  3 22:35:05 2017) >>>> Eve(0)-12.2's result is 0
+(Mon Apr  3 22:35:06 2017) >>>> Eve(0)-12.3's result is 0
+(Mon Apr  3 22:35:06 2017) >>>> Eve(0)-12.4's result is 0
+(Mon Apr  3 22:35:06 2017) >>>> Eve(0)-12.5's result is 0
+(Mon Apr  3 22:35:06 2017) >>>> Eve(0)-12.6's result is 0
+(Mon Apr  3 22:35:07 2017) >>>> Eve(0)-12.7's result is 0
+(Mon Apr  3 22:35:07 2017) >>>> Eve(0)-12.8's result is 0
+(Mon Apr  3 22:35:07 2017) >>>> Eve(0)-12.9's result is 0
+(Mon Apr  3 22:35:08 2017) >>>> Eve(0)-12.10's result is 0
+(Mon Apr  3 22:35:09 2017) >>>> Eve(0)-12.11's result is 6.68391312223e-05
+(Mon Apr  3 22:35:09 2017) >>>> Eve(0)-12.11's result is 0
+(Mon Apr  3 22:35:09 2017) >>>> Eve(0)-13.0's result is 0
+(Mon Apr  3 22:35:10 2017) >>>> Eve(0)-13.1's result is 1.43291618279e-28
+(Mon Apr  3 22:35:10 2017) >>>> Eve(0)-13.1's result is 0
+(Mon Apr  3 22:35:10 2017) >>>> Eve(0)-14.0's result is 1.59259369297e-28
+(Mon Apr  3 22:35:10 2017) >>>> Eve(0)-14.0's result is 0
+(Mon Apr  3 22:35:10 2017) >>>> Eve(0)-15.0's result is 0
+(Mon Apr  3 22:35:11 2017) >>>> Eve(0)-15.1's result is 1.2435068032e-15
+(Mon Apr  3 22:35:11 2017) >>>> Eve(0)-15.1's result is 0
+(Mon Apr  3 22:35:11 2017) >>>> Eve(0)-16.0's result is 0
+(Mon Apr  3 22:35:11 2017) >>>> Eve(0)-16.1's result is 0
+(Mon Apr  3 22:35:12 2017) >>>> Eve(0)-16.2's result is 7.52078002502e-05
+(Mon Apr  3 22:35:12 2017) >>>> Eve(0)-16.2's result is 0
+(Mon Apr  3 22:35:12 2017) >>>> Eve(0)-17.0's result is 3.24840156068e-28
+(Mon Apr  3 22:35:12 2017) >>>> Eve(0)-17.0's result is 0
+(Mon Apr  3 22:35:13 2017) >>>> Eve(0)-18.0's result is 5.67957243042e-05
+(Mon Apr  3 22:35:13 2017) >>>> Eve(0)-18.0's result is 0
+(Mon Apr  3 22:35:13 2017) >>>> Eve(0)-19.0's result is 0
+(Mon Apr  3 22:35:13 2017) >>>> Eve(0)-19.1's result is 0
+(Mon Apr  3 22:35:14 2017) >>>> Eve(0)-19.2's result is 2.99581404863e-28
+(Mon Apr  3 22:35:14 2017) >>>> Eve(0)-19.2's result is 0
+(Mon Apr  3 22:35:14 2017) >>>> Eve(0)-20.0's result is 0
+(Mon Apr  3 22:35:14 2017) >>>> Eve(0)-20.1's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-20.2's result is 1.60205855499e-28
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-20.2's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-21.0's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-21.1's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-21.2's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-21.3's result is 0
+(Mon Apr  3 22:35:15 2017) >>>> Eve(0)-21.4's result is 0
+(Mon Apr  3 22:35:16 2017) >>>> Eve(0)-21.5's result is 7.51290262613e-05
+(Mon Apr  3 22:35:16 2017) >>>> Eve(0)-21.5's result is 0
+(Mon Apr  3 22:35:17 2017) >>>> Eve(0)-22.0's result is 2.57346498652e-28
+(Mon Apr  3 22:35:17 2017) >>>> Eve(0)-22.0's result is 0
+(Mon Apr  3 22:35:17 2017) >>>> Eve(0)-23.0's result is 0
+(Mon Apr  3 22:35:18 2017) >>>> Eve(0)-23.1's result is 2.07968784218e-28
+(Mon Apr  3 22:35:18 2017) >>>> Eve(0)-23.1's result is 0
+(Mon Apr  3 22:35:18 2017) >>>> Eve(0)-24.0's result is 0
+(Mon Apr  3 22:35:19 2017) >>>> Eve(0)-24.1's result is 0
+(Mon Apr  3 22:35:20 2017) >>>> Eve(0)-24.2's result is 0
+(Mon Apr  3 22:35:20 2017) >>>> Eve(0)-24.3's result is 0
+(Mon Apr  3 22:35:20 2017) >>>> Eve(0)-24.4's result is 0
+(Mon Apr  3 22:35:20 2017) >>>> Eve(0)-24.5's result is 0
+(Mon Apr  3 22:35:21 2017) >>>> Eve(0)-24.6's result is 0
+(Mon Apr  3 22:35:22 2017) >>>> Eve(0)-24.7's result is 6.7415780488e-05
+(Mon Apr  3 22:35:22 2017) >>>> Eve(0)-24.7's result is 0
+(Mon Apr  3 22:35:23 2017) >>>> Eve(0)-25.0's result is 6.17386672293e-16
+(Mon Apr  3 22:35:23 2017) >>>> Eve(0)-25.0's result is 0
+(Mon Apr  3 22:35:24 2017) >>>> Eve(0)-26.0's result is 0
+(Mon Apr  3 22:35:24 2017) >>>> Eve(0)-26.1's result is 1.40243183446e-15
+(Mon Apr  3 22:35:24 2017) >>>> Eve(0)-26.1's result is 0
+(Mon Apr  3 22:35:24 2017) >>>> Eve(0)-27.0's result is 0
+(Mon Apr  3 22:35:25 2017) >>>> Eve(0)-27.1's result is 3.19880159622e-28
+(Mon Apr  3 22:35:25 2017) >>>> Eve(0)-27.1's result is 0
+(Mon Apr  3 22:35:25 2017) >>>> Eve(0)-28.0's result is 0
+(Mon Apr  3 22:35:26 2017) >>>> Eve(0)-28.1's result is 0
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-28.2's result is 6.5999258838e-05
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-28.2's result is 0
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-29.0's result is 0
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-29.1's result is 0
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-29.2's result is 0
+(Mon Apr  3 22:35:27 2017) >>>> Eve(0)-29.3's result is 0
+(Mon Apr  3 22:35:28 2017) >>>> Eve(0)-29.4's result is 0
+(Mon Apr  3 22:35:28 2017) >>>> Eve(0)-29.5's result is 0
+(Mon Apr  3 22:35:29 2017) >>>> Eve(0)-29.6's result is 0
+(Mon Apr  3 22:35:29 2017) >>>> Eve(0)-29.7's result is 0
+(Mon Apr  3 22:35:29 2017) >>>> Eve(0)-29.8's result is 0
+(Mon Apr  3 22:35:29 2017) >>>> Eve(0)-29.9's result is 0
+(Mon Apr  3 22:35:30 2017) >>>> Eve(0)-29.10's result is 0
+(Mon Apr  3 22:35:30 2017) >>>> Eve(0)-29.11's result is 0
+(Mon Apr  3 22:35:30 2017) >>>> Eve(0)-29.12's result is 0
+(Mon Apr  3 22:35:31 2017) >>>> Eve(0)-29.13's result is 0
+(Mon Apr  3 22:35:31 2017) >>>> Eve(0)-29.14's result is 0
+(Mon Apr  3 22:35:32 2017) >>>> Eve(0)-29.15's result is 0
+(Mon Apr  3 22:35:32 2017) >>>> Eve(0)-29.16's result is 0
+(Mon Apr  3 22:35:32 2017) >>>> Eve(0)-29.17's result is 0
+(Mon Apr  3 22:35:33 2017) >>>> Eve(0)-29.18's result is 6.16341601167e-16
+(Mon Apr  3 22:35:33 2017) >>>> Eve(0)-29.18's result is 0
+(Mon Apr  3 22:35:34 2017) >>>> Eve(0)-30.0's result is 0
+(Mon Apr  3 22:35:34 2017) >>>> Eve(0)-30.1's result is 0
+(Mon Apr  3 22:35:34 2017) >>>> Eve(0)-30.2's result is 0
+(Mon Apr  3 22:35:34 2017) >>>> Eve(0)-30.3's result is 0
+(Mon Apr  3 22:35:34 2017) >>>> Eve(0)-30.4's result is 0
+(Mon Apr  3 22:35:36 2017) >>>> Eve(0)-30.5's result is 0
+(Mon Apr  3 22:35:36 2017) >>>> Eve(0)-30.6's result is 0
+(Mon Apr  3 22:35:37 2017) >>>> Eve(0)-30.7's result is 7.57377489228e-05
+(Mon Apr  3 22:35:37 2017) >>>> Eve(0)-30.7's result is 0
+(Mon Apr  3 22:35:37 2017) >>>> Eve(0)-31.0's result is 2.67463590541e-28
+(Mon Apr  3 22:35:37 2017) >>>> Eve(0)-31.0's result is 0
+(Mon Apr  3 22:35:37 2017) >>>> Eve(0)-32.0's result is 0
+(Mon Apr  3 22:35:38 2017) >>>> Eve(0)-32.1's result is 1.52108806075e-28
+(Mon Apr  3 22:35:38 2017) >>>> Eve(0)-32.1's result is 0
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-33.0's result is 2.35419768842e-28
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-33.0's result is 0
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-34.0's result is 0
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-34.1's result is 0
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-34.2's result is 7.97085095947e-29
+(Mon Apr  3 22:35:39 2017) >>>> Eve(0)-34.2's result is 0
+(Mon Apr  3 22:35:40 2017) >>>> Eve(0)-35.0's result is 9.52105956962e-16
+(Mon Apr  3 22:35:40 2017) >>>> Eve(0)-35.0's result is 0
+(Mon Apr  3 22:35:40 2017) >>>> Eve(0)-36.0's result is 0
+(Mon Apr  3 22:35:41 2017) >>>> Eve(0)-36.1's result is 1.56372583393e-15
+(Mon Apr  3 22:35:41 2017) >>>> Eve(0)-36.1's result is 0
+(Mon Apr  3 22:35:41 2017) >>>> Eve(0)-37.0's result is 0
+(Mon Apr  3 22:35:41 2017) >>>> Eve(0)-37.1's result is 0
+(Mon Apr  3 22:35:41 2017) >>>> Eve(0)-37.2's result is 0
+(Mon Apr  3 22:35:42 2017) >>>> Eve(0)-37.3's result is 0
+(Mon Apr  3 22:35:42 2017) >>>> Eve(0)-37.4's result is 0
+(Mon Apr  3 22:35:43 2017) >>>> Eve(0)-37.5's result is 0
+(Mon Apr  3 22:35:43 2017) >>>> Eve(0)-37.6's result is 6.79437462592e-05
+(Mon Apr  3 22:35:44 2017) >>>> Eve(0)-37.6's result is 0
+(Mon Apr  3 22:35:44 2017) >>>> Eve(0)-38.0's result is 9.17478893006e-29
+(Mon Apr  3 22:35:45 2017) >>>> Eve(0)-38.0's result is 0
+(Mon Apr  3 22:35:45 2017) >>>> Eve(0)-39.0's result is 0
+(Mon Apr  3 22:35:45 2017) >>>> Eve(0)-39.1's result is 0
+(Mon Apr  3 22:35:45 2017) >>>> Eve(0)-39.2's result is 0
+(Mon Apr  3 22:35:46 2017) >>>> Eve(0)-39.3's result is 0
+(Mon Apr  3 22:35:46 2017) >>>> Eve(0)-39.4's result is 0
+(Mon Apr  3 22:35:46 2017) >>>> Eve(0)-39.5's result is 0
+(Mon Apr  3 22:35:47 2017) >>>> Eve(0)-39.6's result is 1.07832235067e-28
+(Mon Apr  3 22:35:47 2017) >>>> Eve(0)-39.6's result is 0
+(Mon Apr  3 22:35:48 2017) >>>> Eve(0)-40.0's result is 0
+(Mon Apr  3 22:35:48 2017) >>>> Eve(0)-40.1's result is 0
+(Mon Apr  3 22:35:48 2017) >>>> Eve(0)-40.2's result is 0
+(Mon Apr  3 22:35:48 2017) >>>> Eve(0)-40.3's result is 0
+(Mon Apr  3 22:35:49 2017) >>>> Eve(0)-40.4's result is 0
+(Mon Apr  3 22:35:49 2017) >>>> Eve(0)-40.5's result is 0
+(Mon Apr  3 22:35:49 2017) >>>> Eve(0)-40.6's result is 0
+(Mon Apr  3 22:35:50 2017) >>>> Eve(0)-40.7's result is 0
+(Mon Apr  3 22:35:50 2017) >>>> Eve(0)-40.8's result is 0
+(Mon Apr  3 22:35:51 2017) >>>> Eve(0)-40.9's result is 0
+(Mon Apr  3 22:35:51 2017) >>>> Eve(0)-40.10's result is 0
+(Mon Apr  3 22:35:51 2017) >>>> Eve(0)-40.11's result is 0
+(Mon Apr  3 22:35:52 2017) >>>> Eve(0)-40.12's result is 4.8844423613e-29
+(Mon Apr  3 22:35:52 2017) >>>> Eve(0)-40.12's result is 0
+(Mon Apr  3 22:35:52 2017) >>>> Eve(0)-41.0's result is 0
+(Mon Apr  3 22:35:53 2017) >>>> Eve(0)-41.1's result is 0
+(Mon Apr  3 22:35:53 2017) >>>> Eve(0)-41.2's result is 0
+(Mon Apr  3 22:35:53 2017) >>>> Eve(0)-41.3's result is 0
+(Mon Apr  3 22:35:53 2017) >>>> Eve(0)-41.4's result is 0
+(Mon Apr  3 22:35:53 2017) >>>> Eve(0)-41.5's result is 0
+(Mon Apr  3 22:35:54 2017) >>>> Eve(0)-41.6's result is 6.4617284203e-05
+(Mon Apr  3 22:35:54 2017) >>>> Eve(0)-41.6's result is 0
+(Mon Apr  3 22:35:55 2017) >>>> Eve(0)-42.0's result is 0
+(Mon Apr  3 22:35:55 2017) >>>> Eve(0)-42.1's result is 0
+(Mon Apr  3 22:35:56 2017) >>>> Eve(0)-42.2's result is 7.31769646864e-05
+(Mon Apr  3 22:35:56 2017) >>>> Eve(0)-42.2's result is 0
+(Mon Apr  3 22:35:56 2017) >>>> Eve(0)-43.0's result is 0
+(Mon Apr  3 22:35:56 2017) >>>> Eve(0)-43.1's result is 0
+(Mon Apr  3 22:35:57 2017) >>>> Eve(0)-43.2's result is 1.13376193747e-28
+(Mon Apr  3 22:35:57 2017) >>>> Eve(0)-43.2's result is 0
+(Mon Apr  3 22:35:58 2017) >>>> Eve(0)-44.0's result is 7.52252956469e-05
+(Mon Apr  3 22:35:58 2017) >>>> Eve(0)-44.0's result is 0
+(Mon Apr  3 22:35:58 2017) >>>> Eve(0)-45.0's result is 0
+(Mon Apr  3 22:35:59 2017) >>>> Eve(0)-45.1's result is 0
+(Mon Apr  3 22:35:59 2017) >>>> Eve(0)-45.2's result is 0
+(Mon Apr  3 22:36:00 2017) >>>> Eve(0)-45.3's result is 6.77756866745e-05
+(Mon Apr  3 22:36:00 2017) >>>> Eve(0)-45.3's result is 0
+(Mon Apr  3 22:36:01 2017) >>>> Eve(0)-46.0's result is 6.64056511946e-05
+(Mon Apr  3 22:36:01 2017) >>>> Eve(0)-46.0's result is 0
+(Mon Apr  3 22:36:01 2017) >>>> Eve(0)-47.0's result is 0
+(Mon Apr  3 22:36:02 2017) >>>> Eve(0)-47.1's result is 0
+(Mon Apr  3 22:36:02 2017) >>>> Eve(0)-47.2's result is 0
+(Mon Apr  3 22:36:03 2017) >>>> Eve(0)-47.3's result is 7.50456030061e-05
+(Mon Apr  3 22:36:03 2017) >>>> Eve(0)-47.3's result is 0
+(Mon Apr  3 22:36:04 2017) >>>> Eve(0)-48.0's result is 2.44969883916e-16
+(Mon Apr  3 22:36:04 2017) >>>> Eve(0)-48.0's result is 0
+(Mon Apr  3 22:36:04 2017) >>>> Eve(0)-49.0's result is 0
+(Mon Apr  3 22:36:04 2017) >>>> Eve(0)-49.1's result is 9.02279292189e-16
+(Mon Apr  3 22:36:04 2017) >>>> Eve(0)-49.1's result is 0
+(Mon Apr  3 22:36:05 2017) >>>> Eve(0)-50.0's result is 6.71942097451e-05
+(Mon Apr  3 22:36:05 2017) >>>> Eve(0)-50.0's result is 0
+(Mon Apr  3 22:36:05 2017) >>>> Eve(0)-51.0's result is 0
+(Mon Apr  3 22:36:05 2017) >>>> Eve(0)-51.1's result is 0
+(Mon Apr  3 22:36:06 2017) >>>> Eve(0)-51.2's result is 2.4907798944e-28
+(Mon Apr  3 22:36:06 2017) >>>> Eve(0)-51.2's result is 0
+(Mon Apr  3 22:36:07 2017) >>>> Eve(0)-52.0's result is 0
+(Mon Apr  3 22:36:07 2017) >>>> Eve(0)-52.1's result is 0
+(Mon Apr  3 22:36:07 2017) >>>> Eve(0)-52.2's result is 0
+(Mon Apr  3 22:36:07 2017) >>>> Eve(0)-52.3's result is 0
+(Mon Apr  3 22:36:07 2017) >>>> Eve(0)-52.4's result is 0
+(Mon Apr  3 22:36:08 2017) >>>> Eve(0)-52.5's result is 1.63799967422e-28
+(Mon Apr  3 22:36:08 2017) >>>> Eve(0)-52.5's result is 0
+(Mon Apr  3 22:36:09 2017) >>>> Eve(0)-53.0's result is 0
+(Mon Apr  3 22:36:09 2017) >>>> Eve(0)-53.1's result is 0
+(Mon Apr  3 22:36:09 2017) >>>> Eve(0)-53.2's result is 0
+(Mon Apr  3 22:36:10 2017) >>>> Eve(0)-53.3's result is 6.60570681722e-05
+(Mon Apr  3 22:36:10 2017) >>>> Eve(0)-53.3's result is 0
+(Mon Apr  3 22:36:11 2017) >>>> Eve(0)-54.0's result is 0
+(Mon Apr  3 22:36:12 2017) >>>> Eve(0)-54.1's result is 0
+(Mon Apr  3 22:36:13 2017) >>>> Eve(0)-54.2's result is 0
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-54.3's result is 1.70460746002e-28
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-54.3's result is 0
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-55.0's result is 0
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-55.1's result is 0
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-55.2's result is 0
+(Mon Apr  3 22:36:14 2017) >>>> Eve(0)-55.3's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-55.4's result is 8.05035095061e-29
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-55.4's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.0's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.1's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.2's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.3's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.4's result is 0
+(Mon Apr  3 22:36:15 2017) >>>> Eve(0)-56.5's result is 0
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-56.6's result is 2.61388560105e-14
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-56.6's result is 0
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-57.0's result is 0
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-57.1's result is 0
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-57.2's result is 0
+(Mon Apr  3 22:36:16 2017) >>>> Eve(0)-57.3's result is 0
+(Mon Apr  3 22:36:17 2017) >>>> Eve(0)-57.4's result is 5.45572739405e-05
+(Mon Apr  3 22:36:17 2017) >>>> Eve(0)-57.4's result is 0
+(Mon Apr  3 22:36:17 2017) >>>> Eve(0)-58.0's result is 0
+(Mon Apr  3 22:36:17 2017) >>>> Eve(0)-58.1's result is 0
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-58.2's result is 8.2370988662e-15
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-58.2's result is 0
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-59.0's result is 0
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-59.1's result is 0
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-59.2's result is 0
+(Mon Apr  3 22:36:18 2017) >>>> Eve(0)-59.3's result is 0
+(Mon Apr  3 22:36:19 2017) >>>> Eve(0)-59.4's result is 0
+(Mon Apr  3 22:36:19 2017) >>>> Eve(0)-59.5's result is 0
+(Mon Apr  3 22:36:19 2017) >>>> Eve(0)-59.6's result is 0
+(Mon Apr  3 22:36:19 2017) >>>> Eve(0)-59.7's result is 0
+(Mon Apr  3 22:36:19 2017) >>>> Eve(0)-59.8's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-59.9's result is 7.61527063255e-29
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-59.9's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-60.0's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-60.1's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-60.2's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-60.3's result is 0
+(Mon Apr  3 22:36:20 2017) >>>> Eve(0)-60.4's result is 0
+(Mon Apr  3 22:36:21 2017) >>>> Eve(0)-60.5's result is 0
+(Mon Apr  3 22:36:21 2017) >>>> Eve(0)-60.6's result is 0
+(Mon Apr  3 22:36:21 2017) >>>> Eve(0)-60.7's result is 0
+(Mon Apr  3 22:36:21 2017) >>>> Eve(0)-60.8's result is 0
+(Mon Apr  3 22:36:22 2017) >>>> Eve(0)-60.9's result is 0
+(Mon Apr  3 22:36:23 2017) >>>> Eve(0)-60.10's result is 0
+(Mon Apr  3 22:36:24 2017) >>>> Eve(0)-60.11's result is 0
+(Mon Apr  3 22:36:24 2017) >>>> Eve(0)-60.12's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.13's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.14's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.15's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.16's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.17's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.18's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.19's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.20's result is 0
+(Mon Apr  3 22:36:25 2017) >>>> Eve(0)-60.21's result is 0
+(Mon Apr  3 22:36:26 2017) >>>> Eve(0)-60.22's result is 7.48593174884e-05
+(Mon Apr  3 22:36:26 2017) >>>> Eve(0)-60.22's result is 0
+(Mon Apr  3 22:36:27 2017) >>>> Eve(0)-61.0's result is 3.00470793555e-28
+(Mon Apr  3 22:36:27 2017) >>>> Eve(0)-61.0's result is 0
+(Mon Apr  3 22:36:28 2017) >>>> Eve(0)-62.0's result is 0
+(Mon Apr  3 22:36:28 2017) >>>> Eve(0)-62.1's result is 4.8035346463e-15
+(Mon Apr  3 22:36:28 2017) >>>> Eve(0)-62.1's result is 0
+(Mon Apr  3 22:36:28 2017) >>>> Eve(0)-63.0's result is 0
+(Mon Apr  3 22:36:29 2017) >>>> Eve(0)-63.1's result is 9.34226166329e-16
+(Mon Apr  3 22:36:29 2017) >>>> Eve(0)-63.1's result is 0
+(Mon Apr  3 22:36:29 2017) >>>> Eve(0)-64.0's result is 0
+(Mon Apr  3 22:36:29 2017) >>>> Eve(0)-64.1's result is 0
+(Mon Apr  3 22:36:29 2017) >>>> Eve(0)-64.2's result is 0
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-64.3's result is 7.97252251181e-29
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-64.3's result is 0
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-65.0's result is 0
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-65.1's result is 0
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-65.2's result is 0
+(Mon Apr  3 22:36:30 2017) >>>> Eve(0)-65.3's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.4's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.5's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.6's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.7's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.8's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.9's result is 0
+(Mon Apr  3 22:36:31 2017) >>>> Eve(0)-65.10's result is 0
+(Mon Apr  3 22:36:32 2017) >>>> Eve(0)-65.11's result is 0
+(Mon Apr  3 22:36:33 2017) >>>> Eve(0)-65.12's result is 0
+(Mon Apr  3 22:36:33 2017) >>>> Eve(0)-65.13's result is 0
+(Mon Apr  3 22:36:34 2017) >>>> Eve(0)-65.14's result is 0
+(Mon Apr  3 22:36:35 2017) >>>> Eve(0)-65.15's result is 4.45201381052e-28
+(Mon Apr  3 22:36:35 2017) >>>> Eve(0)-65.15's result is 0
+(Mon Apr  3 22:36:35 2017) >>>> Eve(0)-66.0's result is 0
+(Mon Apr  3 22:36:36 2017) >>>> Eve(0)-66.1's result is 0
+(Mon Apr  3 22:36:36 2017) >>>> Eve(0)-66.2's result is 9.8518805134e-15
+(Mon Apr  3 22:36:36 2017) >>>> Eve(0)-66.2's result is 0
+(Mon Apr  3 22:36:37 2017) >>>> Eve(0)-67.0's result is 7.53975045724e-05
+(Mon Apr  3 22:36:37 2017) >>>> Eve(0)-67.0's result is 0
+(Mon Apr  3 22:36:37 2017) >>>> Eve(0)-68.0's result is 1.7202025228e-28
+(Mon Apr  3 22:36:37 2017) >>>> Eve(0)-68.0's result is 0
+(Mon Apr  3 22:36:37 2017) >>>> Eve(0)-69.0's result is 0
+(Mon Apr  3 22:36:38 2017) >>>> Eve(0)-69.1's result is 1.63802250778e-28
+(Mon Apr  3 22:36:38 2017) >>>> Eve(0)-69.1's result is 0
+(Mon Apr  3 22:36:38 2017) >>>> Eve(0)-70.0's result is 0
+(Mon Apr  3 22:36:39 2017) >>>> Eve(0)-70.1's result is 4.92122743993e-28
+(Mon Apr  3 22:36:39 2017) >>>> Eve(0)-70.1's result is 0
+(Mon Apr  3 22:36:39 2017) >>>> Eve(0)-71.0's result is 9.79989194873e-29
+(Mon Apr  3 22:36:39 2017) >>>> Eve(0)-71.0's result is 0
+(Mon Apr  3 22:36:40 2017) >>>> Eve(0)-72.0's result is 0
+(Mon Apr  3 22:36:40 2017) >>>> Eve(0)-72.1's result is 0
+(Mon Apr  3 22:36:40 2017) >>>> Eve(0)-72.2's result is 0
+(Mon Apr  3 22:36:40 2017) >>>> Eve(0)-72.3's result is 0
+(Mon Apr  3 22:36:41 2017) >>>> Eve(0)-72.4's result is 0
+(Mon Apr  3 22:36:42 2017) >>>> Eve(0)-72.5's result is 0
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-72.6's result is 0
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-72.7's result is 0
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-72.8's result is 0
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-72.9's result is 5.44989914716e-05
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-72.9's result is 0
+(Mon Apr  3 22:36:43 2017) >>>> Eve(0)-73.0's result is 0
+(Mon Apr  3 22:36:44 2017) >>>> Eve(0)-73.1's result is 0
+(Mon Apr  3 22:36:45 2017) >>>> Eve(0)-73.2's result is 7.52958910206e-05
+(Mon Apr  3 22:36:45 2017) >>>> Eve(0)-73.2's result is 0
+(Mon Apr  3 22:36:46 2017) >>>> Eve(0)-74.0's result is 2.25216427202e-28
+(Mon Apr  3 22:36:46 2017) >>>> Eve(0)-74.0's result is 0
+(Mon Apr  3 22:36:46 2017) >>>> Eve(0)-75.0's result is 5.51079483258e-15
+(Mon Apr  3 22:36:46 2017) >>>> Eve(0)-75.0's result is 0
+(Mon Apr  3 22:36:46 2017) >>>> Eve(0)-76.0's result is 0
+(Mon Apr  3 22:36:47 2017) >>>> Eve(0)-76.1's result is 0
+(Mon Apr  3 22:36:47 2017) >>>> Eve(0)-76.2's result is 7.4610966469e-05
+(Mon Apr  3 22:36:48 2017) >>>> Eve(0)-76.2's result is 0
+(Mon Apr  3 22:36:48 2017) >>>> Eve(0)-77.0's result is 0
+(Mon Apr  3 22:36:48 2017) >>>> Eve(0)-77.1's result is 0
+(Mon Apr  3 22:36:49 2017) >>>> Eve(0)-77.2's result is 0
+(Mon Apr  3 22:36:49 2017) >>>> Eve(0)-77.3's result is 0
+(Mon Apr  3 22:36:49 2017) >>>> Eve(0)-77.4's result is 0
+(Mon Apr  3 22:36:49 2017) >>>> Eve(0)-77.5's result is 0
+(Mon Apr  3 22:36:49 2017) >>>> Eve(0)-77.6's result is 0
+(Mon Apr  3 22:36:50 2017) >>>> Eve(0)-77.7's result is 1.18768790094e-28
+(Mon Apr  3 22:36:50 2017) >>>> Eve(0)-77.7's result is 0
+(Mon Apr  3 22:36:50 2017) >>>> Eve(0)-78.0's result is 0
+(Mon Apr  3 22:36:50 2017) >>>> Eve(0)-78.1's result is 0
+(Mon Apr  3 22:36:51 2017) >>>> Eve(0)-78.2's result is 2.46385886768e-28
+(Mon Apr  3 22:36:51 2017) >>>> Eve(0)-78.2's result is 0
+(Mon Apr  3 22:36:51 2017) >>>> Eve(0)-79.0's result is 0
+(Mon Apr  3 22:36:51 2017) >>>> Eve(0)-79.1's result is 0
+(Mon Apr  3 22:36:53 2017) >>>> Eve(0)-79.2's result is 0
+(Mon Apr  3 22:36:53 2017) >>>> Eve(0)-79.3's result is 0
+(Mon Apr  3 22:36:53 2017) >>>> Eve(0)-79.4's result is 0
+(Mon Apr  3 22:36:54 2017) >>>> Eve(0)-79.5's result is 2.74600860611e-28
+(Mon Apr  3 22:36:54 2017) >>>> Eve(0)-79.5's result is 0
+(Mon Apr  3 22:36:54 2017) >>>> Eve(0)-80.0's result is 0
+(Mon Apr  3 22:36:54 2017) >>>> Eve(0)-80.1's result is 0
+(Mon Apr  3 22:36:55 2017) >>>> Eve(0)-80.2's result is 0
+(Mon Apr  3 22:36:55 2017) >>>> Eve(0)-80.3's result is 6.74421216234e-29
+(Mon Apr  3 22:36:55 2017) >>>> Eve(0)-80.3's result is 0
+(Mon Apr  3 22:36:55 2017) >>>> Eve(0)-81.0's result is 0
+(Mon Apr  3 22:36:56 2017) >>>> Eve(0)-81.1's result is 5.23405452876e-05
+(Mon Apr  3 22:36:56 2017) >>>> Eve(0)-81.1's result is 0
+(Mon Apr  3 22:36:57 2017) >>>> Eve(0)-82.0's result is 7.48280742039e-05
+(Mon Apr  3 22:36:57 2017) >>>> Eve(0)-82.0's result is 0
+(Mon Apr  3 22:36:57 2017) >>>> Eve(0)-83.0's result is 0
+(Mon Apr  3 22:36:58 2017) >>>> Eve(0)-83.1's result is 1.84943922673e-16
+(Mon Apr  3 22:36:58 2017) >>>> Eve(0)-83.1's result is 0
+(Mon Apr  3 22:36:58 2017) >>>> Eve(0)-84.0's result is 0
+(Mon Apr  3 22:36:58 2017) >>>> Eve(0)-84.1's result is 7.30301697817e-29
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-84.1's result is 0
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-85.0's result is 6.52355380247e-16
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-85.0's result is 0
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-86.0's result is 0
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-86.1's result is 0
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-86.2's result is 0
+(Mon Apr  3 22:36:59 2017) >>>> Eve(0)-86.3's result is 0
+(Mon Apr  3 22:37:00 2017) >>>> Eve(0)-86.4's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.5's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.6's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.7's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.8's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.9's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.10's result is 0
+(Mon Apr  3 22:37:01 2017) >>>> Eve(0)-86.11's result is 0
+(Mon Apr  3 22:37:02 2017) >>>> Eve(0)-86.12's result is 8.07858239031e-29
+(Mon Apr  3 22:37:02 2017) >>>> Eve(0)-86.12's result is 0
+(Mon Apr  3 22:37:02 2017) >>>> Eve(0)-87.0's result is 0
+(Mon Apr  3 22:37:02 2017) >>>> Eve(0)-87.1's result is 2.37458021877e-28
+(Mon Apr  3 22:37:02 2017) >>>> Eve(0)-87.1's result is 0
+(Mon Apr  3 22:37:03 2017) >>>> Eve(0)-88.0's result is 0
+(Mon Apr  3 22:37:04 2017) >>>> Eve(0)-88.1's result is 0
+(Mon Apr  3 22:37:05 2017) >>>> Eve(0)-88.2's result is 7.52739726138e-05
+(Mon Apr  3 22:37:05 2017) >>>> Eve(0)-88.2's result is 0
+(Mon Apr  3 22:37:05 2017) >>>> Eve(0)-89.0's result is 0
+(Mon Apr  3 22:37:05 2017) >>>> Eve(0)-89.1's result is 1.20133523484e-15
+(Mon Apr  3 22:37:05 2017) >>>> Eve(0)-89.1's result is 0
+(Mon Apr  3 22:37:06 2017) >>>> Eve(0)-90.0's result is 6.65459574777e-05
+(Mon Apr  3 22:37:06 2017) >>>> Eve(0)-90.0's result is 0
+(Mon Apr  3 22:37:06 2017) >>>> Eve(0)-91.0's result is 4.29608498378e-29
+(Mon Apr  3 22:37:06 2017) >>>> Eve(0)-91.0's result is 0
+(Mon Apr  3 22:37:07 2017) >>>> Eve(0)-92.0's result is 5.127336738e-15
+(Mon Apr  3 22:37:07 2017) >>>> Eve(0)-92.0's result is 0
+(Mon Apr  3 22:37:07 2017) >>>> Eve(0)-93.0's result is 0
+(Mon Apr  3 22:37:07 2017) >>>> Eve(0)-93.1's result is 0
+(Mon Apr  3 22:37:08 2017) >>>> Eve(0)-93.2's result is 1.87375735288e-15
+(Mon Apr  3 22:37:08 2017) >>>> Eve(0)-93.2's result is 0
+(Mon Apr  3 22:37:08 2017) >>>> Eve(0)-94.0's result is 0
+(Mon Apr  3 22:37:09 2017) >>>> Eve(0)-94.1's result is 1.76322929462e-28
+(Mon Apr  3 22:37:09 2017) >>>> Eve(0)-94.1's result is 0
+(Mon Apr  3 22:37:09 2017) >>>> Eve(0)-95.0's result is 7.45538697705e-05
+(Mon Apr  3 22:37:09 2017) >>>> Eve(0)-95.0's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-96.0's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-96.1's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-96.2's result is 5.87920909516e-05
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-96.2's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-97.0's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-97.1's result is 0
+(Mon Apr  3 22:37:10 2017) >>>> Eve(0)-97.2's result is 0
+(Mon Apr  3 22:37:11 2017) >>>> Eve(0)-97.3's result is 7.4419970588e-05
+(Mon Apr  3 22:37:11 2017) >>>> Eve(0)-97.3's result is 0
+(Mon Apr  3 22:37:12 2017) >>>> Eve(0)-98.0's result is 3.95018103512e-28
+(Mon Apr  3 22:37:12 2017) >>>> Eve(0)-98.0's result is 0
+(Mon Apr  3 22:37:12 2017) >>>> Eve(0)-99.0's result is 0
+(Mon Apr  3 22:37:13 2017) >>>> Eve(0)-99.1's result is 3.25210658151e-16
+(Mon Apr  3 22:37:13 2017) >>>> Eve(0)-99.1's result is 0
+(Mon Apr  3 22:37:13 2017) >>>> Trying 86 and 83
+(Mon Apr  3 22:37:14 2017) >>>> Seth(1.0)-(Eve@86.12+Eve@83.1).0's result is 8.16268865939e-29
+(Mon Apr  3 22:37:14 2017) >>>> Replacing 13.
+(Mon Apr  3 22:37:14 2017) >>>> Max fitness: 8.16268865939e-29.
+(Mon Apr  3 22:37:14 2017) >>>> Trying 71 and 6
+(Mon Apr  3 22:37:15 2017) >>>> Seth(1.0)-(Eve@71.0+Eve@6.0).0's result is 0
+(Mon Apr  3 22:37:15 2017) >>>> Seth(1.0)-(Eve@71.0+Eve@6.0).0's result is 1.00293681477e-28
+(Mon Apr  3 22:37:15 2017) >>>> New address 100.
+(Mon Apr  3 22:37:15 2017) >>>> Max fitness: 1.00293681477e-28.
+(Mon Apr  3 22:37:15 2017) >>>> Trying 38 and 71
+(Mon Apr  3 22:37:15 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@71.0).0's result is 0
+(Mon Apr  3 22:37:15 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@71.0).0's result is 8.82064216418e-29
+(Mon Apr  3 22:37:15 2017) >>>> Replacing 26.
+(Mon Apr  3 22:37:15 2017) >>>> Max fitness: 1.00293681477e-28.
+(Mon Apr  3 22:37:15 2017) >>>> Trying 40 and 91
+(Mon Apr  3 22:37:16 2017) >>>> Seth(1.0)-(Eve@40.12+Eve@91.0).0's result is 4.54378088662e-29
+(Mon Apr  3 22:37:16 2017) >>>> New address 101.
+(Mon Apr  3 22:37:16 2017) >>>> Max fitness: 1.00293681477e-28.
+(Mon Apr  3 22:37:16 2017) >>>> Trying 101 and 8
+(Mon Apr  3 22:37:17 2017) >>>> Seth(1.5)-(Seth@101.0+Eve@8.1).0's result is 4.6175437632e-29
+(Mon Apr  3 22:37:17 2017) >>>> Replacing 1.
+(Mon Apr  3 22:37:17 2017) >>>> Max fitness: 1.00293681477e-28.
+(Mon Apr  3 22:37:17 2017) >>>> Trying 100 and 38
+(Mon Apr  3 22:37:17 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@38.0).0's result is 0
+(Mon Apr  3 22:37:17 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@38.0).0's result is 1.70449345809e-28
+(Mon Apr  3 22:37:17 2017) >>>> Replacing 25.
+(Mon Apr  3 22:37:17 2017) >>>> Max fitness: 1.70449345809e-28.
+(Mon Apr  3 22:37:17 2017) >>>> Trying 100 and 75
+(Mon Apr  3 22:37:18 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@75.0).0's result is 0
+(Mon Apr  3 22:37:18 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@75.0).0's result is 9.09519259166e-29
+(Mon Apr  3 22:37:18 2017) >>>> Replacing 58.
+(Mon Apr  3 22:37:18 2017) >>>> Max fitness: 1.70449345809e-28.
+(Mon Apr  3 22:37:18 2017) >>>> Trying 90 and 96
+(Mon Apr  3 22:37:18 2017) >>>> Seth(1.0)-(Eve@90.0+Eve@96.2).0's result is 0
+(Mon Apr  3 22:37:19 2017) >>>> Seth(1.0)-(Eve@90.0+Eve@96.2).0's result is 0
+(Mon Apr  3 22:37:19 2017) >>>> Seth(1.0)-(Eve@90.0+Eve@96.2).0's result is 6.63806518639e-05
+(Mon Apr  3 22:37:19 2017) >>>> New address 102.
+(Mon Apr  3 22:37:19 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:19 2017) >>>> Trying 100 and 27
+(Mon Apr  3 22:37:19 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@27.1).0's result is 0
+(Mon Apr  3 22:37:20 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@27.1).0's result is 0
+(Mon Apr  3 22:37:20 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@27.1).0's result is 0
+(Mon Apr  3 22:37:20 2017) >>>> Trying 58 and 27
+(Mon Apr  3 22:37:20 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@27.1).0's result is 0
+(Mon Apr  3 22:37:20 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@27.1).0's result is 0
+(Mon Apr  3 22:37:21 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@27.1).0's result is 2.39862841837e-28
+(Mon Apr  3 22:37:21 2017) >>>> Replacing 99.
+(Mon Apr  3 22:37:21 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:21 2017) >>>> Trying 38 and 54
+(Mon Apr  3 22:37:21 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@54.3).0's result is 0
+(Mon Apr  3 22:37:22 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@54.3).0's result is 0
+(Mon Apr  3 22:37:22 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@54.3).0's result is 0
+(Mon Apr  3 22:37:22 2017) >>>> Trying 40 and 16
+(Mon Apr  3 22:37:22 2017) >>>> Seth(1.0)-(Eve@40.12+Eve@16.2).0's result is 4.86886756247e-29
+(Mon Apr  3 22:37:22 2017) >>>> Replacing 18.
+(Mon Apr  3 22:37:22 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:22 2017) >>>> Trying 18 and 14
+(Mon Apr  3 22:37:23 2017) >>>> Seth(1.5)-(Seth@18.3+Eve@14.0).0's result is 8.63032492453e-29
+(Mon Apr  3 22:37:23 2017) >>>> Replacing 89.
+(Mon Apr  3 22:37:23 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:23 2017) >>>> Trying 101 and 8
+(Mon Apr  3 22:37:23 2017) >>>> Seth(1.5)-(Seth@101.0+Eve@8.1).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.5)-(Seth@101.0+Eve@8.1).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.5)-(Seth@101.0+Eve@8.1).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Trying 1 and 91
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.75)-(Seth@1.0+Eve@91.0).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.75)-(Seth@1.0+Eve@91.0).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.75)-(Seth@1.0+Eve@91.0).0's result is 0
+(Mon Apr  3 22:37:24 2017) >>>> Trying 99 and 6
+(Mon Apr  3 22:37:24 2017) >>>> Seth(1.875)-(Seth@99.5+Eve@6.0).0's result is 0
+(Mon Apr  3 22:37:25 2017) >>>> Seth(1.875)-(Seth@99.5+Eve@6.0).0's result is 2.42475854354e-28
+(Mon Apr  3 22:37:25 2017) >>>> New address 103.
+(Mon Apr  3 22:37:25 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:25 2017) >>>> Trying 103 and 38
+(Mon Apr  3 22:37:25 2017) >>>> Seth(1.9375)-(Seth@103.7+Eve@38.0).0's result is 0
+(Mon Apr  3 22:37:26 2017) >>>> Seth(1.9375)-(Seth@103.7+Eve@38.0).0's result is 2.48549761936e-28
+(Mon Apr  3 22:37:26 2017) >>>> New address 104.
+(Mon Apr  3 22:37:26 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:26 2017) >>>> Trying 103 and 100
+(Mon Apr  3 22:37:26 2017) >>>> Enos(2.4375)-(Seth@103.7+Seth@100.1).0's result is 0
+(Mon Apr  3 22:37:27 2017) >>>> Enos(2.4375)-(Seth@103.7+Seth@100.1).0's result is 3.64865188061e-28
+(Mon Apr  3 22:37:27 2017) >>>> Replacing 2.
+(Mon Apr  3 22:37:27 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:27 2017) >>>> Trying 103 and 26
+(Mon Apr  3 22:37:27 2017) >>>> Enos(2.4375)-(Seth@103.7+Seth@26.1).0's result is 0
+(Mon Apr  3 22:37:28 2017) >>>> Enos(2.4375)-(Seth@103.7+Seth@26.1).0's result is 8.71319817808e-14
+(Mon Apr  3 22:37:28 2017) >>>> New address 105.
+(Mon Apr  3 22:37:28 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:28 2017) >>>> Trying 2 and 26
+(Mon Apr  3 22:37:29 2017) >>>> Enos(2.71875)-(Enos@2.1+Seth@26.1).0's result is 3.52373988303e-28
+(Mon Apr  3 22:37:29 2017) >>>> New address 106.
+(Mon Apr  3 22:37:29 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:29 2017) >>>> Trying 2 and 25
+(Mon Apr  3 22:37:30 2017) >>>> Enos(2.96875)-(Enos@2.1+Seth@25.1).0's result is 3.67790074385e-28
+(Mon Apr  3 22:37:30 2017) >>>> New address 107.
+(Mon Apr  3 22:37:30 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:30 2017) >>>> Trying 102 and 102
+(Mon Apr  3 22:37:30 2017) >>>> Enos(2.0)-(Seth@102.2+Seth@102.2).0's result is 6.63806518639e-05
+(Mon Apr  3 22:37:30 2017) >>>> Replacing 76.
+(Mon Apr  3 22:37:30 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:30 2017) >>>> Trying 105 and 25
+(Mon Apr  3 22:37:31 2017) >>>> Enos(2.96875)-(Enos@105.1+Seth@25.1).0's result is 1.22874279531e-27
+(Mon Apr  3 22:37:31 2017) >>>> New address 108.
+(Mon Apr  3 22:37:31 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:31 2017) >>>> Trying 1 and 8
+(Mon Apr  3 22:37:31 2017) >>>> Seth(1.75)-(Seth@1.0+Eve@8.1).0's result is 4.65115956965e-29
+(Mon Apr  3 22:37:31 2017) >>>> Replacing 5.
+(Mon Apr  3 22:37:31 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:31 2017) >>>> Trying 100 and 75
+(Mon Apr  3 22:37:32 2017) >>>> Seth(1.5)-(Seth@100.1+Eve@75.0).0's result is 9.09519259166e-29
+(Mon Apr  3 22:37:32 2017) >>>> New address 109.
+(Mon Apr  3 22:37:32 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:32 2017) >>>> Trying 105 and 104
+(Mon Apr  3 22:37:33 2017) >>>> Cainan(3.1875)-(Enos@105.1+Seth@104.1).0's result is 0
+(Mon Apr  3 22:37:33 2017) >>>> Cainan(3.1875)-(Enos@105.1+Seth@104.1).0's result is 0
+(Mon Apr  3 22:37:34 2017) >>>> Cainan(3.1875)-(Enos@105.1+Seth@104.1).0's result is 0
+(Mon Apr  3 22:37:34 2017) >>>> Trying 107 and 2
+(Mon Apr  3 22:37:34 2017) >>>> Cainan(3.703125)-(Enos@107.0+Enos@2.1).0's result is 0
+(Mon Apr  3 22:37:34 2017) >>>> Cainan(3.703125)-(Enos@107.0+Enos@2.1).0's result is 3.66495331124e-28
+(Mon Apr  3 22:37:34 2017) >>>> Replacing 1.
+(Mon Apr  3 22:37:34 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:34 2017) >>>> Trying 104 and 26
+(Mon Apr  3 22:37:35 2017) >>>> Enos(2.46875)-(Seth@104.1+Seth@26.1).0's result is 0
+(Mon Apr  3 22:37:35 2017) >>>> Enos(2.46875)-(Seth@104.1+Seth@26.1).0's result is 0
+(Mon Apr  3 22:37:35 2017) >>>> Enos(2.46875)-(Seth@104.1+Seth@26.1).0's result is 0
+(Mon Apr  3 22:37:35 2017) >>>> Trying 18 and 101
+(Mon Apr  3 22:37:35 2017) >>>> Enos(2.0)-(Seth@18.3+Seth@101.0).0's result is 4.70210041294e-29
+(Mon Apr  3 22:37:35 2017) >>>> New address 110.
+(Mon Apr  3 22:37:35 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:35 2017) >>>> Trying 58 and 75
+(Mon Apr  3 22:37:36 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@75.0).0's result is 0
+(Mon Apr  3 22:37:37 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@75.0).0's result is 1.54301143757e-28
+(Mon Apr  3 22:37:37 2017) >>>> New address 111.
+(Mon Apr  3 22:37:37 2017) >>>> Max fitness: 6.63806518639e-05.
+(Mon Apr  3 22:37:37 2017) >>>> Trying 76 and 102
+(Mon Apr  3 22:37:37 2017) >>>> Enos(2.5)-(Enos@76.0+Seth@102.2).0's result is 6.65372500171e-05
+(Mon Apr  3 22:37:37 2017) >>>> Replacing 55.
+(Mon Apr  3 22:37:37 2017) >>>> Max fitness: 6.65372500171e-05.
+(Mon Apr  3 22:37:37 2017) >>>> Trying 107 and 2
+(Mon Apr  3 22:37:37 2017) >>>> Cainan(3.703125)-(Enos@107.0+Enos@2.1).0's result is 0
+(Mon Apr  3 22:37:38 2017) >>>> Cainan(3.703125)-(Enos@107.0+Enos@2.1).0's result is 0
+(Mon Apr  3 22:37:39 2017) >>>> Cainan(3.703125)-(Enos@107.0+Enos@2.1).0's result is 3.66495585895e-28
+(Mon Apr  3 22:37:39 2017) >>>> Replacing 95.
+(Mon Apr  3 22:37:39 2017) >>>> Max fitness: 6.65372500171e-05.
+(Mon Apr  3 22:37:39 2017) >>>> Trying 55 and 90
+(Mon Apr  3 22:37:39 2017) >>>> Enos(2.25)-(Enos@55.0+Eve@90.0).0's result is 7.42022017837e-05
+(Mon Apr  3 22:37:39 2017) >>>> Replacing 49.
+(Mon Apr  3 22:37:39 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:39 2017) >>>> Trying 95 and 58
+(Mon Apr  3 22:37:40 2017) >>>> Cainan(3.6015625)-(Cainan@95.2+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:41 2017) >>>> Cainan(3.6015625)-(Cainan@95.2+Seth@58.1).0's result is 5.04008346923e-28
+(Mon Apr  3 22:37:41 2017) >>>> New address 112.
+(Mon Apr  3 22:37:41 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:41 2017) >>>> Trying 112 and 38
+(Mon Apr  3 22:37:41 2017) >>>> Enos(2.80078125)-(Cainan@112.1+Eve@38.0).0's result is 0
+(Mon Apr  3 22:37:42 2017) >>>> Enos(2.80078125)-(Cainan@112.1+Eve@38.0).0's result is 5.02001285959e-28
+(Mon Apr  3 22:37:42 2017) >>>> Replacing 85.
+(Mon Apr  3 22:37:42 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:42 2017) >>>> Trying 18 and 43
+(Mon Apr  3 22:37:42 2017) >>>> Seth(1.5)-(Seth@18.3+Eve@43.2).0's result is 0
+(Mon Apr  3 22:37:42 2017) >>>> Seth(1.5)-(Seth@18.3+Eve@43.2).0's result is 0
+(Mon Apr  3 22:37:43 2017) >>>> Seth(1.5)-(Seth@18.3+Eve@43.2).0's result is 8.61564251781e-29
+(Mon Apr  3 22:37:43 2017) >>>> Replacing 22.
+(Mon Apr  3 22:37:43 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:43 2017) >>>> Trying 95 and 58
+(Mon Apr  3 22:37:44 2017) >>>> Cainan(3.6015625)-(Cainan@95.2+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:45 2017) >>>> Cainan(3.6015625)-(Cainan@95.2+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:46 2017) >>>> Cainan(3.6015625)-(Cainan@95.2+Seth@58.1).0's result is 3.60724384643e-28
+(Mon Apr  3 22:37:46 2017) >>>> Replacing 78.
+(Mon Apr  3 22:37:46 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:46 2017) >>>> Trying 104 and 111
+(Mon Apr  3 22:37:46 2017) >>>> Enos(2.84375)-(Seth@104.1+Seth@111.1).0's result is 2.44735502702e-28
+(Mon Apr  3 22:37:46 2017) >>>> Replacing 43.
+(Mon Apr  3 22:37:46 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:46 2017) >>>> Trying 112 and 95
+(Mon Apr  3 22:37:47 2017) >>>> Mahaleel(4.65234375)-(Cainan@112.1+Cainan@95.2).0's result is 5.07758782341e-28
+(Mon Apr  3 22:37:47 2017) >>>> Replacing 34.
+(Mon Apr  3 22:37:47 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:47 2017) >>>> Trying 34 and 1
+(Mon Apr  3 22:37:48 2017) >>>> Jared(5.177734375)-(Mahaleel@34.0+Cainan@1.4).0's result is 6.66187055213e-28
+(Mon Apr  3 22:37:48 2017) >>>> Replacing 73.
+(Mon Apr  3 22:37:48 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:48 2017) >>>> Trying 2 and 106
+(Mon Apr  3 22:37:49 2017) >>>> Cainan(3.578125)-(Enos@2.1+Enos@106.0).0's result is 0
+(Mon Apr  3 22:37:50 2017) >>>> Cainan(3.578125)-(Enos@2.1+Enos@106.0).0's result is 3.58544797572e-28
+(Mon Apr  3 22:37:50 2017) >>>> New address 113.
+(Mon Apr  3 22:37:50 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:50 2017) >>>> Trying 99 and 58
+(Mon Apr  3 22:37:50 2017) >>>> Enos(2.625)-(Seth@99.5+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:50 2017) >>>> Enos(2.625)-(Seth@99.5+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:50 2017) >>>> Enos(2.625)-(Seth@99.5+Seth@58.1).0's result is 0
+(Mon Apr  3 22:37:50 2017) >>>> Trying 1 and 58
+(Mon Apr  3 22:37:50 2017) >>>> Cainan(3.6015625)-(Cainan@1.4+Seth@58.1).0's result is 3.69928564723e-28
+(Mon Apr  3 22:37:50 2017) >>>> New address 114.
+(Mon Apr  3 22:37:50 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:50 2017) >>>> Trying 104 and 99
+(Mon Apr  3 22:37:51 2017) >>>> Enos(2.84375)-(Seth@104.1+Seth@99.5).0's result is 2.44148995163e-28
+(Mon Apr  3 22:37:51 2017) >>>> New address 115.
+(Mon Apr  3 22:37:51 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:51 2017) >>>> Trying 78 and 99
+(Mon Apr  3 22:37:52 2017) >>>> Cainan(3.67578125)-(Cainan@78.2+Seth@99.5).0's result is 4.73374526842e-28
+(Mon Apr  3 22:37:52 2017) >>>> New address 116.
+(Mon Apr  3 22:37:52 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:52 2017) >>>> Trying 34 and 104
+(Mon Apr  3 22:37:53 2017) >>>> Mahaleel(4.294921875)-(Mahaleel@34.0+Seth@104.1).0's result is 0
+(Mon Apr  3 22:37:54 2017) >>>> Mahaleel(4.294921875)-(Mahaleel@34.0+Seth@104.1).0's result is 4.97297861864e-28
+(Mon Apr  3 22:37:54 2017) >>>> Replacing 60.
+(Mon Apr  3 22:37:54 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:54 2017) >>>> Trying 108 and 2
+(Mon Apr  3 22:37:55 2017) >>>> Cainan(3.703125)-(Enos@108.0+Enos@2.1).0's result is 6.88883207905e-28
+(Mon Apr  3 22:37:55 2017) >>>> Replacing 78.
+(Mon Apr  3 22:37:55 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:55 2017) >>>> Trying 58 and 93
+(Mon Apr  3 22:37:56 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@93.2).0's result is 0
+(Mon Apr  3 22:37:56 2017) >>>> Seth(1.75)-(Seth@58.1+Eve@93.2).0's result is 8.79484291804e-29
+(Mon Apr  3 22:37:56 2017) >>>> New address 117.
+(Mon Apr  3 22:37:56 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:56 2017) >>>> Trying 104 and 103
+(Mon Apr  3 22:37:57 2017) >>>> Enos(2.90625)-(Seth@104.1+Seth@103.7).0's result is 2.45484571191e-28
+(Mon Apr  3 22:37:57 2017) >>>> New address 118.
+(Mon Apr  3 22:37:57 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:57 2017) >>>> Trying 49 and 49
+(Mon Apr  3 22:37:57 2017) >>>> Cainan(3.25)-(Enos@49.0+Enos@49.0).0's result is 2.51320582133e-28
+(Mon Apr  3 22:37:57 2017) >>>> New address 119.
+(Mon Apr  3 22:37:57 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:57 2017) >>>> Trying 78 and 34
+(Mon Apr  3 22:37:58 2017) >>>> Jared(5.177734375)-(Cainan@78.0+Mahaleel@34.0).0's result is 4.98945246218e-28
+(Mon Apr  3 22:37:58 2017) >>>> Replacing 97.
+(Mon Apr  3 22:37:58 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:37:58 2017) >>>> Trying 105 and 43
+(Mon Apr  3 22:37:59 2017) >>>> Cainan(3.640625)-(Enos@105.1+Enos@43.0).0's result is 0
+(Mon Apr  3 22:38:00 2017) >>>> Cainan(3.640625)-(Enos@105.1+Enos@43.0).0's result is 1.15168625122e-27
+(Mon Apr  3 22:38:00 2017) >>>> Replacing 70.
+(Mon Apr  3 22:38:00 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:38:00 2017) >>>> Trying 104 and 115
+(Mon Apr  3 22:38:01 2017) >>>> Cainan(3.390625)-(Seth@104.1+Enos@115.0).0's result is 0
+(Mon Apr  3 22:38:02 2017) >>>> Cainan(3.390625)-(Seth@104.1+Enos@115.0).0's result is 2.46575899412e-28
+(Mon Apr  3 22:38:02 2017) >>>> Replacing 51.
+(Mon Apr  3 22:38:02 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:38:02 2017) >>>> Trying 112 and 85
+(Mon Apr  3 22:38:03 2017) >>>> Mahaleel(4.201171875)-(Cainan@112.1+Enos@85.1).0's result is 0
+(Mon Apr  3 22:38:03 2017) >>>> Mahaleel(4.201171875)-(Cainan@112.1+Enos@85.1).0's result is 0
+(Mon Apr  3 22:38:04 2017) >>>> Mahaleel(4.201171875)-(Cainan@112.1+Enos@85.1).0's result is 5.02510083489e-28
+(Mon Apr  3 22:38:04 2017) >>>> Replacing 111.
+(Mon Apr  3 22:38:04 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:38:04 2017) >>>> Trying 85 and 71
+(Mon Apr  3 22:38:05 2017) >>>> Enos(2.400390625)-(Enos@85.1+Eve@71.0).0's result is 0
+(Mon Apr  3 22:38:06 2017) >>>> Enos(2.400390625)-(Enos@85.1+Eve@71.0).0's result is 5.17663289053e-28
+(Mon Apr  3 22:38:06 2017) >>>> Replacing 12.
+(Mon Apr  3 22:38:06 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:38:06 2017) >>>> Trying 34 and 111
+(Mon Apr  3 22:38:06 2017) >>>> Jared(5.4267578125)-(Mahaleel@34.0+Mahaleel@111.2).0's result is 0
+(Mon Apr  3 22:38:06 2017) >>>> Jared(5.4267578125)-(Mahaleel@34.0+Mahaleel@111.2).0's result is 0
+(Mon Apr  3 22:38:07 2017) >>>> Jared(5.4267578125)-(Mahaleel@34.0+Mahaleel@111.2).0's result is 6.59944404445e-28
+(Mon Apr  3 22:38:07 2017) >>>> Replacing 62.
+(Mon Apr  3 22:38:07 2017) >>>> Max fitness: 7.42022017837e-05.
+(Mon Apr  3 22:38:07 2017) >>>> Trying 49 and 76
+(Mon Apr  3 22:38:08 2017) >>>> Cainan(3.125)-(Enos@49.0+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:08 2017) >>>> Cainan(3.125)-(Enos@49.0+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:08 2017) >>>> Cainan(3.125)-(Enos@49.0+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:08 2017) >>>> Trying 49 and 96
+(Mon Apr  3 22:38:09 2017) >>>> Enos(2.125)-(Enos@49.0+Eve@96.2).0's result is 7.52348540079e-05
+(Mon Apr  3 22:38:09 2017) >>>> New address 120.
+(Mon Apr  3 22:38:09 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:09 2017) >>>> Trying 73 and 115
+(Mon Apr  3 22:38:09 2017) >>>> Jared(5.0107421875)-(Jared@73.0+Enos@115.0).0's result is 6.45019804559e-28
+(Mon Apr  3 22:38:09 2017) >>>> Replacing 77.
+(Mon Apr  3 22:38:09 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:09 2017) >>>> Trying 95 and 106
+(Mon Apr  3 22:38:10 2017) >>>> Mahaleel(4.2109375)-(Cainan@95.2+Enos@106.0).0's result is 0
+(Mon Apr  3 22:38:12 2017) >>>> Mahaleel(4.2109375)-(Cainan@95.2+Enos@106.0).0's result is 0
+(Mon Apr  3 22:38:12 2017) >>>> Mahaleel(4.2109375)-(Cainan@95.2+Enos@106.0).0's result is 6.27831742887e-28
+(Mon Apr  3 22:38:12 2017) >>>> Replacing 119.
+(Mon Apr  3 22:38:12 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:12 2017) >>>> Trying 111 and 1
+(Mon Apr  3 22:38:13 2017) >>>> Mahaleel(4.9521484375)-(Mahaleel@111.2+Cainan@1.4).0's result is 0
+(Mon Apr  3 22:38:14 2017) >>>> Mahaleel(4.9521484375)-(Mahaleel@111.2+Cainan@1.4).0's result is 6.6272267585e-28
+(Mon Apr  3 22:38:14 2017) >>>> New address 121.
+(Mon Apr  3 22:38:14 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:14 2017) >>>> Trying 18 and 5
+(Mon Apr  3 22:38:15 2017) >>>> Enos(2.375)-(Seth@18.3+Seth@5.0).0's result is 8.46253062774e-29
+(Mon Apr  3 22:38:15 2017) >>>> Replacing 52.
+(Mon Apr  3 22:38:15 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:15 2017) >>>> Trying 112 and 104
+(Mon Apr  3 22:38:16 2017) >>>> Cainan(3.76953125)-(Cainan@112.1+Seth@104.1).0's result is 0
+(Mon Apr  3 22:38:17 2017) >>>> Cainan(3.76953125)-(Cainan@112.1+Seth@104.1).0's result is 4.95233664213e-28
+(Mon Apr  3 22:38:17 2017) >>>> New address 122.
+(Mon Apr  3 22:38:17 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:17 2017) >>>> Trying 26 and 54
+(Mon Apr  3 22:38:17 2017) >>>> Seth(1.5)-(Seth@26.1+Eve@54.3).0's result is 9.28198888773e-29
+(Mon Apr  3 22:38:17 2017) >>>> New address 123.
+(Mon Apr  3 22:38:17 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:17 2017) >>>> Trying 112 and 117
+(Mon Apr  3 22:38:18 2017) >>>> Cainan(3.67578125)-(Cainan@112.1+Seth@117.1).0's result is 0
+(Mon Apr  3 22:38:19 2017) >>>> Cainan(3.67578125)-(Cainan@112.1+Seth@117.1).0's result is 0
+(Mon Apr  3 22:38:19 2017) >>>> Cainan(3.67578125)-(Cainan@112.1+Seth@117.1).0's result is 0
+(Mon Apr  3 22:38:19 2017) >>>> Trying 107 and 51
+(Mon Apr  3 22:38:20 2017) >>>> Mahaleel(4.1796875)-(Enos@107.0+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:21 2017) >>>> Mahaleel(4.1796875)-(Enos@107.0+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:22 2017) >>>> Mahaleel(4.1796875)-(Enos@107.0+Cainan@51.1).0's result is 3.42512131852e-28
+(Mon Apr  3 22:38:22 2017) >>>> New address 124.
+(Mon Apr  3 22:38:22 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:22 2017) >>>> Trying 85 and 115
+(Mon Apr  3 22:38:22 2017) >>>> Cainan(3.822265625)-(Enos@85.1+Enos@115.0).0's result is 0
+(Mon Apr  3 22:38:23 2017) >>>> Cainan(3.822265625)-(Enos@85.1+Enos@115.0).0's result is 4.89817610516e-28
+(Mon Apr  3 22:38:23 2017) >>>> New address 125.
+(Mon Apr  3 22:38:23 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:23 2017) >>>> Trying 73 and 119
+(Mon Apr  3 22:38:24 2017) >>>> Jared(5.6943359375)-(Jared@73.0+Mahaleel@119.2).0's result is 0
+(Mon Apr  3 22:38:25 2017) >>>> Jared(5.6943359375)-(Jared@73.0+Mahaleel@119.2).0's result is 0
+(Mon Apr  3 22:38:26 2017) >>>> Jared(5.6943359375)-(Jared@73.0+Mahaleel@119.2).0's result is 0
+(Mon Apr  3 22:38:26 2017) >>>> Trying 12 and 122
+(Mon Apr  3 22:38:27 2017) >>>> Mahaleel(4.0849609375)-(Enos@12.1+Cainan@122.1).0's result is 6.61761926802e-28
+(Mon Apr  3 22:38:27 2017) >>>> New address 126.
+(Mon Apr  3 22:38:27 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:27 2017) >>>> Trying 78 and 109
+(Mon Apr  3 22:38:28 2017) >>>> Cainan(3.6015625)-(Cainan@78.0+Seth@109.0).0's result is 4.93658295681e-28
+(Mon Apr  3 22:38:28 2017) >>>> Replacing 6.
+(Mon Apr  3 22:38:28 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:28 2017) >>>> Trying 105 and 70
+(Mon Apr  3 22:38:29 2017) >>>> Mahaleel(4.0390625)-(Enos@105.1+Cainan@70.1).0's result is 8.05985428741e-14
+(Mon Apr  3 22:38:29 2017) >>>> Replacing 7.
+(Mon Apr  3 22:38:29 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:29 2017) >>>> Trying 105 and 43
+(Mon Apr  3 22:38:29 2017) >>>> Cainan(3.640625)-(Enos@105.1+Enos@43.0).0's result is 1.15168256063e-27
+(Mon Apr  3 22:38:29 2017) >>>> Replacing 92.
+(Mon Apr  3 22:38:29 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:29 2017) >>>> Trying 25 and 93
+(Mon Apr  3 22:38:30 2017) >>>> Seth(1.75)-(Seth@25.1+Eve@93.2).0's result is 1.63332177347e-28
+(Mon Apr  3 22:38:30 2017) >>>> Replacing 39.
+(Mon Apr  3 22:38:30 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:30 2017) >>>> Trying 70 and 124
+(Mon Apr  3 22:38:31 2017) >>>> Mahaleel(4.91015625)-(Cainan@70.1+Mahaleel@124.5).0's result is 6.4585755769e-28
+(Mon Apr  3 22:38:31 2017) >>>> Replacing 14.
+(Mon Apr  3 22:38:31 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:31 2017) >>>> Trying 34 and 107
+(Mon Apr  3 22:38:32 2017) >>>> Mahaleel(4.810546875)-(Mahaleel@34.0+Enos@107.0).0's result is 6.49462261433e-28
+(Mon Apr  3 22:38:32 2017) >>>> New address 127.
+(Mon Apr  3 22:38:32 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:32 2017) >>>> Trying 77 and 114
+(Mon Apr  3 22:38:32 2017) >>>> Jared(5.30615234375)-(Jared@77.0+Cainan@114.3).0's result is 0
+(Mon Apr  3 22:38:32 2017) >>>> Jared(5.30615234375)-(Jared@77.0+Cainan@114.3).0's result is 0
+(Mon Apr  3 22:38:33 2017) >>>> Jared(5.30615234375)-(Jared@77.0+Cainan@114.3).0's result is 5.64618490235e-05
+(Mon Apr  3 22:38:33 2017) >>>> Replacing 22.
+(Mon Apr  3 22:38:33 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:33 2017) >>>> Trying 125 and 104
+(Mon Apr  3 22:38:33 2017) >>>> Cainan(3.8798828125)-(Cainan@125.1+Seth@104.1).0's result is 4.88484930334e-28
+(Mon Apr  3 22:38:33 2017) >>>> New address 128.
+(Mon Apr  3 22:38:33 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:33 2017) >>>> Trying 108 and 6
+(Mon Apr  3 22:38:34 2017) >>>> Mahaleel(4.28515625)-(Enos@108.0+Cainan@6.0).0's result is 5.76820309273e-28
+(Mon Apr  3 22:38:34 2017) >>>> Replacing 40.
+(Mon Apr  3 22:38:34 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:34 2017) >>>> Trying 120 and 90
+(Mon Apr  3 22:38:34 2017) >>>> Enos(2.0625)-(Enos@120.3+Eve@90.0).0's result is 0
+(Mon Apr  3 22:38:34 2017) >>>> Enos(2.0625)-(Enos@120.3+Eve@90.0).0's result is 0
+(Mon Apr  3 22:38:34 2017) >>>> Enos(2.0625)-(Enos@120.3+Eve@90.0).0's result is 0
+(Mon Apr  3 22:38:34 2017) >>>> Trying 120 and 55
+(Mon Apr  3 22:38:34 2017) >>>> Cainan(3.3125)-(Enos@120.3+Enos@55.0).0's result is 0
+(Mon Apr  3 22:38:34 2017) >>>> Cainan(3.3125)-(Enos@120.3+Enos@55.0).0's result is 0
+(Mon Apr  3 22:38:35 2017) >>>> Cainan(3.3125)-(Enos@120.3+Enos@55.0).0's result is 6.96892821508e-05
+(Mon Apr  3 22:38:35 2017) >>>> Replacing 105.
+(Mon Apr  3 22:38:35 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:35 2017) >>>> Trying 77 and 60
+(Mon Apr  3 22:38:36 2017) >>>> Jared(5.65283203125)-(Jared@77.0+Mahaleel@60.1).0's result is 0
+(Mon Apr  3 22:38:37 2017) >>>> Jared(5.65283203125)-(Jared@77.0+Mahaleel@60.1).0's result is 6.47456686474e-28
+(Mon Apr  3 22:38:37 2017) >>>> Replacing 67.
+(Mon Apr  3 22:38:37 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:37 2017) >>>> Trying 38 and 75
+(Mon Apr  3 22:38:37 2017) >>>> Seth(1.0)-(Eve@38.0+Eve@75.0).0's result is 1.60476834456e-28
+(Mon Apr  3 22:38:37 2017) >>>> New address 129.
+(Mon Apr  3 22:38:37 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:37 2017) >>>> Trying 92 and 112
+(Mon Apr  3 22:38:38 2017) >>>> Mahaleel(4.62109375)-(Cainan@92.0+Cainan@112.1).0's result is 4.74052842463e-28
+(Mon Apr  3 22:38:38 2017) >>>> Replacing 86.
+(Mon Apr  3 22:38:38 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:38 2017) >>>> Trying 22 and 121
+(Mon Apr  3 22:38:38 2017) >>>> Enoch(6.129150390625)-(Jared@22.2+Mahaleel@121.1).0's result is 0
+(Mon Apr  3 22:38:39 2017) >>>> Enoch(6.129150390625)-(Jared@22.2+Mahaleel@121.1).0's result is 4.25244299564e-27
+(Mon Apr  3 22:38:39 2017) >>>> Replacing 126.
+(Mon Apr  3 22:38:39 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:39 2017) >>>> Trying 34 and 51
+(Mon Apr  3 22:38:39 2017) >>>> Jared(5.021484375)-(Mahaleel@34.0+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:40 2017) >>>> Jared(5.021484375)-(Mahaleel@34.0+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:41 2017) >>>> Jared(5.021484375)-(Mahaleel@34.0+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:41 2017) >>>> Trying 86 and 118
+(Mon Apr  3 22:38:41 2017) >>>> Mahaleel(4.763671875)-(Mahaleel@86.0+Enos@118.0).0's result is 0
+(Mon Apr  3 22:38:42 2017) >>>> Mahaleel(4.763671875)-(Mahaleel@86.0+Enos@118.0).0's result is 3.3206546432e-28
+(Mon Apr  3 22:38:42 2017) >>>> Replacing 33.
+(Mon Apr  3 22:38:42 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:42 2017) >>>> Trying 114 and 99
+(Mon Apr  3 22:38:42 2017) >>>> Cainan(3.67578125)-(Cainan@114.3+Seth@99.5).0's result is 3.5735082093e-28
+(Mon Apr  3 22:38:42 2017) >>>> New address 130.
+(Mon Apr  3 22:38:42 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:42 2017) >>>> Trying 126 and 78
+(Mon Apr  3 22:38:43 2017) >>>> Jared(5.9161376953125)-(Enoch@126.1+Cainan@78.0).0's result is 1.9368300805e-27
+(Mon Apr  3 22:38:43 2017) >>>> Replacing 106.
+(Mon Apr  3 22:38:43 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:43 2017) >>>> Trying 62 and 99
+(Mon Apr  3 22:38:44 2017) >>>> Mahaleel(4.58837890625)-(Jared@62.2+Seth@99.5).0's result is 6.36910328457e-28
+(Mon Apr  3 22:38:44 2017) >>>> New address 131.
+(Mon Apr  3 22:38:44 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:44 2017) >>>> Trying 22 and 12
+(Mon Apr  3 22:38:44 2017) >>>> Mahaleel(4.853271484375)-(Jared@22.2+Enos@12.1).0's result is 0
+(Mon Apr  3 22:38:45 2017) >>>> Mahaleel(4.853271484375)-(Jared@22.2+Enos@12.1).0's result is 0
+(Mon Apr  3 22:38:46 2017) >>>> Mahaleel(4.853271484375)-(Jared@22.2+Enos@12.1).0's result is 0
+(Mon Apr  3 22:38:46 2017) >>>> Trying 14 and 128
+(Mon Apr  3 22:38:47 2017) >>>> Jared(5.39501953125)-(Mahaleel@14.0+Cainan@128.0).0's result is 0
+(Mon Apr  3 22:38:47 2017) >>>> Jared(5.39501953125)-(Mahaleel@14.0+Cainan@128.0).0's result is 6.31841134144e-28
+(Mon Apr  3 22:38:47 2017) >>>> Replacing 33.
+(Mon Apr  3 22:38:47 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:47 2017) >>>> Trying 127 and 67
+(Mon Apr  3 22:38:48 2017) >>>> Enoch(6.231689453125)-(Mahaleel@127.0+Jared@67.1).0's result is 6.57760447304e-28
+(Mon Apr  3 22:38:48 2017) >>>> New address 132.
+(Mon Apr  3 22:38:48 2017) >>>> Max fitness: 7.52348540079e-05.
+(Mon Apr  3 22:38:48 2017) >>>> Trying 120 and 76
+(Mon Apr  3 22:38:48 2017) >>>> Cainan(3.0625)-(Enos@120.3+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:48 2017) >>>> Cainan(3.0625)-(Enos@120.3+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:48 2017) >>>> Cainan(3.0625)-(Enos@120.3+Enos@76.0).0's result is 0
+(Mon Apr  3 22:38:48 2017) >>>> Trying 120 and 120
+(Mon Apr  3 22:38:49 2017) >>>> Cainan(3.125)-(Enos@120.3+Enos@120.3).0's result is 7.55340823963e-05
+(Mon Apr  3 22:38:49 2017) >>>> Replacing 79.
+(Mon Apr  3 22:38:49 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:49 2017) >>>> Trying 70 and 95
+(Mon Apr  3 22:38:50 2017) >>>> Mahaleel(4.671875)-(Cainan@70.1+Cainan@95.2).0's result is 4.79495378269e-28
+(Mon Apr  3 22:38:50 2017) >>>> New address 133.
+(Mon Apr  3 22:38:50 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:50 2017) >>>> Trying 40 and 58
+(Mon Apr  3 22:38:50 2017) >>>> Cainan(3.892578125)-(Mahaleel@40.0+Seth@58.1).0's result is 3.6034412072e-28
+(Mon Apr  3 22:38:50 2017) >>>> New address 134.
+(Mon Apr  3 22:38:50 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:50 2017) >>>> Trying 95 and 51
+(Mon Apr  3 22:38:51 2017) >>>> Mahaleel(4.546875)-(Cainan@95.2+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:38:52 2017) >>>> Mahaleel(4.546875)-(Cainan@95.2+Cainan@51.1).0's result is 3.48470428428e-28
+(Mon Apr  3 22:38:52 2017) >>>> New address 135.
+(Mon Apr  3 22:38:52 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:52 2017) >>>> Trying 34 and 97
+(Mon Apr  3 22:38:52 2017) >>>> Jared(5.9150390625)-(Mahaleel@34.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:38:52 2017) >>>> Jared(5.9150390625)-(Mahaleel@34.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:38:53 2017) >>>> Jared(5.9150390625)-(Mahaleel@34.0+Jared@97.0).0's result is 5.85190262126e-28
+(Mon Apr  3 22:38:53 2017) >>>> New address 136.
+(Mon Apr  3 22:38:53 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:53 2017) >>>> Trying 73 and 136
+(Mon Apr  3 22:38:53 2017) >>>> Enoch(6.54638671875)-(Jared@73.0+Jared@136.2).0's result is 7.79298570954e-14
+(Mon Apr  3 22:38:53 2017) >>>> Replacing 59.
+(Mon Apr  3 22:38:53 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:53 2017) >>>> Trying 6 and 58
+(Mon Apr  3 22:38:53 2017) >>>> Cainan(3.55078125)-(Cainan@6.0+Seth@58.1).0's result is 0
+(Mon Apr  3 22:38:54 2017) >>>> Cainan(3.55078125)-(Cainan@6.0+Seth@58.1).0's result is 0
+(Mon Apr  3 22:38:54 2017) >>>> Cainan(3.55078125)-(Cainan@6.0+Seth@58.1).0's result is 0
+(Mon Apr  3 22:38:54 2017) >>>> Trying 127 and 1
+(Mon Apr  3 22:38:54 2017) >>>> Jared(5.2568359375)-(Mahaleel@127.0+Cainan@1.4).0's result is 0
+(Mon Apr  3 22:38:54 2017) >>>> Jared(5.2568359375)-(Mahaleel@127.0+Cainan@1.4).0's result is 0
+(Mon Apr  3 22:38:55 2017) >>>> Jared(5.2568359375)-(Mahaleel@127.0+Cainan@1.4).0's result is 6.39593101121e-28
+(Mon Apr  3 22:38:55 2017) >>>> New address 137.
+(Mon Apr  3 22:38:55 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:55 2017) >>>> Trying 7 and 112
+(Mon Apr  3 22:38:56 2017) >>>> Mahaleel(4.8203125)-(Mahaleel@7.0+Cainan@112.1).0's result is 0
+(Mon Apr  3 22:38:56 2017) >>>> Mahaleel(4.8203125)-(Mahaleel@7.0+Cainan@112.1).0's result is 8.83067172748e-14
+(Mon Apr  3 22:38:56 2017) >>>> Replacing 103.
+(Mon Apr  3 22:38:56 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:38:56 2017) >>>> Trying 133 and 124
+(Mon Apr  3 22:38:56 2017) >>>> Jared(5.42578125)-(Mahaleel@133.0+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:38:57 2017) >>>> Jared(5.42578125)-(Mahaleel@133.0+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:38:57 2017) >>>> Jared(5.42578125)-(Mahaleel@133.0+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:38:57 2017) >>>> Trying 130 and 39
+(Mon Apr  3 22:38:58 2017) >>>> Cainan(3.712890625)-(Cainan@130.0+Seth@39.0).0's result is 0
+(Mon Apr  3 22:38:58 2017) >>>> Cainan(3.712890625)-(Cainan@130.0+Seth@39.0).0's result is 0
+(Mon Apr  3 22:38:59 2017) >>>> Cainan(3.712890625)-(Cainan@130.0+Seth@39.0).0's result is 0
+(Mon Apr  3 22:38:59 2017) >>>> Trying 136 and 6
+(Mon Apr  3 22:39:00 2017) >>>> Jared(5.75830078125)-(Jared@136.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:39:01 2017) >>>> Jared(5.75830078125)-(Jared@136.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:39:02 2017) >>>> Jared(5.75830078125)-(Jared@136.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:39:02 2017) >>>> Trying 77 and 112
+(Mon Apr  3 22:39:02 2017) >>>> Jared(5.30615234375)-(Jared@77.0+Cainan@112.1).0's result is 6.51477466742e-28
+(Mon Apr  3 22:39:02 2017) >>>> Replacing 54.
+(Mon Apr  3 22:39:02 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:02 2017) >>>> Trying 126 and 54
+(Mon Apr  3 22:39:03 2017) >>>> Enoch(6.7176513671875)-(Enoch@126.1+Jared@54.9).0's result is 1.58978776372e-27
+(Mon Apr  3 22:39:03 2017) >>>> New address 138.
+(Mon Apr  3 22:39:03 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:03 2017) >>>> Trying 122 and 100
+(Mon Apr  3 22:39:04 2017) >>>> Cainan(3.384765625)-(Cainan@122.1+Seth@100.1).0's result is 0
+(Mon Apr  3 22:39:04 2017) >>>> Cainan(3.384765625)-(Cainan@122.1+Seth@100.1).0's result is 0
+(Mon Apr  3 22:39:05 2017) >>>> Cainan(3.384765625)-(Cainan@122.1+Seth@100.1).0's result is 6.62091868199e-28
+(Mon Apr  3 22:39:05 2017) >>>> New address 139.
+(Mon Apr  3 22:39:05 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:05 2017) >>>> Trying 127 and 119
+(Mon Apr  3 22:39:06 2017) >>>> Jared(5.5107421875)-(Mahaleel@127.0+Mahaleel@119.2).0's result is 0
+(Mon Apr  3 22:39:07 2017) >>>> Jared(5.5107421875)-(Mahaleel@127.0+Mahaleel@119.2).0's result is 0
+(Mon Apr  3 22:39:07 2017) >>>> Jared(5.5107421875)-(Mahaleel@127.0+Mahaleel@119.2).0's result is 6.47901238689e-28
+(Mon Apr  3 22:39:07 2017) >>>> Replacing 46.
+(Mon Apr  3 22:39:07 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:07 2017) >>>> Trying 127 and 136
+(Mon Apr  3 22:39:09 2017) >>>> Enoch(6.36279296875)-(Mahaleel@127.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:39:10 2017) >>>> Enoch(6.36279296875)-(Mahaleel@127.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:39:11 2017) >>>> Enoch(6.36279296875)-(Mahaleel@127.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:39:11 2017) >>>> Trying 70 and 34
+(Mon Apr  3 22:39:11 2017) >>>> Jared(5.146484375)-(Cainan@70.1+Mahaleel@34.0).0's result is 4.43441068536e-28
+(Mon Apr  3 22:39:11 2017) >>>> Replacing 43.
+(Mon Apr  3 22:39:11 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:11 2017) >>>> Trying 6 and 25
+(Mon Apr  3 22:39:12 2017) >>>> Cainan(3.55078125)-(Cainan@6.0+Seth@25.1).0's result is 5.89885895887e-28
+(Mon Apr  3 22:39:12 2017) >>>> New address 140.
+(Mon Apr  3 22:39:12 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:12 2017) >>>> Trying 107 and 26
+(Mon Apr  3 22:39:13 2017) >>>> Enos(2.984375)-(Enos@107.0+Seth@26.1).0's result is 3.6573987022e-28
+(Mon Apr  3 22:39:13 2017) >>>> Replacing 20.
+(Mon Apr  3 22:39:13 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:13 2017) >>>> Trying 73 and 34
+(Mon Apr  3 22:39:14 2017) >>>> Jared(5.9150390625)-(Jared@73.0+Mahaleel@34.0).0's result is 0
+(Mon Apr  3 22:39:14 2017) >>>> Jared(5.9150390625)-(Jared@73.0+Mahaleel@34.0).0's result is 8.42198473607e-28
+(Mon Apr  3 22:39:14 2017) >>>> New address 141.
+(Mon Apr  3 22:39:14 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:14 2017) >>>> Trying 137 and 125
+(Mon Apr  3 22:39:14 2017) >>>> Jared(5.53955078125)-(Jared@137.5+Cainan@125.1).0's result is 0
+(Mon Apr  3 22:39:15 2017) >>>> Jared(5.53955078125)-(Jared@137.5+Cainan@125.1).0's result is 6.53877151574e-28
+(Mon Apr  3 22:39:15 2017) >>>> Replacing 19.
+(Mon Apr  3 22:39:15 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:15 2017) >>>> Trying 19 and 14
+(Mon Apr  3 22:39:16 2017) >>>> Enoch(6.224853515625)-(Jared@19.1+Mahaleel@14.0).0's result is 0
+(Mon Apr  3 22:39:17 2017) >>>> Enoch(6.224853515625)-(Jared@19.1+Mahaleel@14.0).0's result is 4.8038697078e-28
+(Mon Apr  3 22:39:17 2017) >>>> Replacing 74.
+(Mon Apr  3 22:39:17 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:17 2017) >>>> Trying 79 and 49
+(Mon Apr  3 22:39:17 2017) >>>> Cainan(3.6875)-(Cainan@79.3+Enos@49.0).0's result is 0
+(Mon Apr  3 22:39:18 2017) >>>> Cainan(3.6875)-(Cainan@79.3+Enos@49.0).0's result is 0
+(Mon Apr  3 22:39:19 2017) >>>> Cainan(3.6875)-(Cainan@79.3+Enos@49.0).0's result is 0
+(Mon Apr  3 22:39:19 2017) >>>> Trying 79 and 76
+(Mon Apr  3 22:39:19 2017) >>>> Cainan(3.5625)-(Cainan@79.3+Enos@76.0).0's result is 7.52020802654e-05
+(Mon Apr  3 22:39:19 2017) >>>> Replacing 115.
+(Mon Apr  3 22:39:19 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:19 2017) >>>> Trying 85 and 122
+(Mon Apr  3 22:39:21 2017) >>>> Mahaleel(4.28515625)-(Enos@85.1+Cainan@122.1).0's result is 0
+(Mon Apr  3 22:39:21 2017) >>>> Mahaleel(4.28515625)-(Enos@85.1+Cainan@122.1).0's result is 0
+(Mon Apr  3 22:39:21 2017) >>>> Mahaleel(4.28515625)-(Enos@85.1+Cainan@122.1).0's result is 0
+(Mon Apr  3 22:39:21 2017) >>>> Trying 92 and 129
+(Mon Apr  3 22:39:22 2017) >>>> Cainan(3.3203125)-(Cainan@92.0+Seth@129.0).0's result is 0
+(Mon Apr  3 22:39:22 2017) >>>> Cainan(3.3203125)-(Cainan@92.0+Seth@129.0).0's result is 6.71466442429e-28
+(Mon Apr  3 22:39:22 2017) >>>> New address 142.
+(Mon Apr  3 22:39:22 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:22 2017) >>>> Trying 54 and 117
+(Mon Apr  3 22:39:23 2017) >>>> Mahaleel(4.528076171875)-(Jared@54.9+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:23 2017) >>>> Mahaleel(4.528076171875)-(Jared@54.9+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:24 2017) >>>> Mahaleel(4.528076171875)-(Jared@54.9+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:24 2017) >>>> Trying 138 and 60
+(Mon Apr  3 22:39:25 2017) >>>> Enoch(6.50628662109375)-(Enoch@138.0+Mahaleel@60.1).0's result is 0
+(Mon Apr  3 22:39:25 2017) >>>> Enoch(6.50628662109375)-(Enoch@138.0+Mahaleel@60.1).0's result is 0
+(Mon Apr  3 22:39:26 2017) >>>> Enoch(6.50628662109375)-(Enoch@138.0+Mahaleel@60.1).0's result is 0
+(Mon Apr  3 22:39:26 2017) >>>> Trying 106 and 95
+(Mon Apr  3 22:39:27 2017) >>>> Jared(5.80963134765625)-(Jared@106.0+Cainan@95.2).0's result is 2.08163151199e-27
+(Mon Apr  3 22:39:27 2017) >>>> Replacing 1.
+(Mon Apr  3 22:39:27 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:27 2017) >>>> Trying 138 and 62
+(Mon Apr  3 22:39:28 2017) >>>> Methusaleh(7.07220458984375)-(Enoch@138.0+Jared@62.2).0's result is 1.38778979499e-27
+(Mon Apr  3 22:39:28 2017) >>>> New address 143.
+(Mon Apr  3 22:39:28 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:28 2017) >>>> Trying 136 and 51
+(Mon Apr  3 22:39:28 2017) >>>> Jared(5.65283203125)-(Jared@136.2+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:39:29 2017) >>>> Jared(5.65283203125)-(Jared@136.2+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:39:29 2017) >>>> Jared(5.65283203125)-(Jared@136.2+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:39:29 2017) >>>> Trying 12 and 116
+(Mon Apr  3 22:39:30 2017) >>>> Mahaleel(4.0380859375)-(Enos@12.1+Cainan@116.0).0's result is 4.37986105259e-28
+(Mon Apr  3 22:39:30 2017) >>>> New address 144.
+(Mon Apr  3 22:39:30 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:30 2017) >>>> Trying 119 and 39
+(Mon Apr  3 22:39:31 2017) >>>> Cainan(3.98046875)-(Mahaleel@119.2+Seth@39.0).0's result is 0
+(Mon Apr  3 22:39:31 2017) >>>> Cainan(3.98046875)-(Mahaleel@119.2+Seth@39.0).0's result is 0
+(Mon Apr  3 22:39:31 2017) >>>> Cainan(3.98046875)-(Mahaleel@119.2+Seth@39.0).0's result is 0
+(Mon Apr  3 22:39:31 2017) >>>> Trying 33 and 100
+(Mon Apr  3 22:39:32 2017) >>>> Mahaleel(4.197509765625)-(Jared@33.4+Seth@100.1).0's result is 5.85229259676e-28
+(Mon Apr  3 22:39:32 2017) >>>> New address 145.
+(Mon Apr  3 22:39:32 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:32 2017) >>>> Trying 79 and 102
+(Mon Apr  3 22:39:32 2017) >>>> Cainan(3.0625)-(Cainan@79.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:39:33 2017) >>>> Cainan(3.0625)-(Cainan@79.3+Seth@102.2).0's result is 7.55287571667e-05
+(Mon Apr  3 22:39:33 2017) >>>> Replacing 89.
+(Mon Apr  3 22:39:33 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:33 2017) >>>> Trying 85 and 20
+(Mon Apr  3 22:39:34 2017) >>>> Cainan(3.892578125)-(Enos@85.1+Enos@20.0).0's result is 0
+(Mon Apr  3 22:39:35 2017) >>>> Cainan(3.892578125)-(Enos@85.1+Enos@20.0).0's result is 0
+(Mon Apr  3 22:39:35 2017) >>>> Cainan(3.892578125)-(Enos@85.1+Enos@20.0).0's result is 0
+(Mon Apr  3 22:39:35 2017) >>>> Trying 12 and 122
+(Mon Apr  3 22:39:36 2017) >>>> Mahaleel(4.0849609375)-(Enos@12.1+Cainan@122.1).0's result is 0
+(Mon Apr  3 22:39:37 2017) >>>> Mahaleel(4.0849609375)-(Enos@12.1+Cainan@122.1).0's result is 5.06017415423e-28
+(Mon Apr  3 22:39:37 2017) >>>> New address 146.
+(Mon Apr  3 22:39:37 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:37 2017) >>>> Trying 19 and 34
+(Mon Apr  3 22:39:38 2017) >>>> Enoch(6.095947265625)-(Jared@19.1+Mahaleel@34.0).0's result is 0
+(Mon Apr  3 22:39:38 2017) >>>> Enoch(6.095947265625)-(Jared@19.1+Mahaleel@34.0).0's result is 0
+(Mon Apr  3 22:39:39 2017) >>>> Enoch(6.095947265625)-(Jared@19.1+Mahaleel@34.0).0's result is 8.33428534534e-28
+(Mon Apr  3 22:39:39 2017) >>>> Replacing 18.
+(Mon Apr  3 22:39:39 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:39 2017) >>>> Trying 54 and 118
+(Mon Apr  3 22:39:40 2017) >>>> Jared(5.106201171875)-(Jared@54.9+Enos@118.0).0's result is 6.39712396654e-28
+(Mon Apr  3 22:39:40 2017) >>>> Replacing 72.
+(Mon Apr  3 22:39:40 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:40 2017) >>>> Trying 137 and 109
+(Mon Apr  3 22:39:40 2017) >>>> Mahaleel(4.37841796875)-(Jared@137.5+Seth@109.0).0's result is 0
+(Mon Apr  3 22:39:40 2017) >>>> Mahaleel(4.37841796875)-(Jared@137.5+Seth@109.0).0's result is 0
+(Mon Apr  3 22:39:41 2017) >>>> Mahaleel(4.37841796875)-(Jared@137.5+Seth@109.0).0's result is 6.29676186691e-28
+(Mon Apr  3 22:39:41 2017) >>>> Replacing 56.
+(Mon Apr  3 22:39:41 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:41 2017) >>>> Trying 1 and 60
+(Mon Apr  3 22:39:42 2017) >>>> Enoch(6.052276611328125)-(Jared@1.6+Mahaleel@60.1).0's result is 2.5562676704e-27
+(Mon Apr  3 22:39:42 2017) >>>> Replacing 57.
+(Mon Apr  3 22:39:42 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:42 2017) >>>> Trying 70 and 12
+(Mon Apr  3 22:39:42 2017) >>>> Mahaleel(4.0205078125)-(Cainan@70.1+Enos@12.1).0's result is 4.82721602735e-28
+(Mon Apr  3 22:39:42 2017) >>>> New address 147.
+(Mon Apr  3 22:39:42 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:42 2017) >>>> Trying 108 and 97
+(Mon Apr  3 22:39:43 2017) >>>> Jared(5.0732421875)-(Enos@108.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:39:43 2017) >>>> Jared(5.0732421875)-(Enos@108.0+Jared@97.0).0's result is 5.99544918372e-28
+(Mon Apr  3 22:39:43 2017) >>>> Replacing 122.
+(Mon Apr  3 22:39:43 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:43 2017) >>>> Trying 92 and 73
+(Mon Apr  3 22:39:44 2017) >>>> Jared(5.4091796875)-(Cainan@92.0+Jared@73.0).0's result is 0
+(Mon Apr  3 22:39:44 2017) >>>> Jared(5.4091796875)-(Cainan@92.0+Jared@73.0).0's result is 0
+(Mon Apr  3 22:39:44 2017) >>>> Jared(5.4091796875)-(Cainan@92.0+Jared@73.0).0's result is 0
+(Mon Apr  3 22:39:44 2017) >>>> Trying 22 and 92
+(Mon Apr  3 22:39:44 2017) >>>> Jared(5.473388671875)-(Jared@22.2+Cainan@92.0).0's result is 0
+(Mon Apr  3 22:39:45 2017) >>>> Jared(5.473388671875)-(Jared@22.2+Cainan@92.0).0's result is 0
+(Mon Apr  3 22:39:45 2017) >>>> Jared(5.473388671875)-(Jared@22.2+Cainan@92.0).0's result is 2.01917345087e-26
+(Mon Apr  3 22:39:45 2017) >>>> New address 148.
+(Mon Apr  3 22:39:45 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:45 2017) >>>> Trying 138 and 134
+(Mon Apr  3 22:39:46 2017) >>>> Enoch(6.30511474609375)-(Enoch@138.0+Cainan@134.0).0's result is 0
+(Mon Apr  3 22:39:47 2017) >>>> Enoch(6.30511474609375)-(Enoch@138.0+Cainan@134.0).0's result is 0
+(Mon Apr  3 22:39:47 2017) >>>> Enoch(6.30511474609375)-(Enoch@138.0+Cainan@134.0).0's result is 0
+(Mon Apr  3 22:39:47 2017) >>>> Trying 141 and 132
+(Mon Apr  3 22:39:48 2017) >>>> Methusaleh(7.0733642578125)-(Jared@141.1+Enoch@132.0).0's result is 8.36908330985e-28
+(Mon Apr  3 22:39:48 2017) >>>> New address 149.
+(Mon Apr  3 22:39:48 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:48 2017) >>>> Trying 79 and 120
+(Mon Apr  3 22:39:49 2017) >>>> Cainan(3.625)-(Cainan@79.3+Enos@120.3).0's result is 6.65456583386e-05
+(Mon Apr  3 22:39:49 2017) >>>> Replacing 109.
+(Mon Apr  3 22:39:49 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:49 2017) >>>> Trying 141 and 145
+(Mon Apr  3 22:39:49 2017) >>>> Enoch(6.0562744140625)-(Jared@141.1+Mahaleel@145.3).0's result is 1.12308906872e-27
+(Mon Apr  3 22:39:49 2017) >>>> New address 150.
+(Mon Apr  3 22:39:49 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:49 2017) >>>> Trying 148 and 141
+(Mon Apr  3 22:39:50 2017) >>>> Enoch(6.6942138671875)-(Jared@148.5+Jared@141.1).0's result is 0
+(Mon Apr  3 22:39:51 2017) >>>> Enoch(6.6942138671875)-(Jared@148.5+Jared@141.1).0's result is 0
+(Mon Apr  3 22:39:52 2017) >>>> Enoch(6.6942138671875)-(Jared@148.5+Jared@141.1).0's result is 2.41122383336e-27
+(Mon Apr  3 22:39:52 2017) >>>> New address 151.
+(Mon Apr  3 22:39:52 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:52 2017) >>>> Trying 73 and 146
+(Mon Apr  3 22:39:53 2017) >>>> Jared(5.63134765625)-(Jared@73.0+Mahaleel@146.4).0's result is 6.63641460476e-28
+(Mon Apr  3 22:39:53 2017) >>>> New address 152.
+(Mon Apr  3 22:39:53 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:53 2017) >>>> Trying 78 and 62
+(Mon Apr  3 22:39:53 2017) >>>> Jared(5.56494140625)-(Cainan@78.0+Jared@62.2).0's result is 4.86039521083e-28
+(Mon Apr  3 22:39:53 2017) >>>> Replacing 113.
+(Mon Apr  3 22:39:53 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:53 2017) >>>> Trying 6 and 117
+(Mon Apr  3 22:39:53 2017) >>>> Cainan(3.67578125)-(Cainan@6.0+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:53 2017) >>>> Cainan(3.67578125)-(Cainan@6.0+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:53 2017) >>>> Cainan(3.67578125)-(Cainan@6.0+Seth@117.1).0's result is 0
+(Mon Apr  3 22:39:53 2017) >>>> Trying 151 and 43
+(Mon Apr  3 22:39:54 2017) >>>> Enoch(6.92034912109375)-(Enoch@151.2+Jared@43.3).0's result is 1.10715631708e-27
+(Mon Apr  3 22:39:54 2017) >>>> Replacing 3.
+(Mon Apr  3 22:39:54 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:54 2017) >>>> Trying 59 and 143
+(Mon Apr  3 22:39:54 2017) >>>> Methusaleh(7.809295654296875)-(Enoch@59.0+Methusaleh@143.0).0's result is 0
+(Mon Apr  3 22:39:54 2017) >>>> Methusaleh(7.809295654296875)-(Enoch@59.0+Methusaleh@143.0).0's result is 0
+(Mon Apr  3 22:39:54 2017) >>>> Methusaleh(7.809295654296875)-(Enoch@59.0+Methusaleh@143.0).0's result is 0
+(Mon Apr  3 22:39:54 2017) >>>> Trying 3 and 114
+(Mon Apr  3 22:39:55 2017) >>>> Enoch(6.260955810546875)-(Enoch@3.3+Cainan@114.3).0's result is 1.18755708441e-27
+(Mon Apr  3 22:39:55 2017) >>>> Replacing 123.
+(Mon Apr  3 22:39:55 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:55 2017) >>>> Trying 119 and 140
+(Mon Apr  3 22:39:56 2017) >>>> Mahaleel(4.880859375)-(Mahaleel@119.2+Cainan@140.0).0's result is 0
+(Mon Apr  3 22:39:56 2017) >>>> Mahaleel(4.880859375)-(Mahaleel@119.2+Cainan@140.0).0's result is 0
+(Mon Apr  3 22:39:56 2017) >>>> Mahaleel(4.880859375)-(Mahaleel@119.2+Cainan@140.0).0's result is 0
+(Mon Apr  3 22:39:56 2017) >>>> Trying 142 and 127
+(Mon Apr  3 22:39:56 2017) >>>> Jared(5.0654296875)-(Cainan@142.4+Mahaleel@127.0).0's result is 0
+(Mon Apr  3 22:39:56 2017) >>>> Jared(5.0654296875)-(Cainan@142.4+Mahaleel@127.0).0's result is 0
+(Mon Apr  3 22:39:57 2017) >>>> Jared(5.0654296875)-(Cainan@142.4+Mahaleel@127.0).0's result is 0
+(Mon Apr  3 22:39:57 2017) >>>> Trying 133 and 43
+(Mon Apr  3 22:39:57 2017) >>>> Jared(5.9091796875)-(Mahaleel@133.0+Jared@43.3).0's result is 0
+(Mon Apr  3 22:39:58 2017) >>>> Jared(5.9091796875)-(Mahaleel@133.0+Jared@43.3).0's result is 4.60940187371e-28
+(Mon Apr  3 22:39:58 2017) >>>> New address 153.
+(Mon Apr  3 22:39:58 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:58 2017) >>>> Trying 46 and 131
+(Mon Apr  3 22:39:58 2017) >>>> Enoch(6.049560546875)-(Jared@46.2+Mahaleel@131.0).0's result is 6.49394729691e-28
+(Mon Apr  3 22:39:58 2017) >>>> New address 154.
+(Mon Apr  3 22:39:58 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:58 2017) >>>> Trying 104 and 58
+(Mon Apr  3 22:39:59 2017) >>>> Enos(2.71875)-(Seth@104.1+Seth@58.1).0's result is 2.5058412043e-28
+(Mon Apr  3 22:39:59 2017) >>>> New address 155.
+(Mon Apr  3 22:39:59 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:39:59 2017) >>>> Trying 141 and 121
+(Mon Apr  3 22:40:00 2017) >>>> Enoch(6.43359375)-(Jared@141.1+Mahaleel@121.1).0's result is 0
+(Mon Apr  3 22:40:00 2017) >>>> Enoch(6.43359375)-(Jared@141.1+Mahaleel@121.1).0's result is 0
+(Mon Apr  3 22:40:01 2017) >>>> Enoch(6.43359375)-(Jared@141.1+Mahaleel@121.1).0's result is 8.40064597458e-28
+(Mon Apr  3 22:40:01 2017) >>>> New address 156.
+(Mon Apr  3 22:40:01 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:01 2017) >>>> Trying 148 and 133
+(Mon Apr  3 22:40:02 2017) >>>> Enoch(6.0726318359375)-(Jared@148.5+Mahaleel@133.0).0's result is 0
+(Mon Apr  3 22:40:03 2017) >>>> Enoch(6.0726318359375)-(Jared@148.5+Mahaleel@133.0).0's result is 3.16287990623e-27
+(Mon Apr  3 22:40:03 2017) >>>> Replacing 71.
+(Mon Apr  3 22:40:03 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:03 2017) >>>> Trying 18 and 72
+(Mon Apr  3 22:40:04 2017) >>>> Enoch(6.60107421875)-(Enoch@18.2+Jared@72.0).0's result is 1.01407738367e-27
+(Mon Apr  3 22:40:04 2017) >>>> New address 157.
+(Mon Apr  3 22:40:04 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:04 2017) >>>> Trying 132 and 122
+(Mon Apr  3 22:40:05 2017) >>>> Enoch(6.6524658203125)-(Enoch@132.0+Jared@122.1).0's result is 0
+(Mon Apr  3 22:40:06 2017) >>>> Enoch(6.6524658203125)-(Enoch@132.0+Jared@122.1).0's result is 7.35781178378e-28
+(Mon Apr  3 22:40:06 2017) >>>> Replacing 13.
+(Mon Apr  3 22:40:06 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:06 2017) >>>> Trying 7 and 108
+(Mon Apr  3 22:40:07 2017) >>>> Mahaleel(4.50390625)-(Mahaleel@7.0+Enos@108.0).0's result is 0
+(Mon Apr  3 22:40:08 2017) >>>> Mahaleel(4.50390625)-(Mahaleel@7.0+Enos@108.0).0's result is 7.52103955487e-05
+(Mon Apr  3 22:40:08 2017) >>>> New address 158.
+(Mon Apr  3 22:40:08 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:08 2017) >>>> Trying 144 and 124
+(Mon Apr  3 22:40:08 2017) >>>> Jared(5.10888671875)-(Mahaleel@144.3+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:40:09 2017) >>>> Jared(5.10888671875)-(Mahaleel@144.3+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:40:10 2017) >>>> Jared(5.10888671875)-(Mahaleel@144.3+Mahaleel@124.5).0's result is 0
+(Mon Apr  3 22:40:10 2017) >>>> Trying 85 and 116
+(Mon Apr  3 22:40:11 2017) >>>> Mahaleel(4.23828125)-(Enos@85.1+Cainan@116.0).0's result is 4.74315444478e-28
+(Mon Apr  3 22:40:11 2017) >>>> Replacing 66.
+(Mon Apr  3 22:40:11 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:11 2017) >>>> Trying 123 and 142
+(Mon Apr  3 22:40:12 2017) >>>> Jared(5.7906341552734375)-(Enoch@123.3+Cainan@142.4).0's result is 0
+(Mon Apr  3 22:40:12 2017) >>>> Jared(5.7906341552734375)-(Enoch@123.3+Cainan@142.4).0's result is 0
+(Mon Apr  3 22:40:13 2017) >>>> Jared(5.7906341552734375)-(Enoch@123.3+Cainan@142.4).0's result is 0
+(Mon Apr  3 22:40:13 2017) >>>> Trying 92 and 156
+(Mon Apr  3 22:40:14 2017) >>>> Enoch(6.037109375)-(Cainan@92.0+Enoch@156.2).0's result is 0
+(Mon Apr  3 22:40:15 2017) >>>> Enoch(6.037109375)-(Cainan@92.0+Enoch@156.2).0's result is 0
+(Mon Apr  3 22:40:15 2017) >>>> Enoch(6.037109375)-(Cainan@92.0+Enoch@156.2).0's result is 0
+(Mon Apr  3 22:40:15 2017) >>>> Trying 126 and 12
+(Mon Apr  3 22:40:16 2017) >>>> Jared(5.2647705078125)-(Enoch@126.1+Enos@12.1).0's result is 0
+(Mon Apr  3 22:40:17 2017) >>>> Jared(5.2647705078125)-(Enoch@126.1+Enos@12.1).0's result is 0
+(Mon Apr  3 22:40:18 2017) >>>> Jared(5.2647705078125)-(Enoch@126.1+Enos@12.1).0's result is 0
+(Mon Apr  3 22:40:18 2017) >>>> Trying 104 and 100
+(Mon Apr  3 22:40:18 2017) >>>> Enos(2.46875)-(Seth@104.1+Seth@100.1).0's result is 2.62929446833e-28
+(Mon Apr  3 22:40:18 2017) >>>> Replacing 91.
+(Mon Apr  3 22:40:18 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:18 2017) >>>> Trying 57 and 155
+(Mon Apr  3 22:40:19 2017) >>>> Jared(5.3855133056640625)-(Enoch@57.0+Enos@155.0).0's result is 0
+(Mon Apr  3 22:40:19 2017) >>>> Jared(5.3855133056640625)-(Enoch@57.0+Enos@155.0).0's result is 0
+(Mon Apr  3 22:40:20 2017) >>>> Jared(5.3855133056640625)-(Enoch@57.0+Enos@155.0).0's result is 0
+(Mon Apr  3 22:40:20 2017) >>>> Trying 67 and 86
+(Mon Apr  3 22:40:21 2017) >>>> Enoch(6.136962890625)-(Jared@67.1+Mahaleel@86.0).0's result is 6.4270034247e-28
+(Mon Apr  3 22:40:21 2017) >>>> Replacing 38.
+(Mon Apr  3 22:40:21 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:21 2017) >>>> Trying 92 and 147
+(Mon Apr  3 22:40:21 2017) >>>> Mahaleel(4.83056640625)-(Cainan@92.0+Mahaleel@147.0).0's result is 0
+(Mon Apr  3 22:40:21 2017) >>>> Mahaleel(4.83056640625)-(Cainan@92.0+Mahaleel@147.0).0's result is 0
+(Mon Apr  3 22:40:21 2017) >>>> Mahaleel(4.83056640625)-(Cainan@92.0+Mahaleel@147.0).0's result is 0
+(Mon Apr  3 22:40:21 2017) >>>> Trying 115 and 102
+(Mon Apr  3 22:40:21 2017) >>>> Cainan(3.28125)-(Cainan@115.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:40:22 2017) >>>> Cainan(3.28125)-(Cainan@115.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:40:23 2017) >>>> Cainan(3.28125)-(Cainan@115.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:40:23 2017) >>>> Trying 143 and 91
+(Mon Apr  3 22:40:24 2017) >>>> Jared(5.770477294921875)-(Methusaleh@143.0+Enos@91.9).0's result is 0
+(Mon Apr  3 22:40:25 2017) >>>> Jared(5.770477294921875)-(Methusaleh@143.0+Enos@91.9).0's result is 1.2016185764e-27
+(Mon Apr  3 22:40:25 2017) >>>> New address 159.
+(Mon Apr  3 22:40:25 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:25 2017) >>>> Trying 149 and 116
+(Mon Apr  3 22:40:26 2017) >>>> Enoch(6.37457275390625)-(Methusaleh@149.3+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:40:27 2017) >>>> Enoch(6.37457275390625)-(Methusaleh@149.3+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:40:27 2017) >>>> Enoch(6.37457275390625)-(Methusaleh@149.3+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:40:27 2017) >>>> Trying 92 and 135
+(Mon Apr  3 22:40:28 2017) >>>> Jared(5.09375)-(Cainan@92.0+Mahaleel@135.1).0's result is 4.5434291876e-28
+(Mon Apr  3 22:40:28 2017) >>>> Replacing 87.
+(Mon Apr  3 22:40:28 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:28 2017) >>>> Trying 79 and 102
+(Mon Apr  3 22:40:28 2017) >>>> Cainan(3.0625)-(Cainan@79.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:40:28 2017) >>>> Cainan(3.0625)-(Cainan@79.3+Seth@102.2).0's result is 0
+(Mon Apr  3 22:40:29 2017) >>>> Cainan(3.0625)-(Cainan@79.3+Seth@102.2).0's result is 7.55287571667e-05
+(Mon Apr  3 22:40:29 2017) >>>> New address 160.
+(Mon Apr  3 22:40:29 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:29 2017) >>>> Trying 62 and 145
+(Mon Apr  3 22:40:30 2017) >>>> Jared(5.8121337890625)-(Jared@62.2+Mahaleel@145.3).0's result is 0
+(Mon Apr  3 22:40:31 2017) >>>> Jared(5.8121337890625)-(Jared@62.2+Mahaleel@145.3).0's result is 7.16687499394e-28
+(Mon Apr  3 22:40:31 2017) >>>> New address 161.
+(Mon Apr  3 22:40:31 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:31 2017) >>>> Trying 159 and 152
+(Mon Apr  3 22:40:31 2017) >>>> Enoch(6.7009124755859375)-(Jared@159.7+Jared@152.0).0's result is 0
+(Mon Apr  3 22:40:32 2017) >>>> Enoch(6.7009124755859375)-(Jared@159.7+Jared@152.0).0's result is 0
+(Mon Apr  3 22:40:33 2017) >>>> Enoch(6.7009124755859375)-(Jared@159.7+Jared@152.0).0's result is 1.1148993939e-27
+(Mon Apr  3 22:40:33 2017) >>>> New address 162.
+(Mon Apr  3 22:40:33 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:33 2017) >>>> Trying 19 and 112
+(Mon Apr  3 22:40:34 2017) >>>> Jared(5.570556640625)-(Jared@19.1+Cainan@112.1).0's result is 0
+(Mon Apr  3 22:40:35 2017) >>>> Jared(5.570556640625)-(Jared@19.1+Cainan@112.1).0's result is 0
+(Mon Apr  3 22:40:36 2017) >>>> Jared(5.570556640625)-(Jared@19.1+Cainan@112.1).0's result is 0
+(Mon Apr  3 22:40:36 2017) >>>> Trying 157 and 116
+(Mon Apr  3 22:40:37 2017) >>>> Enoch(6.138427734375)-(Enoch@157.0+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:40:39 2017) >>>> Enoch(6.138427734375)-(Enoch@157.0+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:40:39 2017) >>>> Enoch(6.138427734375)-(Enoch@157.0+Cainan@116.0).0's result is 1.00327271786e-27
+(Mon Apr  3 22:40:39 2017) >>>> Replacing 153.
+(Mon Apr  3 22:40:39 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:39 2017) >>>> Trying 143 and 119
+(Mon Apr  3 22:40:40 2017) >>>> Enoch(6.641571044921875)-(Methusaleh@143.0+Mahaleel@119.2).0's result is 8.65632111338e-28
+(Mon Apr  3 22:40:40 2017) >>>> New address 163.
+(Mon Apr  3 22:40:40 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:40 2017) >>>> Trying 86 and 117
+(Mon Apr  3 22:40:41 2017) >>>> Mahaleel(4.185546875)-(Mahaleel@86.0+Seth@117.1).0's result is 0
+(Mon Apr  3 22:40:42 2017) >>>> Mahaleel(4.185546875)-(Mahaleel@86.0+Seth@117.1).0's result is 3.31121162762e-28
+(Mon Apr  3 22:40:42 2017) >>>> New address 164.
+(Mon Apr  3 22:40:42 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:42 2017) >>>> Trying 154 and 46
+(Mon Apr  3 22:40:43 2017) >>>> Enoch(6.7801513671875)-(Enoch@154.0+Jared@46.2).0's result is 0
+(Mon Apr  3 22:40:44 2017) >>>> Enoch(6.7801513671875)-(Enoch@154.0+Jared@46.2).0's result is 6.56004846553e-28
+(Mon Apr  3 22:40:44 2017) >>>> Replacing 72.
+(Mon Apr  3 22:40:44 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:44 2017) >>>> Trying 72 and 20
+(Mon Apr  3 22:40:45 2017) >>>> Jared(5.88226318359375)-(Enoch@72.1+Enos@20.0).0's result is 0
+(Mon Apr  3 22:40:45 2017) >>>> Jared(5.88226318359375)-(Enoch@72.1+Enos@20.0).0's result is 0
+(Mon Apr  3 22:40:46 2017) >>>> Jared(5.88226318359375)-(Enoch@72.1+Enos@20.0).0's result is 6.52679852485e-28
+(Mon Apr  3 22:40:46 2017) >>>> Replacing 88.
+(Mon Apr  3 22:40:46 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:46 2017) >>>> Trying 19 and 12
+(Mon Apr  3 22:40:47 2017) >>>> Mahaleel(4.969970703125)-(Jared@19.1+Enos@12.1).0's result is 0
+(Mon Apr  3 22:40:48 2017) >>>> Mahaleel(4.969970703125)-(Jared@19.1+Enos@12.1).0's result is 0
+(Mon Apr  3 22:40:49 2017) >>>> Mahaleel(4.969970703125)-(Jared@19.1+Enos@12.1).0's result is 6.64541540172e-28
+(Mon Apr  3 22:40:49 2017) >>>> Replacing 75.
+(Mon Apr  3 22:40:49 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:49 2017) >>>> Trying 20 and 25
+(Mon Apr  3 22:40:49 2017) >>>> Cainan(3.2421875)-(Enos@20.0+Seth@25.1).0's result is 0
+(Mon Apr  3 22:40:50 2017) >>>> Cainan(3.2421875)-(Enos@20.0+Seth@25.1).0's result is 0
+(Mon Apr  3 22:40:50 2017) >>>> Cainan(3.2421875)-(Enos@20.0+Seth@25.1).0's result is 0
+(Mon Apr  3 22:40:50 2017) >>>> Trying 67 and 140
+(Mon Apr  3 22:40:51 2017) >>>> Jared(5.601806640625)-(Jared@67.1+Cainan@140.0).0's result is 0
+(Mon Apr  3 22:40:52 2017) >>>> Jared(5.601806640625)-(Jared@67.1+Cainan@140.0).0's result is 5.36908861348e-28
+(Mon Apr  3 22:40:52 2017) >>>> New address 165.
+(Mon Apr  3 22:40:52 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:52 2017) >>>> Trying 70 and 51
+(Mon Apr  3 22:40:52 2017) >>>> Mahaleel(4.515625)-(Cainan@70.1+Cainan@51.1).0's result is 0
+(Mon Apr  3 22:40:52 2017) >>>> Mahaleel(4.515625)-(Cainan@70.1+Cainan@51.1).0's result is 6.05354161174e-14
+(Mon Apr  3 22:40:52 2017) >>>> Replacing 63.
+(Mon Apr  3 22:40:52 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:52 2017) >>>> Trying 156 and 118
+(Mon Apr  3 22:40:52 2017) >>>> Jared(5.669921875)-(Enoch@156.2+Enos@118.0).0's result is 0
+(Mon Apr  3 22:40:53 2017) >>>> Jared(5.669921875)-(Enoch@156.2+Enos@118.0).0's result is 8.17141490028e-28
+(Mon Apr  3 22:40:53 2017) >>>> New address 166.
+(Mon Apr  3 22:40:53 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:53 2017) >>>> Trying 162 and 157
+(Mon Apr  3 22:40:54 2017) >>>> Methusaleh(7.650993347167969)-(Enoch@162.2+Enoch@157.0).0's result is 0
+(Mon Apr  3 22:40:55 2017) >>>> Methusaleh(7.650993347167969)-(Enoch@162.2+Enoch@157.0).0's result is 0
+(Mon Apr  3 22:40:56 2017) >>>> Methusaleh(7.650993347167969)-(Enoch@162.2+Enoch@157.0).0's result is 1.06254338204e-27
+(Mon Apr  3 22:40:56 2017) >>>> Replacing 61.
+(Mon Apr  3 22:40:56 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:56 2017) >>>> Trying 126 and 92
+(Mon Apr  3 22:40:57 2017) >>>> Jared(5.8848876953125)-(Enoch@126.1+Cainan@92.0).0's result is 0
+(Mon Apr  3 22:40:58 2017) >>>> Jared(5.8848876953125)-(Enoch@126.1+Cainan@92.0).0's result is 3.98252691038e-27
+(Mon Apr  3 22:40:58 2017) >>>> New address 167.
+(Mon Apr  3 22:40:58 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:40:58 2017) >>>> Trying 123 and 162
+(Mon Apr  3 22:40:59 2017) >>>> Methusaleh(7.480934143066406)-(Enoch@123.3+Enoch@162.2).0's result is 0
+(Mon Apr  3 22:41:00 2017) >>>> Methusaleh(7.480934143066406)-(Enoch@123.3+Enoch@162.2).0's result is 8.1509040525e-28
+(Mon Apr  3 22:41:00 2017) >>>> Replacing 8.
+(Mon Apr  3 22:41:00 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:00 2017) >>>> Trying 19 and 107
+(Mon Apr  3 22:41:00 2017) >>>> Jared(5.254150390625)-(Jared@19.1+Enos@107.0).0's result is 0
+(Mon Apr  3 22:41:01 2017) >>>> Jared(5.254150390625)-(Jared@19.1+Enos@107.0).0's result is 6.60144545895e-28
+(Mon Apr  3 22:41:01 2017) >>>> Replacing 65.
+(Mon Apr  3 22:41:01 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:01 2017) >>>> Trying 127 and 128
+(Mon Apr  3 22:41:02 2017) >>>> Jared(5.34521484375)-(Mahaleel@127.0+Cainan@128.0).0's result is 0
+(Mon Apr  3 22:41:02 2017) >>>> Jared(5.34521484375)-(Mahaleel@127.0+Cainan@128.0).0's result is 6.52998898863e-28
+(Mon Apr  3 22:41:02 2017) >>>> Replacing 113.
+(Mon Apr  3 22:41:02 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:02 2017) >>>> Trying 57 and 95
+(Mon Apr  3 22:41:03 2017) >>>> Jared(5.8777008056640625)-(Enoch@57.0+Cainan@95.2).0's result is 0
+(Mon Apr  3 22:41:04 2017) >>>> Jared(5.8777008056640625)-(Enoch@57.0+Cainan@95.2).0's result is 0
+(Mon Apr  3 22:41:04 2017) >>>> Jared(5.8777008056640625)-(Enoch@57.0+Cainan@95.2).0's result is 0
+(Mon Apr  3 22:41:04 2017) >>>> Trying 71 and 106
+(Mon Apr  3 22:41:05 2017) >>>> Enoch(6.994384765625)-(Enoch@71.1+Jared@106.0).0's result is 0
+(Mon Apr  3 22:41:05 2017) >>>> Enoch(6.994384765625)-(Enoch@71.1+Jared@106.0).0's result is 0
+(Mon Apr  3 22:41:05 2017) >>>> Enoch(6.994384765625)-(Enoch@71.1+Jared@106.0).0's result is 0
+(Mon Apr  3 22:41:05 2017) >>>> Trying 156 and 107
+(Mon Apr  3 22:41:05 2017) >>>> Jared(5.701171875)-(Enoch@156.2+Enos@107.0).0's result is 0
+(Mon Apr  3 22:41:06 2017) >>>> Jared(5.701171875)-(Enoch@156.2+Enos@107.0).0's result is 8.45821746326e-28
+(Mon Apr  3 22:41:06 2017) >>>> Replacing 17.
+(Mon Apr  3 22:41:06 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:06 2017) >>>> Trying 22 and 151
+(Mon Apr  3 22:41:07 2017) >>>> Methusaleh(7.00018310546875)-(Jared@22.2+Enoch@151.2).0's result is 0
+(Mon Apr  3 22:41:07 2017) >>>> Methusaleh(7.00018310546875)-(Jared@22.2+Enoch@151.2).0's result is 0
+(Mon Apr  3 22:41:07 2017) >>>> Methusaleh(7.00018310546875)-(Jared@22.2+Enoch@151.2).0's result is 0
+(Mon Apr  3 22:41:07 2017) >>>> Trying 70 and 38
+(Mon Apr  3 22:41:07 2017) >>>> Jared(5.8887939453125)-(Cainan@70.1+Enoch@38.3).0's result is 0
+(Mon Apr  3 22:41:08 2017) >>>> Jared(5.8887939453125)-(Cainan@70.1+Enoch@38.3).0's result is 5.57689367982e-28
+(Mon Apr  3 22:41:08 2017) >>>> Replacing 140.
+(Mon Apr  3 22:41:08 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:08 2017) >>>> Trying 167 and 91
+(Mon Apr  3 22:41:08 2017) >>>> Jared(5.17681884765625)-(Jared@167.1+Enos@91.9).0's result is 0
+(Mon Apr  3 22:41:09 2017) >>>> Jared(5.17681884765625)-(Jared@167.1+Enos@91.9).0's result is 1.96680572607e-27
+(Mon Apr  3 22:41:09 2017) >>>> New address 168.
+(Mon Apr  3 22:41:09 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:09 2017) >>>> Trying 59 and 140
+(Mon Apr  3 22:41:10 2017) >>>> Methusaleh(7.21759033203125)-(Enoch@59.0+Jared@140.4).0's result is 0
+(Mon Apr  3 22:41:10 2017) >>>> Methusaleh(7.21759033203125)-(Enoch@59.0+Jared@140.4).0's result is 8.57880422476e-27
+(Mon Apr  3 22:41:10 2017) >>>> New address 169.
+(Mon Apr  3 22:41:10 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:10 2017) >>>> Trying 7 and 43
+(Mon Apr  3 22:41:11 2017) >>>> Jared(5.5927734375)-(Mahaleel@7.0+Jared@43.3).0's result is 8.19733307737e-14
+(Mon Apr  3 22:41:11 2017) >>>> New address 170.
+(Mon Apr  3 22:41:11 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:11 2017) >>>> Trying 33 and 133
+(Mon Apr  3 22:41:12 2017) >>>> Enoch(6.033447265625)-(Jared@33.4+Mahaleel@133.0).0's result is 0
+(Mon Apr  3 22:41:13 2017) >>>> Enoch(6.033447265625)-(Jared@33.4+Mahaleel@133.0).0's result is 0
+(Mon Apr  3 22:41:14 2017) >>>> Enoch(6.033447265625)-(Jared@33.4+Mahaleel@133.0).0's result is 0
+(Mon Apr  3 22:41:14 2017) >>>> Trying 156 and 46
+(Mon Apr  3 22:41:14 2017) >>>> Enoch(6.97216796875)-(Enoch@156.2+Jared@46.2).0's result is 0
+(Mon Apr  3 22:41:15 2017) >>>> Enoch(6.97216796875)-(Enoch@156.2+Jared@46.2).0's result is 8.39410457055e-28
+(Mon Apr  3 22:41:15 2017) >>>> Replacing 118.
+(Mon Apr  3 22:41:15 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:15 2017) >>>> Trying 153 and 140
+(Mon Apr  3 22:41:16 2017) >>>> Methusaleh(7.01361083984375)-(Enoch@153.5+Jared@140.4).0's result is 1.74074961752e-27
+(Mon Apr  3 22:41:16 2017) >>>> Replacing 90.
+(Mon Apr  3 22:41:16 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:16 2017) >>>> Trying 143 and 132
+(Mon Apr  3 22:41:17 2017) >>>> Methusaleh(7.651947021484375)-(Methusaleh@143.0+Enoch@132.0).0's result is 1.15088569814e-27
+(Mon Apr  3 22:41:17 2017) >>>> Replacing 33.
+(Mon Apr  3 22:41:17 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:17 2017) >>>> Trying 7 and 87
+(Mon Apr  3 22:41:17 2017) >>>> Jared(5.56640625)-(Mahaleel@7.0+Jared@87.3).0's result is 1.17410412499e-27
+(Mon Apr  3 22:41:17 2017) >>>> Replacing 95.
+(Mon Apr  3 22:41:17 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:17 2017) >>>> Trying 154 and 135
+(Mon Apr  3 22:41:18 2017) >>>> Enoch(6.2982177734375)-(Enoch@154.0+Mahaleel@135.1).0's result is 9.92061116243e-28
+(Mon Apr  3 22:41:18 2017) >>>> New address 171.
+(Mon Apr  3 22:41:18 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:18 2017) >>>> Trying 149 and 107
+(Mon Apr  3 22:41:19 2017) >>>> Enoch(6.02105712890625)-(Methusaleh@149.3+Enos@107.0).0's result is 8.34397926605e-28
+(Mon Apr  3 22:41:19 2017) >>>> New address 172.
+(Mon Apr  3 22:41:19 2017) >>>> Max fitness: 7.55340823963e-05.
+(Mon Apr  3 22:41:19 2017) >>>> Trying 79 and 79
+(Mon Apr  3 22:41:20 2017) >>>> Mahaleel(4.125)-(Cainan@79.3+Cainan@79.3).0's result is 0
+(Mon Apr  3 22:41:21 2017) >>>> Mahaleel(4.125)-(Cainan@79.3+Cainan@79.3).0's result is 0
+(Mon Apr  3 22:41:22 2017) >>>> Mahaleel(4.125)-(Cainan@79.3+Cainan@79.3).0's result is 7.55370180351e-05
+(Mon Apr  3 22:41:22 2017) >>>> Replacing 11.
+(Mon Apr  3 22:41:22 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:22 2017) >>>> Trying 59 and 63
+(Mon Apr  3 22:41:22 2017) >>>> Enoch(6.531005859375)-(Enoch@59.0+Mahaleel@63.1).0's result is 0
+(Mon Apr  3 22:41:23 2017) >>>> Enoch(6.531005859375)-(Enoch@59.0+Mahaleel@63.1).0's result is 0
+(Mon Apr  3 22:41:24 2017) >>>> Enoch(6.531005859375)-(Enoch@59.0+Mahaleel@63.1).0's result is 0
+(Mon Apr  3 22:41:24 2017) >>>> Trying 43 and 117
+(Mon Apr  3 22:41:25 2017) >>>> Mahaleel(4.4482421875)-(Jared@43.3+Seth@117.1).0's result is 0
+(Mon Apr  3 22:41:25 2017) >>>> Mahaleel(4.4482421875)-(Jared@43.3+Seth@117.1).0's result is 3.21936514277e-28
+(Mon Apr  3 22:41:25 2017) >>>> Replacing 42.
+(Mon Apr  3 22:41:25 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:25 2017) >>>> Trying 153 and 133
+(Mon Apr  3 22:41:26 2017) >>>> Enoch(6.4051513671875)-(Enoch@153.5+Mahaleel@133.0).0's result is 1.35190437228e-27
+(Mon Apr  3 22:41:26 2017) >>>> Replacing 35.
+(Mon Apr  3 22:41:26 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:26 2017) >>>> Trying 170 and 6
+(Mon Apr  3 22:41:27 2017) >>>> Jared(5.59716796875)-(Jared@170.0+Cainan@6.0).0's result is 8.09275659211e-28
+(Mon Apr  3 22:41:27 2017) >>>> Replacing 101.
+(Mon Apr  3 22:41:27 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:27 2017) >>>> Trying 161 and 40
+(Mon Apr  3 22:41:27 2017) >>>> Enoch(6.04864501953125)-(Jared@161.1+Mahaleel@40.0).0's result is 1.00644848301e-27
+(Mon Apr  3 22:41:27 2017) >>>> Replacing 39.
+(Mon Apr  3 22:41:27 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:27 2017) >>>> Trying 34 and 116
+(Mon Apr  3 22:41:28 2017) >>>> Jared(5.1640625)-(Mahaleel@34.0+Cainan@116.0).0's result is 0
+(Mon Apr  3 22:41:29 2017) >>>> Jared(5.1640625)-(Mahaleel@34.0+Cainan@116.0).0's result is 6.23496526646e-28
+(Mon Apr  3 22:41:29 2017) >>>> Replacing 52.
+(Mon Apr  3 22:41:29 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:29 2017) >>>> Trying 57 and 108
+(Mon Apr  3 22:41:30 2017) >>>> Jared(5.5105133056640625)-(Enoch@57.0+Enos@108.0).0's result is 0
+(Mon Apr  3 22:41:30 2017) >>>> Jared(5.5105133056640625)-(Enoch@57.0+Enos@108.0).0's result is 0
+(Mon Apr  3 22:41:31 2017) >>>> Jared(5.5105133056640625)-(Enoch@57.0+Enos@108.0).0's result is 0
+(Mon Apr  3 22:41:31 2017) >>>> Trying 7 and 107
+(Mon Apr  3 22:41:32 2017) >>>> Mahaleel(4.50390625)-(Mahaleel@7.0+Enos@107.0).0's result is 7.12658279759e-28
+(Mon Apr  3 22:41:32 2017) >>>> Replacing 2.
+(Mon Apr  3 22:41:32 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:32 2017) >>>> Trying 126 and 133
+(Mon Apr  3 22:41:33 2017) >>>> Enoch(6.4005126953125)-(Enoch@126.1+Mahaleel@133.0).0's result is 2.41379468781e-27
+(Mon Apr  3 22:41:33 2017) >>>> Replacing 107.
+(Mon Apr  3 22:41:33 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:33 2017) >>>> Trying 85 and 87
+(Mon Apr  3 22:41:33 2017) >>>> Mahaleel(4.947265625)-(Enos@85.1+Jared@87.3).0's result is 6.64198571831e-28
+(Mon Apr  3 22:41:33 2017) >>>> Replacing 27.
+(Mon Apr  3 22:41:33 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:33 2017) >>>> Trying 18 and 2
+(Mon Apr  3 22:41:34 2017) >>>> Enoch(6.2999267578125)-(Enoch@18.2+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:34 2017) >>>> Enoch(6.2999267578125)-(Enoch@18.2+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:35 2017) >>>> Enoch(6.2999267578125)-(Enoch@18.2+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:35 2017) >>>> Trying 14 and 136
+(Mon Apr  3 22:41:36 2017) >>>> Enoch(6.41259765625)-(Mahaleel@14.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:41:37 2017) >>>> Enoch(6.41259765625)-(Mahaleel@14.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:41:38 2017) >>>> Enoch(6.41259765625)-(Mahaleel@14.0+Jared@136.2).0's result is 0
+(Mon Apr  3 22:41:38 2017) >>>> Trying 57 and 119
+(Mon Apr  3 22:41:39 2017) >>>> Enoch(6.1316070556640625)-(Enoch@57.0+Mahaleel@119.2).0's result is 2.43383181884e-27
+(Mon Apr  3 22:41:39 2017) >>>> Replacing 10.
+(Mon Apr  3 22:41:39 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:39 2017) >>>> Trying 1 and 155
+(Mon Apr  3 22:41:40 2017) >>>> Jared(5.264190673828125)-(Jared@1.6+Enos@155.0).0's result is 2.04676357531e-27
+(Mon Apr  3 22:41:40 2017) >>>> New address 173.
+(Mon Apr  3 22:41:40 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:40 2017) >>>> Trying 71 and 8
+(Mon Apr  3 22:41:40 2017) >>>> Methusaleh(7.776782989501953)-(Enoch@71.1+Methusaleh@8.1).0's result is 0
+(Mon Apr  3 22:41:40 2017) >>>> Methusaleh(7.776782989501953)-(Enoch@71.1+Methusaleh@8.1).0's result is 0
+(Mon Apr  3 22:41:41 2017) >>>> Methusaleh(7.776782989501953)-(Enoch@71.1+Methusaleh@8.1).0's result is 0
+(Mon Apr  3 22:41:41 2017) >>>> Trying 46 and 85
+(Mon Apr  3 22:41:41 2017) >>>> Jared(5.15576171875)-(Jared@46.2+Enos@85.1).0's result is 0
+(Mon Apr  3 22:41:42 2017) >>>> Jared(5.15576171875)-(Jared@46.2+Enos@85.1).0's result is 8.17145873147e-28
+(Mon Apr  3 22:41:42 2017) >>>> New address 174.
+(Mon Apr  3 22:41:42 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:42 2017) >>>> Trying 107 and 46
+(Mon Apr  3 22:41:42 2017) >>>> Enoch(6.95562744140625)-(Enoch@107.0+Jared@46.2).0's result is 0
+(Mon Apr  3 22:41:42 2017) >>>> Enoch(6.95562744140625)-(Enoch@107.0+Jared@46.2).0's result is 1.3281068929e-27
+(Mon Apr  3 22:41:42 2017) >>>> Replacing 116.
+(Mon Apr  3 22:41:42 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:42 2017) >>>> Trying 169 and 119
+(Mon Apr  3 22:41:43 2017) >>>> Enoch(6.714263916015625)-(Methusaleh@169.1+Mahaleel@119.2).0's result is 1.61369333884e-27
+(Mon Apr  3 22:41:43 2017) >>>> Replacing 130.
+(Mon Apr  3 22:41:43 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:43 2017) >>>> Trying 71 and 46
+(Mon Apr  3 22:41:43 2017) >>>> Enoch(6.79168701171875)-(Enoch@71.1+Jared@46.2).0's result is 0
+(Mon Apr  3 22:41:44 2017) >>>> Enoch(6.79168701171875)-(Enoch@71.1+Jared@46.2).0's result is 1.18550636685e-27
+(Mon Apr  3 22:41:44 2017) >>>> New address 175.
+(Mon Apr  3 22:41:44 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:44 2017) >>>> Trying 148 and 65
+(Mon Apr  3 22:41:45 2017) >>>> Enoch(6.36376953125)-(Jared@148.5+Jared@65.1).0's result is 0
+(Mon Apr  3 22:41:46 2017) >>>> Enoch(6.36376953125)-(Jared@148.5+Jared@65.1).0's result is 0
+(Mon Apr  3 22:41:47 2017) >>>> Enoch(6.36376953125)-(Jared@148.5+Jared@65.1).0's result is 2.35888640163e-27
+(Mon Apr  3 22:41:47 2017) >>>> New address 176.
+(Mon Apr  3 22:41:47 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:47 2017) >>>> Trying 126 and 134
+(Mon Apr  3 22:41:48 2017) >>>> Enoch(6.0108642578125)-(Enoch@126.1+Cainan@134.0).0's result is 1.61603844062e-27
+(Mon Apr  3 22:41:48 2017) >>>> Replacing 58.
+(Mon Apr  3 22:41:48 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:48 2017) >>>> Trying 156 and 56
+(Mon Apr  3 22:41:49 2017) >>>> Enoch(6.406005859375)-(Enoch@156.2+Mahaleel@56.2).0's result is 0
+(Mon Apr  3 22:41:50 2017) >>>> Enoch(6.406005859375)-(Enoch@156.2+Mahaleel@56.2).0's result is 1.03235467311e-27
+(Mon Apr  3 22:41:50 2017) >>>> New address 177.
+(Mon Apr  3 22:41:50 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:50 2017) >>>> Trying 158 and 2
+(Mon Apr  3 22:41:50 2017) >>>> Jared(5.50390625)-(Mahaleel@158.1+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:50 2017) >>>> Jared(5.50390625)-(Mahaleel@158.1+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:50 2017) >>>> Jared(5.50390625)-(Mahaleel@158.1+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:41:50 2017) >>>> Trying 127 and 25
+(Mon Apr  3 22:41:51 2017) >>>> Mahaleel(4.1552734375)-(Mahaleel@127.0+Seth@25.1).0's result is 6.51098343458e-28
+(Mon Apr  3 22:41:51 2017) >>>> Replacing 94.
+(Mon Apr  3 22:41:51 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:51 2017) >>>> Trying 149 and 62
+(Mon Apr  3 22:41:52 2017) >>>> Methusaleh(7.25006103515625)-(Methusaleh@149.3+Jared@62.2).0's result is 1.03219910813e-27
+(Mon Apr  3 22:41:52 2017) >>>> New address 178.
+(Mon Apr  3 22:41:52 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:52 2017) >>>> Trying 126 and 168
+(Mon Apr  3 22:41:52 2017) >>>> Enoch(6.652984619140625)-(Enoch@126.1+Jared@168.1).0's result is 0
+(Mon Apr  3 22:41:52 2017) >>>> Enoch(6.652984619140625)-(Enoch@126.1+Jared@168.1).0's result is 0
+(Mon Apr  3 22:41:53 2017) >>>> Enoch(6.652984619140625)-(Enoch@126.1+Jared@168.1).0's result is 3.03025257047e-27
+(Mon Apr  3 22:41:53 2017) >>>> New address 179.
+(Mon Apr  3 22:41:53 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:53 2017) >>>> Trying 58 and 19
+(Mon Apr  3 22:41:53 2017) >>>> Enoch(6.77520751953125)-(Enoch@58.0+Jared@19.1).0's result is 0
+(Mon Apr  3 22:41:54 2017) >>>> Enoch(6.77520751953125)-(Enoch@58.0+Jared@19.1).0's result is 1.23822181256e-27
+(Mon Apr  3 22:41:54 2017) >>>> New address 180.
+(Mon Apr  3 22:41:54 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:54 2017) >>>> Trying 8 and 6
+(Mon Apr  3 22:41:55 2017) >>>> Enoch(6.541248321533203)-(Methusaleh@8.1+Cainan@6.0).0's result is 9.89877080659e-28
+(Mon Apr  3 22:41:55 2017) >>>> Replacing 0.
+(Mon Apr  3 22:41:55 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:55 2017) >>>> Trying 61 and 62
+(Mon Apr  3 22:41:56 2017) >>>> Methusaleh(7.538875579833984)-(Methusaleh@61.2+Jared@62.2).0's result is 1.04652362548e-27
+(Mon Apr  3 22:41:56 2017) >>>> Replacing 80.
+(Mon Apr  3 22:41:56 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:56 2017) >>>> Trying 173 and 161
+(Mon Apr  3 22:41:56 2017) >>>> Enoch(6.5381622314453125)-(Jared@173.0+Jared@161.1).0's result is 0
+(Mon Apr  3 22:41:57 2017) >>>> Enoch(6.5381622314453125)-(Jared@173.0+Jared@161.1).0's result is 1.4554658798e-27
+(Mon Apr  3 22:41:57 2017) >>>> Replacing 26.
+(Mon Apr  3 22:41:57 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:57 2017) >>>> Trying 126 and 172
+(Mon Apr  3 22:41:58 2017) >>>> Methusaleh(7.075103759765625)-(Enoch@126.1+Enoch@172.0).0's result is 1.67526986495e-27
+(Mon Apr  3 22:41:58 2017) >>>> Replacing 117.
+(Mon Apr  3 22:41:58 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:41:58 2017) >>>> Trying 174 and 13
+(Mon Apr  3 22:41:59 2017) >>>> Enoch(6.90411376953125)-(Jared@174.4+Enoch@13.1).0's result is 0
+(Mon Apr  3 22:42:00 2017) >>>> Enoch(6.90411376953125)-(Jared@174.4+Enoch@13.1).0's result is 0
+(Mon Apr  3 22:42:01 2017) >>>> Enoch(6.90411376953125)-(Jared@174.4+Enoch@13.1).0's result is 1.20947268926e-27
+(Mon Apr  3 22:42:01 2017) >>>> New address 181.
+(Mon Apr  3 22:42:01 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:01 2017) >>>> Trying 18 and 46
+(Mon Apr  3 22:42:02 2017) >>>> Enoch(6.8033447265625)-(Enoch@18.2+Jared@46.2).0's result is 8.35963349666e-28
+(Mon Apr  3 22:42:02 2017) >>>> New address 182.
+(Mon Apr  3 22:42:02 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:02 2017) >>>> Trying 166 and 67
+(Mon Apr  3 22:42:03 2017) >>>> Enoch(6.661376953125)-(Jared@166.1+Jared@67.1).0's result is 8.19214468379e-28
+(Mon Apr  3 22:42:03 2017) >>>> New address 183.
+(Mon Apr  3 22:42:03 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:03 2017) >>>> Trying 90 and 26
+(Mon Apr  3 22:42:03 2017) >>>> Methusaleh(7.775886535644531)-(Methusaleh@90.0+Enoch@26.1).0's result is 0
+(Mon Apr  3 22:42:03 2017) >>>> Methusaleh(7.775886535644531)-(Methusaleh@90.0+Enoch@26.1).0's result is 0
+(Mon Apr  3 22:42:04 2017) >>>> Methusaleh(7.775886535644531)-(Methusaleh@90.0+Enoch@26.1).0's result is 1.54237391072e-27
+(Mon Apr  3 22:42:04 2017) >>>> New address 184.
+(Mon Apr  3 22:42:04 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:04 2017) >>>> Trying 148 and 132
+(Mon Apr  3 22:42:05 2017) >>>> Enoch(6.8525390625)-(Jared@148.5+Enoch@132.0).0's result is 0
+(Mon Apr  3 22:42:06 2017) >>>> Enoch(6.8525390625)-(Jared@148.5+Enoch@132.0).0's result is 0
+(Mon Apr  3 22:42:06 2017) >>>> Enoch(6.8525390625)-(Jared@148.5+Enoch@132.0).0's result is 0
+(Mon Apr  3 22:42:06 2017) >>>> Trying 177 and 14
+(Mon Apr  3 22:42:07 2017) >>>> Enoch(6.6580810546875)-(Enoch@177.1+Mahaleel@14.0).0's result is 0
+(Mon Apr  3 22:42:07 2017) >>>> Enoch(6.6580810546875)-(Enoch@177.1+Mahaleel@14.0).0's result is 1.33467185756e-27
+(Mon Apr  3 22:42:07 2017) >>>> New address 185.
+(Mon Apr  3 22:42:07 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:07 2017) >>>> Trying 126 and 163
+(Mon Apr  3 22:42:08 2017) >>>> Methusaleh(7.3853607177734375)-(Enoch@126.1+Enoch@163.0).0's result is 0
+(Mon Apr  3 22:42:08 2017) >>>> Methusaleh(7.3853607177734375)-(Enoch@126.1+Enoch@163.0).0's result is 0
+(Mon Apr  3 22:42:08 2017) >>>> Methusaleh(7.3853607177734375)-(Enoch@126.1+Enoch@163.0).0's result is 0
+(Mon Apr  3 22:42:08 2017) >>>> Trying 79 and 160
+(Mon Apr  3 22:42:09 2017) >>>> Mahaleel(4.09375)-(Cainan@79.3+Cainan@160.2).0's result is 0
+(Mon Apr  3 22:42:09 2017) >>>> Mahaleel(4.09375)-(Cainan@79.3+Cainan@160.2).0's result is 0
+(Mon Apr  3 22:42:09 2017) >>>> Mahaleel(4.09375)-(Cainan@79.3+Cainan@160.2).0's result is 7.55294513014e-05
+(Mon Apr  3 22:42:09 2017) >>>> Replacing 129.
+(Mon Apr  3 22:42:09 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:09 2017) >>>> Trying 61 and 86
+(Mon Apr  3 22:42:09 2017) >>>> Methusaleh(7.136043548583984)-(Methusaleh@61.2+Mahaleel@86.0).0's result is 0
+(Mon Apr  3 22:42:10 2017) >>>> Methusaleh(7.136043548583984)-(Methusaleh@61.2+Mahaleel@86.0).0's result is 1.36992346143e-27
+(Mon Apr  3 22:42:10 2017) >>>> Replacing 124.
+(Mon Apr  3 22:42:10 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:10 2017) >>>> Trying 12 and 144
+(Mon Apr  3 22:42:11 2017) >>>> Mahaleel(4.21923828125)-(Enos@12.1+Mahaleel@144.3).0's result is 4.11752344008e-28
+(Mon Apr  3 22:42:11 2017) >>>> Replacing 155.
+(Mon Apr  3 22:42:11 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:11 2017) >>>> Trying 156 and 6
+(Mon Apr  3 22:42:12 2017) >>>> Enoch(6.017578125)-(Enoch@156.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:42:12 2017) >>>> Enoch(6.017578125)-(Enoch@156.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:42:13 2017) >>>> Enoch(6.017578125)-(Enoch@156.2+Cainan@6.0).0's result is 0
+(Mon Apr  3 22:42:13 2017) >>>> Trying 1 and 27
+(Mon Apr  3 22:42:14 2017) >>>> Enoch(6.378448486328125)-(Jared@1.6+Mahaleel@27.0).0's result is 0
+(Mon Apr  3 22:42:14 2017) >>>> Enoch(6.378448486328125)-(Jared@1.6+Mahaleel@27.0).0's result is 0
+(Mon Apr  3 22:42:14 2017) >>>> Enoch(6.378448486328125)-(Jared@1.6+Mahaleel@27.0).0's result is 0
+(Mon Apr  3 22:42:14 2017) >>>> Trying 170 and 155
+(Mon Apr  3 22:42:15 2017) >>>> Jared(5.906005859375)-(Jared@170.0+Mahaleel@155.0).0's result is 0
+(Mon Apr  3 22:42:16 2017) >>>> Jared(5.906005859375)-(Jared@170.0+Mahaleel@155.0).0's result is 5.89393756126e-28
+(Mon Apr  3 22:42:16 2017) >>>> Replacing 93.
+(Mon Apr  3 22:42:16 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:16 2017) >>>> Trying 177 and 18
+(Mon Apr  3 22:42:17 2017) >>>> Methusaleh(7.2509765625)-(Enoch@177.1+Enoch@18.2).0's result is 1.19349696546e-27
+(Mon Apr  3 22:42:17 2017) >>>> Replacing 142.
+(Mon Apr  3 22:42:17 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:17 2017) >>>> Trying 175 and 18
+(Mon Apr  3 22:42:17 2017) >>>> Methusaleh(7.443817138671875)-(Enoch@175.1+Enoch@18.2).0's result is 0
+(Mon Apr  3 22:42:18 2017) >>>> Methusaleh(7.443817138671875)-(Enoch@175.1+Enoch@18.2).0's result is 8.83425306002e-28
+(Mon Apr  3 22:42:18 2017) >>>> Replacing 44.
+(Mon Apr  3 22:42:18 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:18 2017) >>>> Trying 167 and 162
+(Mon Apr  3 22:42:18 2017) >>>> Methusaleh(7.292900085449219)-(Jared@167.1+Enoch@162.2).0's result is 0
+(Mon Apr  3 22:42:18 2017) >>>> Methusaleh(7.292900085449219)-(Jared@167.1+Enoch@162.2).0's result is 0
+(Mon Apr  3 22:42:19 2017) >>>> Methusaleh(7.292900085449219)-(Jared@167.1+Enoch@162.2).0's result is 2.04805323888e-27
+(Mon Apr  3 22:42:19 2017) >>>> New address 186.
+(Mon Apr  3 22:42:19 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:19 2017) >>>> Trying 175 and 44
+(Mon Apr  3 22:42:19 2017) >>>> Lamech(8.117752075195312)-(Enoch@175.1+Methusaleh@44.1).0's result is 0
+(Mon Apr  3 22:42:19 2017) >>>> Lamech(8.117752075195312)-(Enoch@175.1+Methusaleh@44.1).0's result is 0
+(Mon Apr  3 22:42:20 2017) >>>> Lamech(8.117752075195312)-(Enoch@175.1+Methusaleh@44.1).0's result is 0
+(Mon Apr  3 22:42:20 2017) >>>> Trying 95 and 149
+(Mon Apr  3 22:42:21 2017) >>>> Methusaleh(7.31988525390625)-(Jared@95.0+Methusaleh@149.3).0's result is 4.79140515229e-28
+(Mon Apr  3 22:42:21 2017) >>>> New address 187.
+(Mon Apr  3 22:42:21 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:21 2017) >>>> Trying 184 and 143
+(Mon Apr  3 22:42:22 2017) >>>> Lamech(8.42404556274414)-(Methusaleh@184.2+Methusaleh@143.0).0's result is 1.60282509442e-27
+(Mon Apr  3 22:42:22 2017) >>>> Replacing 12.
+(Mon Apr  3 22:42:22 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:22 2017) >>>> Trying 71 and 176
+(Mon Apr  3 22:42:22 2017) >>>> Methusaleh(7.21820068359375)-(Enoch@71.1+Enoch@176.2).0's result is 0
+(Mon Apr  3 22:42:22 2017) >>>> Methusaleh(7.21820068359375)-(Enoch@71.1+Enoch@176.2).0's result is 0
+(Mon Apr  3 22:42:23 2017) >>>> Methusaleh(7.21820068359375)-(Enoch@71.1+Enoch@176.2).0's result is 0
+(Mon Apr  3 22:42:23 2017) >>>> Trying 175 and 33
+(Mon Apr  3 22:42:24 2017) >>>> Lamech(8.221817016601562)-(Enoch@175.1+Methusaleh@33.0).0's result is 0
+(Mon Apr  3 22:42:24 2017) >>>> Lamech(8.221817016601562)-(Enoch@175.1+Methusaleh@33.0).0's result is 0
+(Mon Apr  3 22:42:24 2017) >>>> Lamech(8.221817016601562)-(Enoch@175.1+Methusaleh@33.0).0's result is 9.46240364028e-28
+(Mon Apr  3 22:42:24 2017) >>>> New address 188.
+(Mon Apr  3 22:42:24 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:24 2017) >>>> Trying 39 and 43
+(Mon Apr  3 22:42:25 2017) >>>> Enoch(6.597564697265625)-(Enoch@39.0+Jared@43.3).0's result is 1.06782783608e-27
+(Mon Apr  3 22:42:25 2017) >>>> New address 189.
+(Mon Apr  3 22:42:25 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:25 2017) >>>> Trying 162 and 182
+(Mon Apr  3 22:42:26 2017) >>>> Methusaleh(7.752128601074219)-(Enoch@162.2+Enoch@182.0).0's result is 0
+(Mon Apr  3 22:42:27 2017) >>>> Methusaleh(7.752128601074219)-(Enoch@162.2+Enoch@182.0).0's result is 1.29765565953e-27
+(Mon Apr  3 22:42:27 2017) >>>> New address 190.
+(Mon Apr  3 22:42:27 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:27 2017) >>>> Trying 12 and 150
+(Mon Apr  3 22:42:28 2017) >>>> Lamech(8.24015998840332)-(Lamech@12.0+Enoch@150.0).0's result is 0
+(Mon Apr  3 22:42:30 2017) >>>> Lamech(8.24015998840332)-(Lamech@12.0+Enoch@150.0).0's result is 0
+(Mon Apr  3 22:42:31 2017) >>>> Lamech(8.24015998840332)-(Lamech@12.0+Enoch@150.0).0's result is 0
+(Mon Apr  3 22:42:31 2017) >>>> Trying 94 and 125
+(Mon Apr  3 22:42:31 2017) >>>> Mahaleel(4.98876953125)-(Mahaleel@94.3+Cainan@125.1).0's result is 6.58097272319e-28
+(Mon Apr  3 22:42:31 2017) >>>> Replacing 104.
+(Mon Apr  3 22:42:31 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:31 2017) >>>> Trying 158 and 179
+(Mon Apr  3 22:42:32 2017) >>>> Enoch(6.5784454345703125)-(Mahaleel@158.1+Enoch@179.2).0's result is 6.97858045177e-14
+(Mon Apr  3 22:42:32 2017) >>>> New address 191.
+(Mon Apr  3 22:42:32 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:32 2017) >>>> Trying 11 and 109
+(Mon Apr  3 22:42:32 2017) >>>> Mahaleel(4.875)-(Mahaleel@11.2+Cainan@109.0).0's result is 7.50504180787e-05
+(Mon Apr  3 22:42:32 2017) >>>> New address 192.
+(Mon Apr  3 22:42:32 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:32 2017) >>>> Trying 71 and 171
+(Mon Apr  3 22:42:33 2017) >>>> Methusaleh(7.1854248046875)-(Enoch@71.1+Enoch@171.0).0's result is 1.92371498162e-27
+(Mon Apr  3 22:42:33 2017) >>>> Replacing 149.
+(Mon Apr  3 22:42:33 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:33 2017) >>>> Trying 142 and 2
+(Mon Apr  3 22:42:34 2017) >>>> Enoch(6.87744140625)-(Methusaleh@142.0+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:42:35 2017) >>>> Enoch(6.87744140625)-(Methusaleh@142.0+Mahaleel@2.3).0's result is 1.88268481547e-27
+(Mon Apr  3 22:42:35 2017) >>>> New address 193.
+(Mon Apr  3 22:42:35 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:35 2017) >>>> Trying 46 and 87
+(Mon Apr  3 22:42:36 2017) >>>> Enoch(6.30224609375)-(Jared@46.2+Jared@87.3).0's result is 0
+(Mon Apr  3 22:42:37 2017) >>>> Enoch(6.30224609375)-(Jared@46.2+Jared@87.3).0's result is 8.74072827257e-28
+(Mon Apr  3 22:42:37 2017) >>>> Replacing 30.
+(Mon Apr  3 22:42:37 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:37 2017) >>>> Trying 156 and 101
+(Mon Apr  3 22:42:37 2017) >>>> Methusaleh(7.015380859375)-(Enoch@156.2+Jared@101.0).0's result is 0
+(Mon Apr  3 22:42:38 2017) >>>> Methusaleh(7.015380859375)-(Enoch@156.2+Jared@101.0).0's result is 0
+(Mon Apr  3 22:42:39 2017) >>>> Methusaleh(7.015380859375)-(Enoch@156.2+Jared@101.0).0's result is 0
+(Mon Apr  3 22:42:39 2017) >>>> Trying 170 and 175
+(Mon Apr  3 22:42:40 2017) >>>> Methusaleh(7.192230224609375)-(Jared@170.0+Enoch@175.1).0's result is 0
+(Mon Apr  3 22:42:40 2017) >>>> Methusaleh(7.192230224609375)-(Jared@170.0+Enoch@175.1).0's result is 0
+(Mon Apr  3 22:42:42 2017) >>>> Methusaleh(7.192230224609375)-(Jared@170.0+Enoch@175.1).0's result is 0
+(Mon Apr  3 22:42:42 2017) >>>> Trying 58 and 159
+(Mon Apr  3 22:42:43 2017) >>>> Enoch(6.8906707763671875)-(Enoch@58.0+Jared@159.7).0's result is 0
+(Mon Apr  3 22:42:43 2017) >>>> Enoch(6.8906707763671875)-(Enoch@58.0+Jared@159.7).0's result is 0
+(Mon Apr  3 22:42:43 2017) >>>> Enoch(6.8906707763671875)-(Enoch@58.0+Jared@159.7).0's result is 0
+(Mon Apr  3 22:42:43 2017) >>>> Trying 108 and 87
+(Mon Apr  3 22:42:43 2017) >>>> Jared(5.03125)-(Enos@108.0+Jared@87.3).0's result is 0
+(Mon Apr  3 22:42:44 2017) >>>> Jared(5.03125)-(Enos@108.0+Jared@87.3).0's result is 7.05708423078e-28
+(Mon Apr  3 22:42:44 2017) >>>> New address 194.
+(Mon Apr  3 22:42:44 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:44 2017) >>>> Trying 122 and 34
+(Mon Apr  3 22:42:45 2017) >>>> Jared(5.86279296875)-(Jared@122.1+Mahaleel@34.0).0's result is 0
+(Mon Apr  3 22:42:46 2017) >>>> Jared(5.86279296875)-(Jared@122.1+Mahaleel@34.0).0's result is 3.76962202625e-28
+(Mon Apr  3 22:42:46 2017) >>>> Replacing 47.
+(Mon Apr  3 22:42:46 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:46 2017) >>>> Trying 58 and 181
+(Mon Apr  3 22:42:46 2017) >>>> Methusaleh(7.457489013671875)-(Enoch@58.0+Enoch@181.2).0's result is 1.09338516295e-27
+(Mon Apr  3 22:42:46 2017) >>>> Replacing 161.
+(Mon Apr  3 22:42:46 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:46 2017) >>>> Trying 124 and 88
+(Mon Apr  3 22:42:48 2017) >>>> Methusaleh(7.509153366088867)-(Methusaleh@124.1+Jared@88.2).0's result is 2.00126097842e-27
+(Mon Apr  3 22:42:48 2017) >>>> New address 195.
+(Mon Apr  3 22:42:48 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:48 2017) >>>> Trying 12 and 3
+(Mon Apr  3 22:42:49 2017) >>>> Lamech(8.672197341918945)-(Lamech@12.0+Enoch@3.3).0's result is 2.41381801749e-27
+(Mon Apr  3 22:42:49 2017) >>>> New address 196.
+(Mon Apr  3 22:42:49 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:49 2017) >>>> Trying 103 and 159
+(Mon Apr  3 22:42:50 2017) >>>> Enoch(6.2953948974609375)-(Mahaleel@103.1+Jared@159.7).0's result is 1.42907822628e-27
+(Mon Apr  3 22:42:50 2017) >>>> New address 197.
+(Mon Apr  3 22:42:50 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:50 2017) >>>> Trying 107 and 2
+(Mon Apr  3 22:42:51 2017) >>>> Enoch(6.45220947265625)-(Enoch@107.0+Mahaleel@2.3).0's result is 2.95518147518e-27
+(Mon Apr  3 22:42:51 2017) >>>> Replacing 37.
+(Mon Apr  3 22:42:51 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:51 2017) >>>> Trying 12 and 108
+(Mon Apr  3 22:42:52 2017) >>>> Enoch(6.69639778137207)-(Lamech@12.0+Enos@108.0).0's result is 2.34266835707e-27
+(Mon Apr  3 22:42:52 2017) >>>> Replacing 78.
+(Mon Apr  3 22:42:52 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:52 2017) >>>> Trying 78 and 106
+(Mon Apr  3 22:42:52 2017) >>>> Methusaleh(7.306267738342285)-(Enoch@78.0+Jared@106.0).0's result is 1.69623654412e-27
+(Mon Apr  3 22:42:52 2017) >>>> New address 198.
+(Mon Apr  3 22:42:52 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:52 2017) >>>> Trying 185 and 108
+(Mon Apr  3 22:42:54 2017) >>>> Jared(5.81341552734375)-(Enoch@185.4+Enos@108.0).0's result is 2.31648321381e-27
+(Mon Apr  3 22:42:54 2017) >>>> Replacing 93.
+(Mon Apr  3 22:42:54 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:54 2017) >>>> Trying 57 and 19
+(Mon Apr  3 22:42:55 2017) >>>> Enoch(6.7959136962890625)-(Enoch@57.0+Jared@19.1).0's result is 0
+(Mon Apr  3 22:42:56 2017) >>>> Enoch(6.7959136962890625)-(Enoch@57.0+Jared@19.1).0's result is 0
+(Mon Apr  3 22:42:56 2017) >>>> Enoch(6.7959136962890625)-(Enoch@57.0+Jared@19.1).0's result is 0
+(Mon Apr  3 22:42:56 2017) >>>> Trying 195 and 187
+(Mon Apr  3 22:42:58 2017) >>>> Lamech(8.414519309997559)-(Methusaleh@195.0+Methusaleh@187.3).0's result is 1.48378744565e-27
+(Mon Apr  3 22:42:58 2017) >>>> Replacing 15.
+(Mon Apr  3 22:42:58 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:58 2017) >>>> Trying 11 and 55
+(Mon Apr  3 22:42:58 2017) >>>> Mahaleel(4.3125)-(Mahaleel@11.2+Enos@55.0).0's result is 0
+(Mon Apr  3 22:42:58 2017) >>>> Mahaleel(4.3125)-(Mahaleel@11.2+Enos@55.0).0's result is 0
+(Mon Apr  3 22:42:59 2017) >>>> Mahaleel(4.3125)-(Mahaleel@11.2+Enos@55.0).0's result is 7.52539853629e-05
+(Mon Apr  3 22:42:59 2017) >>>> Replacing 183.
+(Mon Apr  3 22:42:59 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:42:59 2017) >>>> Trying 174 and 137
+(Mon Apr  3 22:42:59 2017) >>>> Enoch(6.206298828125)-(Jared@174.4+Jared@137.5).0's result is 0
+(Mon Apr  3 22:43:00 2017) >>>> Enoch(6.206298828125)-(Jared@174.4+Jared@137.5).0's result is 0
+(Mon Apr  3 22:43:01 2017) >>>> Enoch(6.206298828125)-(Jared@174.4+Jared@137.5).0's result is 0
+(Mon Apr  3 22:43:01 2017) >>>> Trying 116 and 2
+(Mon Apr  3 22:43:02 2017) >>>> Enoch(6.729766845703125)-(Enoch@116.1+Mahaleel@2.3).0's result is 0
+(Mon Apr  3 22:43:03 2017) >>>> Enoch(6.729766845703125)-(Enoch@116.1+Mahaleel@2.3).0's result is 1.73795172839e-27
+(Mon Apr  3 22:43:03 2017) >>>> New address 199.
+(Mon Apr  3 22:43:03 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:03 2017) >>>> Trying 22 and 0
+(Mon Apr  3 22:43:03 2017) >>>> Enoch(6.923700332641602)-(Jared@22.2+Enoch@0.0).0's result is 0
+(Mon Apr  3 22:43:03 2017) >>>> Enoch(6.923700332641602)-(Jared@22.2+Enoch@0.0).0's result is 0
+(Mon Apr  3 22:43:03 2017) >>>> Enoch(6.923700332641602)-(Jared@22.2+Enoch@0.0).0's result is 0
+(Mon Apr  3 22:43:03 2017) >>>> Trying 22 and 195
+(Mon Apr  3 22:43:03 2017) >>>> Methusaleh(7.407652854919434)-(Jared@22.2+Methusaleh@195.0).0's result is 0
+(Mon Apr  3 22:43:03 2017) >>>> Methusaleh(7.407652854919434)-(Jared@22.2+Methusaleh@195.0).0's result is 0
+(Mon Apr  3 22:43:04 2017) >>>> Methusaleh(7.407652854919434)-(Jared@22.2+Methusaleh@195.0).0's result is 0
+(Mon Apr  3 22:43:04 2017) >>>> Trying 26 and 77
+(Mon Apr  3 22:43:05 2017) >>>> Enoch(6.774452209472656)-(Enoch@26.1+Jared@77.0).0's result is 0
+(Mon Apr  3 22:43:06 2017) >>>> Enoch(6.774452209472656)-(Enoch@26.1+Jared@77.0).0's result is 0
+(Mon Apr  3 22:43:06 2017) >>>> Enoch(6.774452209472656)-(Enoch@26.1+Jared@77.0).0's result is 0
+(Mon Apr  3 22:43:06 2017) >>>> Trying 7 and 65
+(Mon Apr  3 22:43:07 2017) >>>> Jared(5.6466064453125)-(Mahaleel@7.0+Jared@65.1).0's result is 0
+(Mon Apr  3 22:43:09 2017) >>>> Jared(5.6466064453125)-(Mahaleel@7.0+Jared@65.1).0's result is 0
+(Mon Apr  3 22:43:09 2017) >>>> Jared(5.6466064453125)-(Mahaleel@7.0+Jared@65.1).0's result is 0
+(Mon Apr  3 22:43:09 2017) >>>> Trying 168 and 40
+(Mon Apr  3 22:43:10 2017) >>>> Jared(5.730987548828125)-(Jared@168.1+Mahaleel@40.0).0's result is 0
+(Mon Apr  3 22:43:11 2017) >>>> Jared(5.730987548828125)-(Jared@168.1+Mahaleel@40.0).0's result is 0
+(Mon Apr  3 22:43:12 2017) >>>> Jared(5.730987548828125)-(Jared@168.1+Mahaleel@40.0).0's result is 0
+(Mon Apr  3 22:43:12 2017) >>>> Trying 77 and 97
+(Mon Apr  3 22:43:13 2017) >>>> Enoch(6.09423828125)-(Jared@77.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:43:14 2017) >>>> Enoch(6.09423828125)-(Jared@77.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:43:15 2017) >>>> Enoch(6.09423828125)-(Jared@77.0+Jared@97.0).0's result is 0
+(Mon Apr  3 22:43:15 2017) >>>> Trying 176 and 189
+(Mon Apr  3 22:43:16 2017) >>>> Methusaleh(7.4806671142578125)-(Enoch@176.2+Enoch@189.0).0's result is 0
+(Mon Apr  3 22:43:17 2017) >>>> Methusaleh(7.4806671142578125)-(Enoch@176.2+Enoch@189.0).0's result is 0
+(Mon Apr  3 22:43:18 2017) >>>> Methusaleh(7.4806671142578125)-(Enoch@176.2+Enoch@189.0).0's result is 0
+(Mon Apr  3 22:43:18 2017) >>>> Trying 37 and 121
+(Mon Apr  3 22:43:18 2017) >>>> Enoch(6.702178955078125)-(Enoch@37.0+Mahaleel@121.1).0's result is 0
+(Mon Apr  3 22:43:19 2017) >>>> Enoch(6.702178955078125)-(Enoch@37.0+Mahaleel@121.1).0's result is 0
+(Mon Apr  3 22:43:21 2017) >>>> Enoch(6.702178955078125)-(Enoch@37.0+Mahaleel@121.1).0's result is 1.96603949673e-27
+(Mon Apr  3 22:43:21 2017) >>>> Replacing 43.
+(Mon Apr  3 22:43:21 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:21 2017) >>>> Trying 177 and 122
+(Mon Apr  3 22:43:22 2017) >>>> Enoch(6.7396240234375)-(Enoch@177.1+Jared@122.1).0's result is 0
+(Mon Apr  3 22:43:23 2017) >>>> Enoch(6.7396240234375)-(Enoch@177.1+Jared@122.1).0's result is 1.21837692008e-27
+(Mon Apr  3 22:43:23 2017) >>>> New address 200.
+(Mon Apr  3 22:43:23 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:23 2017) >>>> Trying 167 and 33
+(Mon Apr  3 22:43:23 2017) >>>> Methusaleh(7.7684173583984375)-(Jared@167.1+Methusaleh@33.0).0's result is 0
+(Mon Apr  3 22:43:24 2017) >>>> Methusaleh(7.7684173583984375)-(Jared@167.1+Methusaleh@33.0).0's result is 0
+(Mon Apr  3 22:43:25 2017) >>>> Methusaleh(7.7684173583984375)-(Jared@167.1+Methusaleh@33.0).0's result is 0
+(Mon Apr  3 22:43:25 2017) >>>> Trying 186 and 198
+(Mon Apr  3 22:43:26 2017) >>>> Lamech(8.299583911895752)-(Methusaleh@186.2+Methusaleh@198.0).0's result is 1.8786184303e-27
+(Mon Apr  3 22:43:26 2017) >>>> New address 201.
+(Mon Apr  3 22:43:26 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:26 2017) >>>> Trying 124 and 92
+(Mon Apr  3 22:43:27 2017) >>>> Enoch(6.388334274291992)-(Methusaleh@124.1+Cainan@92.0).0's result is 3.74369382607e-27
+(Mon Apr  3 22:43:27 2017) >>>> Replacing 145.
+(Mon Apr  3 22:43:27 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:27 2017) >>>> Trying 148 and 15
+(Mon Apr  3 22:43:27 2017) >>>> Methusaleh(7.943953990936279)-(Jared@148.5+Lamech@15.3).0's result is 0
+(Mon Apr  3 22:43:28 2017) >>>> Methusaleh(7.943953990936279)-(Jared@148.5+Lamech@15.3).0's result is 0
+(Mon Apr  3 22:43:29 2017) >>>> Methusaleh(7.943953990936279)-(Jared@148.5+Lamech@15.3).0's result is 0
+(Mon Apr  3 22:43:29 2017) >>>> Trying 58 and 130
+(Mon Apr  3 22:43:30 2017) >>>> Methusaleh(7.3625640869140625)-(Enoch@58.0+Enoch@130.0).0's result is 1.61453740715e-27
+(Mon Apr  3 22:43:30 2017) >>>> Replacing 25.
+(Mon Apr  3 22:43:30 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:30 2017) >>>> Trying 92 and 114
+(Mon Apr  3 22:43:31 2017) >>>> Mahaleel(4.62109375)-(Cainan@92.0+Cainan@114.3).0's result is 4.74053472694e-28
+(Mon Apr  3 22:43:31 2017) >>>> Replacing 84.
+(Mon Apr  3 22:43:31 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:31 2017) >>>> Trying 195 and 152
+(Mon Apr  3 22:43:32 2017) >>>> Methusaleh(7.570250511169434)-(Methusaleh@195.0+Jared@152.0).0's result is 0
+(Mon Apr  3 22:43:33 2017) >>>> Methusaleh(7.570250511169434)-(Methusaleh@195.0+Jared@152.0).0's result is 1.86988030657e-27
+(Mon Apr  3 22:43:33 2017) >>>> Replacing 110.
+(Mon Apr  3 22:43:33 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:33 2017) >>>> Trying 200 and 61
+(Mon Apr  3 22:43:33 2017) >>>> Lamech(8.195308685302734)-(Enoch@200.1+Methusaleh@61.2).0's result is 0
+(Mon Apr  3 22:43:34 2017) >>>> Lamech(8.195308685302734)-(Enoch@200.1+Methusaleh@61.2).0's result is 0
+(Mon Apr  3 22:43:35 2017) >>>> Lamech(8.195308685302734)-(Enoch@200.1+Methusaleh@61.2).0's result is 1.25630394769e-27
+(Mon Apr  3 22:43:35 2017) >>>> Replacing 53.
+(Mon Apr  3 22:43:35 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:35 2017) >>>> Trying 93 and 17
+(Mon Apr  3 22:43:36 2017) >>>> Enoch(6.757293701171875)-(Jared@93.0+Jared@17.7).0's result is 0
+(Mon Apr  3 22:43:37 2017) >>>> Enoch(6.757293701171875)-(Jared@93.0+Jared@17.7).0's result is 1.50701942632e-27
+(Mon Apr  3 22:43:37 2017) >>>> New address 202.
+(Mon Apr  3 22:43:37 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:37 2017) >>>> Trying 148 and 113
+(Mon Apr  3 22:43:38 2017) >>>> Enoch(6.4093017578125)-(Jared@148.5+Jared@113.1).0's result is 0
+(Mon Apr  3 22:43:39 2017) >>>> Enoch(6.4093017578125)-(Jared@148.5+Jared@113.1).0's result is 1.87650905685e-27
+(Mon Apr  3 22:43:39 2017) >>>> Replacing 74.
+(Mon Apr  3 22:43:39 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:39 2017) >>>> Trying 1 and 197
+(Mon Apr  3 22:43:40 2017) >>>> Methusaleh(7.052513122558594)-(Jared@1.6+Enoch@197.0).0's result is 0
+(Mon Apr  3 22:43:40 2017) >>>> Methusaleh(7.052513122558594)-(Jared@1.6+Enoch@197.0).0's result is 0
+(Mon Apr  3 22:43:41 2017) >>>> Methusaleh(7.052513122558594)-(Jared@1.6+Enoch@197.0).0's result is 2.07959925234e-27
+(Mon Apr  3 22:43:41 2017) >>>> New address 203.
+(Mon Apr  3 22:43:41 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:41 2017) >>>> Trying 126 and 201
+(Mon Apr  3 22:43:42 2017) >>>> Lamech(8.214367151260376)-(Enoch@126.1+Lamech@201.3).0's result is 2.71172589285e-27
+(Mon Apr  3 22:43:42 2017) >>>> Replacing 35.
+(Mon Apr  3 22:43:42 2017) >>>> Max fitness: 7.55370180351e-05.
+(Mon Apr  3 22:43:42 2017) >>>> Trying 101 and 13
+(Mon Apr  3 22:43:43 2017) >>>> Methusaleh(7.12481689453125)-(Jared@101.0+Enoch@13.1).0's result is 0

@@ -1,0 +1,7 @@
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.0's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.1's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.2's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.3's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.4's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.5's result is 0
+(Mon Apr  3 23:39:13 2017) >>>> Eve(0)-0.6's result is 0

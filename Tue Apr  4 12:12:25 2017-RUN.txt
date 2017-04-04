@@ -1,0 +1,246 @@
+(Tue Apr  4 12:14:35 2017) >>>> Trying 417 and 2432
+(Tue Apr  4 12:14:36 2017) >>>> Sala(13.726507417857647)-(Cainan@417.0+Sala@2432.1).0's result is 0
+(Tue Apr  4 12:14:37 2017) >>>> Sala(13.726507417857647)-(Cainan@417.0+Sala@2432.1).0's result is 0
+(Tue Apr  4 12:14:38 2017) >>>> Sala(13.726507417857647)-(Cainan@417.0+Sala@2432.1).0's result is 0
+(Tue Apr  4 12:14:38 2017) >>>> Trying 417 and 2369
+(Tue Apr  4 12:14:39 2017) >>>> Eber(14.261509723961353)-(Cainan@417.0+Eber@2369.0).0's result is 0
+(Tue Apr  4 12:14:40 2017) >>>> Eber(14.261509723961353)-(Cainan@417.0+Eber@2369.0).0's result is 0
+(Tue Apr  4 12:14:41 2017) >>>> Eber(14.261509723961353)-(Cainan@417.0+Eber@2369.0).0's result is 0
+(Tue Apr  4 12:14:41 2017) >>>> Trying 417 and 687
+(Tue Apr  4 12:14:42 2017) >>>> Arphaxad(11.851578079164028)-(Cainan@417.0+Noah@687.5).0's result is 0.06354217848314318
+(Tue Apr  4 12:14:42 2017) >>>> New address 2460.
+(Tue Apr  4 12:14:42 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:14:42 2017) >>>> Curr generation: [2901]
+(Tue Apr  4 12:14:42 2017) >>>> Trying 417 and 760
+(Tue Apr  4 12:14:43 2017) >>>> Sala(13.477177403867245)-(Cainan@417.0+Cainan@760.1).0's result is 0.034873364862536727
+(Tue Apr  4 12:14:43 2017) >>>> Replacing 2433.
+(Tue Apr  4 12:14:43 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:14:43 2017) >>>> Curr generation: [2902]
+(Tue Apr  4 12:14:43 2017) >>>> Trying 239 and 1124
+(Tue Apr  4 12:14:44 2017) >>>> Noah(9.017084836959839)-(Arphaxad@239.1+Mahaleel@1124.0).0's result is 0.05186174375935922
+(Tue Apr  4 12:14:44 2017) >>>> Replacing 1023.
+(Tue Apr  4 12:14:44 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:14:44 2017) >>>> Curr generation: [2903]
+(Tue Apr  4 12:14:44 2017) >>>> Trying 1336 and 995
+(Tue Apr  4 12:14:45 2017) >>>> Noah(9.17155647277832)-(Methusaleh@1336.1+Noah@995.4).0's result is 0
+(Tue Apr  4 12:14:45 2017) >>>> Noah(9.17155647277832)-(Methusaleh@1336.1+Noah@995.4).0's result is 0
+(Tue Apr  4 12:14:45 2017) >>>> Noah(9.17155647277832)-(Methusaleh@1336.1+Noah@995.4).0's result is 0
+(Tue Apr  4 12:14:45 2017) >>>> Trying 2133 and 1258
+(Tue Apr  4 12:14:46 2017) >>>> Arphaxad(11.32977643609047)-(Cainan@2133.1+Lamech@1258.0).0's result is 0
+(Tue Apr  4 12:14:47 2017) >>>> Arphaxad(11.32977643609047)-(Cainan@2133.1+Lamech@1258.0).0's result is 0
+(Tue Apr  4 12:14:48 2017) >>>> Arphaxad(11.32977643609047)-(Cainan@2133.1+Lamech@1258.0).0's result is 0
+(Tue Apr  4 12:14:48 2017) >>>> Trying 1361 and 1770
+(Tue Apr  4 12:14:50 2017) >>>> Shem(10.336004734039307)-(Noah@1361.6+Lamech@1770.6).0's result is 0
+(Tue Apr  4 12:14:51 2017) >>>> Shem(10.336004734039307)-(Noah@1361.6+Lamech@1770.6).0's result is 0.057326089515617136
+(Tue Apr  4 12:14:51 2017) >>>> Replacing 1905.
+(Tue Apr  4 12:14:51 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:14:51 2017) >>>> Curr generation: [2904]
+(Tue Apr  4 12:14:51 2017) >>>> Trying 417 and 1595
+(Tue Apr  4 12:14:52 2017) >>>> Cainan(12.42934163659811)-(Cainan@417.0+Shem@1595.11).0's result is 0
+(Tue Apr  4 12:14:53 2017) >>>> Cainan(12.42934163659811)-(Cainan@417.0+Shem@1595.11).0's result is 0
+(Tue Apr  4 12:14:54 2017) >>>> Cainan(12.42934163659811)-(Cainan@417.0+Shem@1595.11).0's result is 0
+(Tue Apr  4 12:14:54 2017) >>>> Trying 417 and 2023
+(Tue Apr  4 12:14:55 2017) >>>> Sala(13.026109777390957)-(Cainan@417.0+Arphaxad@2023.0).0's result is 0
+(Tue Apr  4 12:14:56 2017) >>>> Sala(13.026109777390957)-(Cainan@417.0+Arphaxad@2023.0).0's result is 0
+(Tue Apr  4 12:14:57 2017) >>>> Sala(13.026109777390957)-(Cainan@417.0+Arphaxad@2023.0).0's result is 0
+(Tue Apr  4 12:14:57 2017) >>>> Trying 417 and 2244
+(Tue Apr  4 12:14:58 2017) >>>> Eber(14.010685317218304)-(Cainan@417.0+Sala@2244.0).0's result is 0
+(Tue Apr  4 12:14:59 2017) >>>> Eber(14.010685317218304)-(Cainan@417.0+Sala@2244.0).0's result is 0
+(Tue Apr  4 12:15:00 2017) >>>> Eber(14.010685317218304)-(Cainan@417.0+Sala@2244.0).0's result is 0
+(Tue Apr  4 12:15:00 2017) >>>> Trying 417 and 2358
+(Tue Apr  4 12:15:00 2017) >>>> Eber(14.157645050436258)-(Cainan@417.0+Sala@2358.4).0's result is 0
+(Tue Apr  4 12:15:02 2017) >>>> Eber(14.157645050436258)-(Cainan@417.0+Sala@2358.4).0's result is 0.06288078825690442
+(Tue Apr  4 12:15:02 2017) >>>> New address 2461.
+(Tue Apr  4 12:15:02 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:02 2017) >>>> Curr generation: [2905]
+(Tue Apr  4 12:15:02 2017) >>>> Trying 975 and 1391
+(Tue Apr  4 12:15:03 2017) >>>> Arphaxad(11.105732440948486)-(Arphaxad@975.0+Noah@1391.0).0's result is 0
+(Tue Apr  4 12:15:04 2017) >>>> Arphaxad(11.105732440948486)-(Arphaxad@975.0+Noah@1391.0).0's result is 0
+(Tue Apr  4 12:15:04 2017) >>>> Arphaxad(11.105732440948486)-(Arphaxad@975.0+Noah@1391.0).0's result is 0
+(Tue Apr  4 12:15:04 2017) >>>> Trying 1106 and 295
+(Tue Apr  4 12:15:05 2017) >>>> Shem(10.073760986328125)-(Noah@1106.13+Lamech@295.4).0's result is 0
+(Tue Apr  4 12:15:06 2017) >>>> Shem(10.073760986328125)-(Noah@1106.13+Lamech@295.4).0's result is 0
+(Tue Apr  4 12:15:07 2017) >>>> Shem(10.073760986328125)-(Noah@1106.13+Lamech@295.4).0's result is 0.023291676144783877
+(Tue Apr  4 12:15:07 2017) >>>> New address 2462.
+(Tue Apr  4 12:15:07 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:07 2017) >>>> Curr generation: [2906]
+(Tue Apr  4 12:15:07 2017) >>>> Trying 2414 and 1079
+(Tue Apr  4 12:15:08 2017) >>>> Shem(10.751270711421967)-(Arphaxad@2414.1+Methusaleh@1079.1).0's result is 0.02889267401814108
+(Tue Apr  4 12:15:08 2017) >>>> New address 2463.
+(Tue Apr  4 12:15:08 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:08 2017) >>>> Curr generation: [2907]
+(Tue Apr  4 12:15:08 2017) >>>> Trying 1755 and 1858
+(Tue Apr  4 12:15:09 2017) >>>> Noah(9.776070594787598)-(Shem@1755.0+Enoch@1858.1).0's result is 0.054174194618799736
+(Tue Apr  4 12:15:09 2017) >>>> New address 2464.
+(Tue Apr  4 12:15:09 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:09 2017) >>>> Curr generation: [2908]
+(Tue Apr  4 12:15:09 2017) >>>> Trying 417 and 1469
+(Tue Apr  4 12:15:09 2017) >>>> Arphaxad(11.620800338685513)-(Cainan@417.0+Lamech@1469.0).0's result is 0
+(Tue Apr  4 12:15:10 2017) >>>> Arphaxad(11.620800338685513)-(Cainan@417.0+Lamech@1469.0).0's result is 0
+(Tue Apr  4 12:15:12 2017) >>>> Arphaxad(11.620800338685513)-(Cainan@417.0+Lamech@1469.0).0's result is 0
+(Tue Apr  4 12:15:12 2017) >>>> Trying 417 and 795
+(Tue Apr  4 12:15:13 2017) >>>> Cainan(12.289157472550869)-(Cainan@417.0+Shem@795.2).0's result is 0
+(Tue Apr  4 12:15:14 2017) >>>> Cainan(12.289157472550869)-(Cainan@417.0+Shem@795.2).0's result is 0
+(Tue Apr  4 12:15:15 2017) >>>> Cainan(12.289157472550869)-(Cainan@417.0+Shem@795.2).0's result is 0
+(Tue Apr  4 12:15:15 2017) >>>> Trying 417 and 1395
+(Tue Apr  4 12:15:15 2017) >>>> Cainan(12.857129894196987)-(Cainan@417.0+Arphaxad@1395.1).0's result is 0
+(Tue Apr  4 12:15:15 2017) >>>> Cainan(12.857129894196987)-(Cainan@417.0+Arphaxad@1395.1).0's result is 0
+(Tue Apr  4 12:15:16 2017) >>>> Cainan(12.857129894196987)-(Cainan@417.0+Arphaxad@1395.1).0's result is 0
+(Tue Apr  4 12:15:16 2017) >>>> Trying 417 and 229
+(Tue Apr  4 12:15:17 2017) >>>> Sala(13.223447553813457)-(Cainan@417.0+Arphaxad@229.0).0's result is 0.05023085431981098
+(Tue Apr  4 12:15:17 2017) >>>> New address 2465.
+(Tue Apr  4 12:15:17 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:17 2017) >>>> Curr generation: [2909]
+(Tue Apr  4 12:15:17 2017) >>>> Trying 417 and 1755
+(Tue Apr  4 12:15:18 2017) >>>> Cainan(12.69167073816061)-(Cainan@417.0+Shem@1755.0).0's result is 0
+(Tue Apr  4 12:15:20 2017) >>>> Cainan(12.69167073816061)-(Cainan@417.0+Shem@1755.0).0's result is 0
+(Tue Apr  4 12:15:21 2017) >>>> Cainan(12.69167073816061)-(Cainan@417.0+Shem@1755.0).0's result is 0
+(Tue Apr  4 12:15:21 2017) >>>> Trying 417 and 1207
+(Tue Apr  4 12:15:21 2017) >>>> Arphaxad(11.512035690248013)-(Cainan@417.0+Lamech@1207.0).0's result is 0
+(Tue Apr  4 12:15:22 2017) >>>> Arphaxad(11.512035690248013)-(Cainan@417.0+Lamech@1207.0).0's result is 0
+(Tue Apr  4 12:15:23 2017) >>>> Arphaxad(11.512035690248013)-(Cainan@417.0+Lamech@1207.0).0's result is 0
+(Tue Apr  4 12:15:23 2017) >>>> Trying 417 and 1813
+(Tue Apr  4 12:15:24 2017) >>>> Cainan(12.868520103394985)-(Cainan@417.0+Arphaxad@1813.0).0's result is 0
+(Tue Apr  4 12:15:26 2017) >>>> Cainan(12.868520103394985)-(Cainan@417.0+Arphaxad@1813.0).0's result is 0.06092927628053792
+(Tue Apr  4 12:15:26 2017) >>>> New address 2466.
+(Tue Apr  4 12:15:26 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:26 2017) >>>> Curr generation: [2910]
+(Tue Apr  4 12:15:26 2017) >>>> Trying 417 and 1750
+(Tue Apr  4 12:15:27 2017) >>>> Cainan(12.58315023034811)-(Cainan@417.0+Shem@1750.0).0's result is 0
+(Tue Apr  4 12:15:27 2017) >>>> Cainan(12.58315023034811)-(Cainan@417.0+Shem@1750.0).0's result is 0
+(Tue Apr  4 12:15:28 2017) >>>> Cainan(12.58315023034811)-(Cainan@417.0+Shem@1750.0).0's result is 0
+(Tue Apr  4 12:15:28 2017) >>>> Trying 417 and 2224
+(Tue Apr  4 12:15:29 2017) >>>> Sala(13.803192727267742)-(Cainan@417.0+Sala@2224.8).0's result is 0
+(Tue Apr  4 12:15:30 2017) >>>> Sala(13.803192727267742)-(Cainan@417.0+Sala@2224.8).0's result is 0
+(Tue Apr  4 12:15:31 2017) >>>> Sala(13.803192727267742)-(Cainan@417.0+Sala@2224.8).0's result is 0
+(Tue Apr  4 12:15:31 2017) >>>> Trying 417 and 1197
+(Tue Apr  4 12:15:32 2017) >>>> Shem(10.595409713685513)-(Cainan@417.0+Enoch@1197.0).0's result is 0
+(Tue Apr  4 12:15:32 2017) >>>> Shem(10.595409713685513)-(Cainan@417.0+Enoch@1197.0).0's result is 0
+(Tue Apr  4 12:15:32 2017) >>>> Shem(10.595409713685513)-(Cainan@417.0+Enoch@1197.0).0's result is 0
+(Tue Apr  4 12:15:32 2017) >>>> Trying 417 and 2121
+(Tue Apr  4 12:15:33 2017) >>>> Cainan(12.312561355531216)-(Cainan@417.0+Shem@2121.0).0's result is 0
+(Tue Apr  4 12:15:34 2017) >>>> Cainan(12.312561355531216)-(Cainan@417.0+Shem@2121.0).0's result is 0.06345985693065713
+(Tue Apr  4 12:15:34 2017) >>>> Replacing 2143.
+(Tue Apr  4 12:15:34 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:34 2017) >>>> Curr generation: [2911]
+(Tue Apr  4 12:15:34 2017) >>>> Trying 417 and 33
+(Tue Apr  4 12:15:35 2017) >>>> Sala(13.171349726617336)-(Cainan@417.0+Arphaxad@33.0).0's result is 0.06078988040462497
+(Tue Apr  4 12:15:35 2017) >>>> New address 2467.
+(Tue Apr  4 12:15:35 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:35 2017) >>>> Curr generation: [2912]
+(Tue Apr  4 12:15:35 2017) >>>> Trying 589 and 468
+(Tue Apr  4 12:15:37 2017) >>>> Arphaxad(11.225133895874023)-(Shem@589.2+Noah@468.0).0's result is 0.05795755520017026
+(Tue Apr  4 12:15:37 2017) >>>> Replacing 427.
+(Tue Apr  4 12:15:37 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:37 2017) >>>> Curr generation: [2913]
+(Tue Apr  4 12:15:37 2017) >>>> Trying 1618 and 1749
+(Tue Apr  4 12:15:38 2017) >>>> Noah(9.854336738586426)-(Shem@1618.0+Methusaleh@1749.4).0's result is 0.05573165920912513
+(Tue Apr  4 12:15:38 2017) >>>> New address 2468.
+(Tue Apr  4 12:15:38 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:38 2017) >>>> Curr generation: [2914]
+(Tue Apr  4 12:15:38 2017) >>>> Trying 1338 and 2292
+(Tue Apr  4 12:15:38 2017) >>>> Eber(14.015869580209255)-(Cainan@1338.0+Sala@2292.1).0's result is 0
+(Tue Apr  4 12:15:39 2017) >>>> Eber(14.015869580209255)-(Cainan@1338.0+Sala@2292.1).0's result is 0.060435734340993745
+(Tue Apr  4 12:15:39 2017) >>>> New address 2469.
+(Tue Apr  4 12:15:39 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:39 2017) >>>> Curr generation: [2915]
+(Tue Apr  4 12:15:39 2017) >>>> Trying 2060 and 776
+(Tue Apr  4 12:15:40 2017) >>>> Arphaxad(11.44279158115387)-(Arphaxad@2060.1+Lamech@776.23).0's result is 0.0600631278869721
+(Tue Apr  4 12:15:40 2017) >>>> Replacing 943.
+(Tue Apr  4 12:15:40 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:40 2017) >>>> Curr generation: [2916]
+(Tue Apr  4 12:15:40 2017) >>>> Trying 417 and 2256
+(Tue Apr  4 12:15:41 2017) >>>> Cainan(12.981657966971397)-(Cainan@417.0+Arphaxad@2256.63).0's result is 0.06359730579432162
+(Tue Apr  4 12:15:41 2017) >>>> New address 2470.
+(Tue Apr  4 12:15:41 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:41 2017) >>>> Curr generation: [2917]
+(Tue Apr  4 12:15:41 2017) >>>> Trying 417 and 1229
+(Tue Apr  4 12:15:42 2017) >>>> Arphaxad(11.760814987123013)-(Cainan@417.0+Noah@1229.0).0's result is 0
+(Tue Apr  4 12:15:43 2017) >>>> Arphaxad(11.760814987123013)-(Cainan@417.0+Noah@1229.0).0's result is 0
+(Tue Apr  4 12:15:44 2017) >>>> Arphaxad(11.760814987123013)-(Cainan@417.0+Noah@1229.0).0's result is 0
+(Tue Apr  4 12:15:44 2017) >>>> Trying 417 and 727
+(Tue Apr  4 12:15:45 2017) >>>> Shem(10.242992721498013)-(Cainan@417.0+Enoch@727.2).0's result is 0
+(Tue Apr  4 12:15:45 2017) >>>> Shem(10.242992721498013)-(Cainan@417.0+Enoch@727.2).0's result is 0
+(Tue Apr  4 12:15:45 2017) >>>> Shem(10.242992721498013)-(Cainan@417.0+Enoch@727.2).0's result is 0
+(Tue Apr  4 12:15:45 2017) >>>> Trying 417 and 2084
+(Tue Apr  4 12:15:46 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:15:46 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:15:46 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:15:46 2017) >>>> Trying 417 and 2372
+(Tue Apr  4 12:15:47 2017) >>>> Sala(13.564329627901316)-(Cainan@417.0+Cainan@2372.11).0's result is 0
+(Tue Apr  4 12:15:48 2017) >>>> Sala(13.564329627901316)-(Cainan@417.0+Cainan@2372.11).0's result is 0
+(Tue Apr  4 12:15:49 2017) >>>> Sala(13.564329627901316)-(Cainan@417.0+Cainan@2372.11).0's result is 0
+(Tue Apr  4 12:15:49 2017) >>>> Trying 417 and 1721
+(Tue Apr  4 12:15:50 2017) >>>> Cainan(12.524814926087856)-(Cainan@417.0+Shem@1721.0).0's result is 0
+(Tue Apr  4 12:15:51 2017) >>>> Cainan(12.524814926087856)-(Cainan@417.0+Shem@1721.0).0's result is 0.022996108478138988
+(Tue Apr  4 12:15:51 2017) >>>> New address 2471.
+(Tue Apr  4 12:15:51 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:51 2017) >>>> Curr generation: [2918]
+(Tue Apr  4 12:15:51 2017) >>>> Trying 1230 and 1976
+(Tue Apr  4 12:15:52 2017) >>>> Sala(13.30064632743597)-(Cainan@1230.9+Cainan@1976.15).0's result is 0
+(Tue Apr  4 12:15:53 2017) >>>> Sala(13.30064632743597)-(Cainan@1230.9+Cainan@1976.15).0's result is 0
+(Tue Apr  4 12:15:54 2017) >>>> Sala(13.30064632743597)-(Cainan@1230.9+Cainan@1976.15).0's result is 0
+(Tue Apr  4 12:15:54 2017) >>>> Trying 1762 and 2035
+(Tue Apr  4 12:15:56 2017) >>>> Arphaxad(11.222227096557617)-(Noah@1762.10+Shem@2035.1).0's result is 0.049350034521471055
+(Tue Apr  4 12:15:56 2017) >>>> New address 2472.
+(Tue Apr  4 12:15:56 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:56 2017) >>>> Curr generation: [2919]
+(Tue Apr  4 12:15:56 2017) >>>> Trying 1979 and 984
+(Tue Apr  4 12:15:56 2017) >>>> Arphaxad(11.947078347206116)-(Sala@1979.0+Lamech@984.2).0's result is 0
+(Tue Apr  4 12:15:57 2017) >>>> Arphaxad(11.947078347206116)-(Sala@1979.0+Lamech@984.2).0's result is 0.03126525756609798
+(Tue Apr  4 12:15:57 2017) >>>> Replacing 2076.
+(Tue Apr  4 12:15:57 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:57 2017) >>>> Curr generation: [2920]
+(Tue Apr  4 12:15:57 2017) >>>> Trying 353 and 1523
+(Tue Apr  4 12:15:58 2017) >>>> Cainan(12.54287052154541)-(Arphaxad@353.6+Arphaxad@1523.0).0's result is 0.05981822970503559
+(Tue Apr  4 12:15:58 2017) >>>> New address 2473.
+(Tue Apr  4 12:15:58 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:58 2017) >>>> Curr generation: [2921]
+(Tue Apr  4 12:15:58 2017) >>>> Trying 684 and 1461
+(Tue Apr  4 12:15:59 2017) >>>> Shem(10.00543212890625)-(Noah@684.1+Lamech@1461.0).0's result is 0.05023275556266492
+(Tue Apr  4 12:15:59 2017) >>>> Replacing 438.
+(Tue Apr  4 12:15:59 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:15:59 2017) >>>> Curr generation: [2922]
+(Tue Apr  4 12:15:59 2017) >>>> Trying 417 and 1473
+(Tue Apr  4 12:16:00 2017) >>>> Sala(13.030124984681606)-(Cainan@417.0+Arphaxad@1473.1).0's result is 0.06351512776466034
+(Tue Apr  4 12:16:00 2017) >>>> Replacing 122.
+(Tue Apr  4 12:16:00 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:16:00 2017) >>>> Curr generation: [2923]
+(Tue Apr  4 12:16:00 2017) >>>> Trying 417 and 2162
+(Tue Apr  4 12:16:01 2017) >>>> Sala(13.208630554378033)-(Cainan@417.0+Arphaxad@2162.0).0's result is 0.06352476982760397
+(Tue Apr  4 12:16:01 2017) >>>> Replacing 1009.
+(Tue Apr  4 12:16:01 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:16:01 2017) >>>> Curr generation: [2924]
+(Tue Apr  4 12:16:01 2017) >>>> Trying 1435 and 2089
+(Tue Apr  4 12:16:02 2017) >>>> Arphaxad(11.624433517456055)-(Shem@1435.0+Shem@2089.4).0's result is 0
+(Tue Apr  4 12:16:03 2017) >>>> Arphaxad(11.624433517456055)-(Shem@1435.0+Shem@2089.4).0's result is 0.058606231040812584
+(Tue Apr  4 12:16:03 2017) >>>> Replacing 2263.
+(Tue Apr  4 12:16:03 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:16:03 2017) >>>> Curr generation: [2925]
+(Tue Apr  4 12:16:03 2017) >>>> Trying 417 and 2084
+(Tue Apr  4 12:16:03 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:16:03 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:16:04 2017) >>>> Arphaxad(11.733799062669277)-(Cainan@417.0+Noah@2084.6).0's result is 0
+(Tue Apr  4 12:16:04 2017) >>>> Trying 417 and 2259
+(Tue Apr  4 12:16:06 2017) >>>> Sala(13.378460012376308)-(Cainan@417.0+Cainan@2259.6).0's result is 0.0634646276578431
+(Tue Apr  4 12:16:06 2017) >>>> New address 2474.
+(Tue Apr  4 12:16:06 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:16:06 2017) >>>> Curr generation: [2926]
+(Tue Apr  4 12:16:06 2017) >>>> Trying 1451 and 2457
+(Tue Apr  4 12:16:07 2017) >>>> Cainan(12.021978199481964)-(Cainan@1451.2+Shem@2457.2).0's result is 0.0597818529619842
+(Tue Apr  4 12:16:07 2017) >>>> New address 2475.
+(Tue Apr  4 12:16:07 2017) >>>> Max fitness: 1.0637250885735523.
+(Tue Apr  4 12:16:07 2017) >>>> Curr generation: [2927]
+(Tue Apr  4 12:16:07 2017) >>>> Trying 1789 and 1040
+(Tue Apr  4 12:16:07 2017) >>>> Shem(10.849458694458008)-(Noah@1789.10+Noah@1040.9).0's result is 0
+(Tue Apr  4 12:16:08 2017) >>>> Shem(10.849458694458008)-(Noah@1789.10+Noah@1040.9).0's result is 0
+(Tue Apr  4 12:16:09 2017) >>>> Shem(10.849458694458008)-(Noah@1789.10+Noah@1040.9).0's result is 0
+(Tue Apr  4 12:16:09 2017) >>>> Trying 799 and 969
+(Tue Apr  4 12:16:09 2017) >>>> Shem(10.208120584487915)-(Lamech@799.12+Noah@969.14).0's result is 0
+(Tue Apr  4 12:16:09 2017) >>>> Shem(10.208120584487915)-(Lamech@799.12+Noah@969.14).0's result is 0
+(Tue Apr  4 12:16:10 2017) >>>> Shem(10.208120584487915)-(Lamech@799.12+Noah@969.14).0's result is 0
+(Tue Apr  4 12:16:10 2017) >>>> Trying 2449 and 1424
+(Tue Apr  4 12:16:11 2017) >>>> Arphaxad(11.609854143112898)-(Cainan@2449.1+Lamech@1424.2).0's result is 0
+(Tue Apr  4 12:16:11 2017) >>>> Arphaxad(11.609854143112898)-(Cainan@2449.1+Lamech@1424.2).0's result is 0
+(Tue Apr  4 12:16:12 2017) >>>> Arphaxad(11.609854143112898)-(Cainan@2449.1+Lamech@1424.2).0's result is 0
+(Tue Apr  4 12:16:12 2017) >>>> Trying 1594 and 2276

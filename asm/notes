@@ -1,0 +1,6 @@
+ARGUMENTS IN:
+%rdi, %rsi, %rdx, %rcx, %r8, %r9
+RETURNS:
+%rax, %rdx
+PRESERVED:
+%rbx (Base Pointer sometimes), %rsp, %rbp (? Frame Pointer), %r12-16, x87 CW

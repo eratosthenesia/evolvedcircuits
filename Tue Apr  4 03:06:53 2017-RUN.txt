@@ -1,0 +1,17 @@
+(Tue Apr  4 03:06:53 2017) >>>> Eve(0)-0.0's result is 0
+(Tue Apr  4 03:06:53 2017) >>>> Eve(0)-0.1's result is 0
+(Tue Apr  4 03:06:53 2017) >>>> Eve(0)-0.2's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.3's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.4's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.5's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.6's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.7's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.8's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.9's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.10's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.11's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.12's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.13's result is 0
+(Tue Apr  4 03:06:54 2017) >>>> Eve(0)-0.14's result is 0
+(Tue Apr  4 03:06:55 2017) >>>> Eve(0)-0.15's result is 0
+(Tue Apr  4 03:06:55 2017) >>>> Eve(0)-0.16's result is 0
