@@ -44,19 +44,19 @@ numSeedAddNodesMin = 3
 numSeedAddNodesMax = 6
 grimReaperNotice = '                              __________\n                           .~#########%%;~.\n                          /############%%;`\\\n                         /######/~\\/~\\%%;,;,\\\n                        |#######\\    /;;;;.,.|\n                        |#########\\/%;;;;;.,.|\n               XX       |##/~~\\####%;;;/~~\\;,|       XX\n             XX..X      |#|  o  \\##%;/  o  |.|      X..XX\n           XX.....X     |##\\____/##%;\\____/.,|     X.....XX\n      XXXXX.....XX      \\#########/\\;;;;;;,, /      XX.....XXXXX\n     X |......XX%,.@      \\######/%;\\;;;;, /      @#%,XX......| X\n     X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X\n     X  \\...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X\n      X# \\.X        @#%,.@                  @#%,.@        X./  #\n       ##  X          @#%,.@              @#%,.@          X   #\n     , "# #X            @#%,.@          @#%,.@            X ##\n        `###X             @#%,.@      @#%,.@             ####\'\n       . \' ###              @#%.,@  @#%,.@              ###`"\n         . ";"                @#%.@#%,.@                ;"` \' .\n           \'                    @#%,.@                   ,.\n           ` ,                @#%,.@  @@                `\n                               @@@  @@@  \n\n                e88\'Y88  888 88e  888     e   e     \n               d888  \'Y  888 888D 888    d8b d8b    \n              C8888 eeee 888 88"  888   e Y8b Y8b   \n               Y888 888P 888 b,   888  d8b Y8b Y8b  \n                "88 88"  888 88b, 888 d888b Y8b Y8b                       \n                                      \n888 88e  888\'Y88     e Y8b     888 88e  888\'Y88 888 88e  888 888 888 \n888 888D 888 ,\'Y    d8b Y8b    888 888D 888 ,\'Y 888 888D 888 888 888 \n888 88"  888C8     d888b Y8b   888 88"  888C8   888 88"  "8" "8" "8" \n888 b,   888 ",d  d888888888b  888      888 ",d 888 b,    e   e   e  \n888 88b, 888,d88 d8888888b Y8b 888      888,d88 888 88b, "8" "8" "8" \''
 
-generationNames = [['Adam'],['Seth'],['Enos'],['Cainan'],['Mahaleel'],['Jared'],\
-['Enoch'],['Methusaleh'],['Lamech'],['Noah'],['Shem'],['Arphaxad'],['Cainan'],['Sala'],\
-['Eber'],['Peleg'],['Ragau'],['Saruch'],['Nahor'],['Terah'],['Abraham'],['Isaac'],\
-['Jacob'],['Juda'],['Pharez'],['Esrom'],['Aram'],['Amminadab'],['Naason'],['Salmon'],\
-['Boaz'],['Obed'],['Jesse'],['David'],['Solomon'],['Rehoboam'],['Abia'],['Asa'],\
-['Josophat'],['Joram'],['Ozias'],['Joatham'],['Achaz'],['Ezekias'],['Manasses'],\
-['Amon'],['Josias'],['Jehoikim'],['Jechonias'],['Salathiel'],['Zerubbabel'],['Rhesa'],\
-['Joanna'],['Juda'],['Joseph'],['Semei'],['Mattathias '],['Maath'],['Nagge'],['Esli'],\
-['Nahum'],['Amos'],['Mattathias'],['Joseph'],['Janna'],['Melchi'],['Levi'],['Matthat'],\
-['Heli'],['Mary '],['Jesus']];
+generationNames = [['Adam'], ['Seth'], ['Enos'], ['Cainan'], ['Mahaleel'], ['Jared'],\
+['Enoch'], ['Methusaleh'], ['Lamech'], ['Noah'], ['Shem'], ['Arphaxad'], ['Cainan'], ['Sala'],\
+['Eber'], ['Peleg'], ['Ragau'], ['Saruch'], ['Nahor'], ['Terah'], ['Abraham'], ['Isaac'],\
+['Jacob'], ['Juda'], ['Pharez'], ['Esrom'], ['Aram'], ['Amminadab'], ['Naason'], ['Salmon'],\
+['Boaz'], ['Obed'], ['Jesse'], ['David'], ['Solomon'], ['Rehoboam'], ['Abia'], ['Asa'],\
+['Josophat'], ['Joram'], ['Ozias'], ['Joatham'], ['Achaz'], ['Ezekias'], ['Manasses'],\
+['Amon'], ['Josias'], ['Jehoikim'], ['Jechonias'], ['Salathiel'], ['Zerubbabel'], ['Rhesa'],\
+['Joanna'], ['Juda'], ['Joseph'], ['Semei'], ['Mattathias '], ['Maath'], ['Nagge'], ['Esli'],\
+['Nahum'], ['Amos'], ['Mattathias'], ['Joseph'], ['Janna'], ['Melchi'], ['Levi'], ['Matthat'],\
+['Heli'], ['Mary '], ['Jesus']];
 
 # Calculates f(SUM(i=0->n) (xs(n)-ys(n))^2)
-def funcCartesianDistance(xs, ys, bias=1e-16, func=lambda x:1/x):
+  def funcCartesianDistance(xs, ys, bias=1e6, func=lambda x:1/x):
   s = bias
   s += sum([(lambda x:abs(x*x))((lambda w,q:w-q)(*z)) for z in itertools.zip_longest(xs,ys)])
   return func(s)
@@ -1182,44 +1182,22 @@ class ISource(ElectricEdge):
 
 mainOutput = open("%s-RUN.txt" % time.ctime(), "a")
 
-# def main():
-#   # ew = ElectricWorld(1000)
+def main():
+  ew = electricWorld(1000)
+  ewList = sorted([int(f[2:len(f)-2]) for f in os.listdir('.') if os.path.isfile(os.path.join('.', f)) and re.match('ew\d+.p', f)])
+  if len(ewList) < 2:
+    if len(ewList) == 1:
+      n = 2 if ewList[0] == 1 else 1
+    else:
+      n = 1
+  else:
+    for i in range(0, len(ewList) - 1):
+      if ewList[i+1] - ewList[i] > 1:
+        n = ewList[i] + 1
+  pickle.dump(ew, open("ew%d.p" % n, "wb"))
+# 
+  with open("ew%d.txt","w") as f:
+    f.write(time.ctime())
 
-#   # for i in range(0,len(ew.population)):
-#   #   p = ElectricCircuit(ew)
-#   #   p.copy(ew.population[i])
-#   #   ew.population[i] = p
-
-#   # for i in range(0,len(ew.population)):
-#   #   ew.population[i.].address = i
-
-#   ewList = sorted([int(f[2:len(f)-2]) for f in os.listdir('.') if os.path.isfile(os.path.join('.', f)) and re.match('ew\d+.p', f)])
-#   if len(ewList) < 2:
-#     if len(ewList) == 1:
-#       n = 2 if ewList[0] == 1 else 1
-#     else:
-#       n = 1
-#   else:
-#     for i in range(0, len(ewList) - 1):
-#       if ewList[i+1] - ewList[i] > 1:
-#         n = ewList[i] + 1
-#   pickle.dump(ew, open("ew%d.p" % n, "wb"))
-
-#   with open("ew%d.txt","w") as f:
-#     f.write(time.ctime())
-
-if True:
-  n = 25
-  ew = pickle.load(open("ew25-3100.p", "rb"))
-  for i in range(0, len(ew.population)):
-    ew.fitnesses[i] -= 1
-  ew.maxFitness -= 1
-  for i in range(3100, 10000, 100):
-    ew[i]
-    try:
-      pickle.dump(ew, open("ew%d-%d.p" % (n, i), "wb"))
-    except:
-      pass
-
-# if __name__ == "__main__":
-#   main()
+if __name__ == "__main__":
+  main()
