@@ -1,9 +1,0 @@
-#include <unistd.h>
-#include <fcntl.h>
-#include <stdio.h>
-
-int main()
-{
-  printf("%d %d\n", S_IRUSR|S_IWUSR|S_IRGRP|S_IWGRP,300);
-  return 0;
-}
