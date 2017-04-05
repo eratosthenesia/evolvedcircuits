@@ -56,7 +56,7 @@ generationNames = [['Adam'], ['Seth'], ['Enos'], ['Cainan'], ['Mahaleel'], ['Jar
 ['Heli'], ['Mary '], ['Jesus']];
 
 # Calculates f(SUM(i=0->n) (xs(n)-ys(n))^2)
-  def funcCartesianDistance(xs, ys, bias=1e6, func=lambda x:1/x):
+def funcCartesianDistance(xs, ys, bias=1e6, func=lambda x:1/x):
   s = bias
   s += sum([(lambda x:abs(x*x))((lambda w,q:w-q)(*z)) for z in itertools.zip_longest(xs,ys)])
   return func(s)
