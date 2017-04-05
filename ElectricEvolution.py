@@ -56,7 +56,7 @@ generationNames = [['Adam'], ['Seth'], ['Enos'], ['Cainan'], ['Mahaleel'], ['Jar
 ['Heli'], ['Mary '], ['Jesus']];
 
 # Calculates f(SUM(i=0->n) (xs(n)-ys(n))^2)
-def funcCartesianDistance(xs, ys, bias=1e6, func=lambda x:1/x):
+  def funcCartesianDistance(xs, ys, bias=1e6, func=lambda x:1/x):
   s = bias
   s += sum([(lambda x:abs(x*x))((lambda w,q:w-q)(*z)) for z in itertools.zip_longest(xs,ys)])
   return func(s)
@@ -1183,7 +1183,7 @@ class ISource(ElectricEdge):
 mainOutput = open("%s-RUN.txt" % time.ctime(), "a")
 
 def main():
-  ew = electricWorld(1000)
+  ew = ElectricWorld(1000)
   ewList = sorted([int(f[2:len(f)-2]) for f in os.listdir('.') if os.path.isfile(os.path.join('.', f)) and re.match('ew\d+.p', f)])
   if len(ewList) < 2:
     if len(ewList) == 1:
